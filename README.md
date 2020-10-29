@@ -17,4 +17,19 @@
 ![php](./images/php.jpg)
 
 ## ¿Que es PHP? 💻
+
 PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
+
+## Cualidades
+
+- Desarrollo de web dinamico
+- No tiene costo
+- Multiplataforma
+- Servicio Automatizado
+
+## Desarrollo Web
+
+| Lado deel Cliente                                            |     Lado del Servidor            |  
+|--------------------------------------------------------------|:--------------------------------:|
+| Pyhton Tkinter Add ZipCode                                   |Pyhton Tkinter Add ZipCode        |    
+| Python Tkinter Add Input Boxes For Our CRM Tool              |Pyhton Tkinter Add ZipCode        |       
