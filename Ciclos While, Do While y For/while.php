@@ -3,6 +3,7 @@
 
 <?php
 
+ //WIHILE
 $numero  = 1;
 
 while ($numero <=10) {
