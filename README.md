@@ -35,3 +35,6 @@ PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de códi
 | CSS                                                          |PHP                               | 
 | JAVASCRIPTS                                                  |PHP                               |       
 
+## SERVIDORES
+
+![php](./images/xamp.jpg)
