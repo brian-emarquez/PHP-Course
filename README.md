@@ -29,7 +29,9 @@ PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de códi
 
 ## Desarrollo Web
 
-| Lado deel Cliente                                            |     Lado del Servidor            |  
+| LADO DEL CLIENTE                                             |     LADO DEL SERVIDOR            |  
 |--------------------------------------------------------------|:--------------------------------:|
-| Pyhton Tkinter Add ZipCode                                   |Pyhton Tkinter Add ZipCode        |    
-| Python Tkinter Add Input Boxes For Our CRM Tool              |Pyhton Tkinter Add ZipCode        |       
+| HTML                                                         |PHP                               |    
+| CSS                                                          |PHP                               | 
+| JAVASCRIPTS                                                  |PHP                               |       
+
