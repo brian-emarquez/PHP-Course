@@ -2,7 +2,7 @@
 
 <?php
 
-//define una variablee dato constante
+//define una variablee dato constante, no puede cambiar
 define ('curso', 'php');
 echo curso;
 
