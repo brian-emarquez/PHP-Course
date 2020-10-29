@@ -15,5 +15,4 @@ echo "<br>";
 // Contar nuero de elentos en un Array
 echo count ($cursos);
 echo "<br>";
-
 ?>
