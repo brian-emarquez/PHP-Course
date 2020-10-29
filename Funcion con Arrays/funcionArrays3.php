@@ -4,10 +4,11 @@
 // Funcion con Arrays 3
 
 $amigos = array('jose<br>', 'maria<br>', 'raul<br>', 'sara<br>', 'pedro<br>', 'camila<br>', 'brian<br>', );
+$compañeros = array('sergio<br>', 'hugo<br>', 'carla<br>', 'elias<br>');
 
-//divide y eliminar el segundo array
-// array_slice :  eminar la cantida de elemnos necesario en un arrayS
-$funcion = array_slice($amigos, 4); // apartir se elimina las pumera pociciones del array
+
+//combina lo arrays
+$funcion = array_merge($amigos, $compañeros); // apartir se elimina las pumera pociciones del array
 print_r($funcion);
 
 
