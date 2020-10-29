@@ -1,4 +1,5 @@
 <!-- Hola Mundo -->
 <?php
-    print "hola mundo";
+    // print "hola mundo";
+    echo "hola mundo", "hola php";
 ?>
