@@ -1,7 +1,7 @@
-<!-- Funcion con Arrays 2 -->
+<!-- Funcion con Arrays 3 -->
 
 <?php
-// Funcion con Arrays
+// Funcion con Arrays 3
 
 $amigos = array('jose<br>', 'maria<br>', 'raul<br>', 'sara<br>', 'pedro<br>', 'camila<br>', 'brian<br>', );
 
