@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/stars/BrianMarquez3/PHP-Course.svg?style=flat" alt="Stars">
   </a>
   <a href="https://github.com/BrianMarquez3/PHP-Course/network">
-    <img src="https://img.shields.io/github/forks/BrianMarquez3PHP-Course.svg?style=flat" alt="Forks">
+    <img src="https://img.shields.io/github/forks/BrianMarquez3/PHP-Course.svg?style=flat" alt="Forks">
   </a>  
 </p>
   
