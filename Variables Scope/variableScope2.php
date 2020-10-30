@@ -1,13 +1,16 @@
 <!-- Variables SCOPE-->
 <?php
 
+$edad = 22;
+
+//variable global
 function estudiante(){
-    $edad = 22;
-    return $edad;
-    
+    global $edad;
+    $edad = 24;
+    echo $edad;
 }
 
-echo estudiante();
+estudiante();
 
 
 ?>
