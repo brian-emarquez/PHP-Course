@@ -1,0 +1,10 @@
+// Override variables
+$body-bg: #fff;
+$body-color: lighten(#2c2e31, 34%);
+$blue: #007eff;
+$yellow: #fff568;
+$primary: $blue;
+$font-family-sans-serif: 'Source Sans Pro', sans-serif;
+
+// Required
+@import "../bs4/scss/bootstrap";
