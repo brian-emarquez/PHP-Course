@@ -39,3 +39,8 @@ PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de códi
 
 ![php](./images/xamp.jpg)
 
+## La Web Dinamica
+ 
+- Una Página web dinámica genera su contenido según la petición de un usuario o contexto de la misma.
+- Todo desde la programación (con las estructura y funciones del lenguaje)
+- La Información accedida puede administrarse desde una base de datos.
