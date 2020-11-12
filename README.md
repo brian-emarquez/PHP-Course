@@ -67,5 +67,16 @@ _Paquetes instaladores servidores_
 ## Post-Instalacion
 
 `WAMPP` C:\wamp\htdocs  <br>
+`XAMPP` C:\xampp\htdocs  <br>
 `ZWAMP` /drive/web <br>
 `MAMP` /Applications/MAMO/htdocs <br>
+`LINUX` /var\www/html  <br>
+
+## Entorno de Desarrollo
+
+* Visual Studio Code
+* Sublime Text
+* Brackets
+* Notepad++
+* Dreamweaver
+* TextMate
