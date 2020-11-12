@@ -66,6 +66,6 @@ _Paquetes instaladores servidores_
 
 ## Post-Instalacion
 
-[`WAMPP`] C:\wamp\htdocs (https://github.com/BrianMarquez3/PHP-Course) <br>
-[`ZWAMP`] /drive/web (https://github.com/BrianMarquez3/PHP-Course) <br>
-[`MAMP`] /Applications/MAMO/htdocs (https://github.com/BrianMarquez3/PHP-Course) <br>
+`WAMPP` C:\wamp\htdocs  <br>
+`ZWAMP` /drive/web <br>
+`MAMP` /Applications/MAMO/htdocs <br>
