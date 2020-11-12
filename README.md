@@ -63,3 +63,9 @@ _Paquetes instaladores servidores_
 * [ZWAMP (Portable oficial, Windows)](https://sourceforge.net/projects/zwamp/) - Un paquete de servidor web ligero de instalación cero que se ejecuta en Windows. El proyecto tiene como objetivo proporcionar las últimas versiones de producción / estables de Apache, MySQL, PHP, Adminer, MongoDB, MemCached, SQLite, eAccelerator y Alternative PHP Cache (APC) para impulsar el rendimiento del servidor.
 * [ZWAMP alterado (No oficial)](https://github.com/BrianMarquez3/PHP-Course/blob/main/Resource/zwamp%20portable.rar) - Un paquete Portable Modificado
 
+
+## Post-Instalacion
+
+[`WAMPP`] C:\wamp\htdocs (https://github.com/BrianMarquez3/PHP-Course) <br>
+[`ZWAMP`] /drive/web (https://github.com/BrianMarquez3/PHP-Course) <br>
+[`MAMP`] /Applications/MAMO/htdocs (https://github.com/BrianMarquez3/PHP-Course) <br>
