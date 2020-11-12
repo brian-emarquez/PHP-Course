@@ -83,11 +83,18 @@ _Paquetes instaladores servidores_
 
 ##  Codigo
 
+
+_Apertura nativa de PHP_
 ```
 <?php
-
-CODIGO PHP
-
+  CODIGO PHP
 ?>
+```
 
+_Apertura corta_
+
+```
+<?
+  CODIGO PHP
+?>
 ```

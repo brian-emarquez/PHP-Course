@@ -40,6 +40,11 @@
 	
 	<main>
 		<h1>Homepage</h1>
+
+		<?php
+			phpinfo();
+		?>
+
 		<section id="posts">
 			<h2>Últimos Posts</h2>
 			<ul>
