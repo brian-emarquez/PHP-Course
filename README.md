@@ -21,7 +21,7 @@
 PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
 
 * [PHP](https://www.php.net/downloads.php)
-* [MYSQL](https://www.mysql.com/downloads/)
+* [MYSQL](https://www.mysql.com/downloads)
 
 ## Cualidades
 
@@ -56,10 +56,16 @@ _Paquetes instaladores servidores_
 * [MAMP](https://www.mamp.info/en/downloads/) - MAMP instala un entorno de servidor local en cuestión de segundos en su computadora Windows o macOS. MAMP es gratuito y se instala fácilmente.
 * [XAMP](https://www.apachefriends.org/download.html) - XAMPP es una distribución de Apache fácil de instalar que contiene MariaDB, PHP y Perl. Simplemente descargue e inicie el instalador. Es fácil.
 
-![php](./images/xamp1.jpg)
+![php](./images/xamp1.png)
 
 ## Servidor portable
 
 * [ZWAMP (Portable oficial, Windows)](https://sourceforge.net/projects/zwamp/) - Un paquete de servidor web ligero de instalación cero que se ejecuta en Windows. El proyecto tiene como objetivo proporcionar las últimas versiones de producción / estables de Apache, MySQL, PHP, Adminer, MongoDB, MemCached, SQLite, eAccelerator y Alternative PHP Cache (APC) para impulsar el rendimiento del servidor.
+<<<<<<< HEAD
 * [ZWAMP alterado (No oficial)](https://github.com/BrianMarquez3/PHP-Course/blob/main/Resources/zwamp%20portable.rar/) - Un paquete Portable Modificado
+=======
+* [ZWAMP alterado (No oficial)](https://github.com/BrianMarquez3/PHP-Course/tree/main/Resources) - Un paquete Portable Modificado
+
+
+>>>>>>> 599463ea3e27d817debf2491c22d735aa71cc523
 
