@@ -91,10 +91,11 @@ _Apertura nativa de PHP_
 ?>
 ```
 
-_Apertura corta_
+_Apertura corta (poco segura)_
 
 ```
 <?
   CODIGO PHP
 ?>
 ```
+
