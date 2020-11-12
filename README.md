@@ -21,7 +21,7 @@
 PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
 
 * [PHP](https://www.php.net/downloads.php)
-* [MYSQL](https://www.mysql.com/downloads/)
+* [MYSQL](https://www.mysql.com/downloads)
 
 ## Cualidades
 
@@ -61,8 +61,7 @@ _Paquetes instaladores servidores_
 ## Servidor portable
 
 * [ZWAMP (Portable oficial, Windows)](https://sourceforge.net/projects/zwamp/) - Un paquete de servidor web ligero de instalación cero que se ejecuta en Windows. El proyecto tiene como objetivo proporcionar las últimas versiones de producción / estables de Apache, MySQL, PHP, Adminer, MongoDB, MemCached, SQLite, eAccelerator y Alternative PHP Cache (APC) para impulsar el rendimiento del servidor.
-* [ZWAMP alterado (No oficial)](https://raw.githubusercontent.com/PHP-Course/Resources/zwampportable.rar) - Un paquete Portable Modificado
+* [ZWAMP alterado (No oficial)]("https://drive.google.com/file/d/1FE1O0nf9sYRYg7jIHbMue4K-12sCGj6G/view") - Un paquete Portable Modificado
 
-<!--📦 [Install .EXE ](https://raw.githubusercontent.com/C-Plus-Plus-Course/Instalador/master/Instalador.msi) Graphic Basic Calculator.<br>
 
 
