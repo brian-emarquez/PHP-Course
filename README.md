@@ -78,5 +78,16 @@ _Paquetes instaladores servidores_
 * Sublime Text
 * Brackets
 * Notepad++
-* Dreamweaver
+* DreamWeaver
 * TextMate
+
+##  Codigo
+
+```
+<?php
+
+CODIGO PHP
+
+?>
+
+```
