@@ -10,3 +10,5 @@
 ## VAR_DUMP()
 
 la Duncion var_dump(), recibe entre parentesis una variable y permite mostrar toda la anatomia de la misma (tipo de varlor, valor y largo)
+
+    - Usado para depuracion de codigo
