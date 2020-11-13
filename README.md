@@ -106,3 +106,8 @@ _Apertura corta (poco segura)_
 - Cualquier Srting o que no esté "encomilado " PHP tratára de evauarlo como 
     - Una Palabre reservada del lenguaje
     - Una constante (aunque no se encuntre en mayúscula)
+
+## Heredoc
+
+- Heredoc es una manera "Alternativa" de delimitar y finalizar de un string.
+
