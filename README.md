@@ -115,5 +115,9 @@ _Apertura corta (poco segura)_
 
 - Junto a los <<< viene una secuencia de caracteres delimitadores a tu eleccion
 
+## Niveles de Error
 
-
+* E_ERROR : Error grave (fatal error)
+* E_WARNING: Error leve (non-fatal error)
+* E_PARSE: Error sintactico o de parseo
+* E NOTICE: Avisos de Interprete de PHP 
