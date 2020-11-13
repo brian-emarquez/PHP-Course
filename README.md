@@ -99,3 +99,9 @@ _Apertura corta (poco segura)_
 ?>
 ```
 
+## Cadenas de texto
+
+- Toda cadena de texto debe mostrarse en trer comilllas (sean dobles o simples)
+
+- Cualquier Srting o que no esté "encomilado " PHP tratára de evauarlo como 
+    - Una Palabre reservada del lenguaje
