@@ -11,5 +11,8 @@
 
 Partiendo de valores de cualquier tipo , nos devolverá un resultado de tipo <b>Booleano</b>
 
--   Mayor que: >
--   Menor que: <
+✨   Mayor que: >
+✨   Menor que: <
+✨   Mayor o Igual que: >=
+✨   Menor o igual que: <=
+✨   Comparacion: ==
