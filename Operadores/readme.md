@@ -16,3 +16,4 @@ Partiendo de valores de cualquier tipo , nos devolverá un resultado de tipo <b>
 ✨   Mayor o Igual que: >= <br>
 ✨   Menor o igual que: <= <br>
 ✨   Comparacion: == <br>
+✨   Negacion: != <br>

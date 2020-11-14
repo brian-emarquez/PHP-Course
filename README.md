@@ -115,6 +115,18 @@ _Apertura corta (poco segura)_
 
 - Junto a los <<< viene una secuencia de caracteres delimitadores a tu eleccion
 
+```
+$lista = <<<HEREDOC
+    <ul>
+        <li>$alumno1, el el primer alumno </li>
+        <li>$alumno2, el el segundo 'mejor' alumno </li>
+        <li>$alumno3, es el "ultimo alumno </li>
+    </ul>
+
+HEREDOC;
+?>
+```
+
 ## Niveles de Error
 
 * E_ERROR : Error grave (fatal error)
@@ -135,8 +147,13 @@ _Apertura corta (poco segura)_
 
 Partiendo de valores de cualquier tipo , nos devolverá un resultado de tipo <b>Booleano</b>
 
-✨   Mayor que: >
-✨   Menor que: <
-✨   Mayor o Igual que: >=
-✨   Menor o igual que: <=
-✨   Comparacion: ==
+✨   Mayor que: > <br>
+✨   Menor que: < <br>
+✨   Mayor o Igual que: >= <br>
+✨   Menor o igual que: <= <br>
+✨   Comparacion: == <br>
+
+
+## Operador "Nave Espacial"
+
+Introducido en PHP 7 (no existe en las versiones anteriores), este operador permite saber si el primer valor es menor , igual o mayor al segundo valor.
