@@ -17,3 +17,11 @@ Partiendo de valores de cualquier tipo , nos devolverá un resultado de tipo <b>
 ✨   Menor o igual que: <= <br>
 ✨   Comparacion: == <br>
 ✨   Negacion: != <br>
+
+
+## OPERADOR "NAVE ESPACIAL"
+
+Introducido en PHP 7 (no existe en las versiones anteriores), este operador permite saber si el primer valor es menor , igual o mayor al segundo valor.
+
+```
+$valor <=> $
