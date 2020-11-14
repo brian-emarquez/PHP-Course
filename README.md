@@ -122,7 +122,7 @@ _Apertura corta (poco segura)_
 * E_PARSE: Error sintactico o de parseo
 * E NOTICE: Avisos de Interprete de PHP 
 
-## OPERADORES
+## Operadores
 
 * Las variables numericas se pueden modificar con uno operadores especiales:
 
