@@ -1,0 +1,9 @@
+<!-- Operador ternario -->
+
+
+<?php
+
+
+
+
+?>
