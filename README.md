@@ -153,6 +153,18 @@ Partiendo de valores de cualquier tipo , nos devolverá un resultado de tipo <b>
 ✨   Menor o igual que: <= <br>
 ✨   Comparacion: == <br>
 
+## Operador Ternario 
+
+_Ejemplo_
+```
+$logueado = true;
+
+echo $logueado ==true ? # pregunta para hacer una evaluacion
+    'usuario logueado ' :
+    'usuario sin autentificar';
+?>
+```
+
 
 ## Operador "Nave Espacial"
 
