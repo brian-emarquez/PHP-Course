@@ -25,3 +25,7 @@ Introducido en PHP 7 (no existe en las versiones anteriores), este operador perm
 
 ```
 $valor <=> $
+```
+
+
+## Tripe Igual
