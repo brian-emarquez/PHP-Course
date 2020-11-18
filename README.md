@@ -171,3 +171,10 @@ echo $logueado ==true ? # pregunta para hacer una evaluacion
 Introducido en PHP 7 (no existe en las versiones anteriores), este operador permite saber si el primer valor es menor , igual o mayor al segundo valor.
 
 ![php](./images/espacial.png)
+
+
+## Spotify PHP
+Music Python [List on Spotify](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
+
+
+
