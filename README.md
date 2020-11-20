@@ -174,13 +174,13 @@ Introducido en PHP 7 (no existe en las versiones anteriores), este operador perm
 
 ## Ciclos
 
-- El Ciclo de repetecion <b>for</b> es uan esctructura finita, Al Escribir el codigo le indicamos a PHP la cantidad de veces que debe ejecutarse.
+- El Ciclo de repeticion <b>for</b> es uan esctructura finita, Al escribir el codigo le indicamos a PHP la cantidad de veces que debe ejecutarse.
 
-- Para eso le debemno indicar tres datos al crearlo:
+- Para eso le debemos indicar tres datos al crearlo:
 
   * <b>Inicio</b> del ciclo: Inicializando una variable de tipo number
-  * <b>Limite</b> de las repeteciones: Una Comparacion(de cualquie tipo) que evaluae el valor de esa variable.
-
+  * <b>Limite</b> de las repeteciones: Una Comparacion (de cualquie tipo) que evaluae el valor de esa variable.
+  * <b>Desplazamiento</b> de la variable: Cualquier operacion aritmetica que modifique la variable inicial (de forma que llegue al limite)
 
 ## Spotify PHP
 Music Python [List on Spotify](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
