@@ -1,4 +1,5 @@
 <?php 
+
 for( $num = 1; $num < 50; $num++ ){
 	echo "Hola - Esta es la vuelta $num<br />";
 	$num = 10;
