@@ -1,5 +1,6 @@
-<?php 
-$num = 100;
+<?php
+
+$num = 10;
 var_dump($num);
 
 while( $num < 15 ){ //Como el while primero evalúa la condición, si $num no es menor a 15, nunca se accede al bloque de código.
