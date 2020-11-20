@@ -182,6 +182,7 @@ Introducido en PHP 7 (no existe en las versiones anteriores), este operador perm
   * <b>Limite</b> de las repeteciones: Una Comparacion (de cualquie tipo) que evaluae el valor de esa variable.
   * <b>Desplazamiento</b> de la variable: Cualquier operacion aritmetica que modifique la variable inicial (de forma que llegue al limite)
 
+
 ## Spotify PHP
 Music Python [List on Spotify](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
 
