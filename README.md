@@ -172,6 +172,15 @@ Introducido en PHP 7 (no existe en las versiones anteriores), este operador perm
 
 ![php](./images/espacial.png)
 
+## Ciclos
+
+- El Ciclo de repetecion <b>for</b> es uan esctructura finita, Al Escribir el codigo le indicamos a PHP la cantidad de veces que debe ejecutarse.
+
+- Para eso le debemno indicar tres datos al crearlo:
+
+  * <b>Inicio</b> del ciclo: Inicializando una variable de tipo number
+  * <b>Limite</b> de las repeteciones: Una Comparacion(de cualquie tipo) que evaluae el valor de esa variable.
+
 
 ## Spotify PHP
 Music Python [List on Spotify](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
