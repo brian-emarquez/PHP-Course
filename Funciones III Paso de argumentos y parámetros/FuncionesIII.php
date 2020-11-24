@@ -1,5 +1,5 @@
-<!-- Funciones II -->
-
+<!-- Funciones III -->
+<!-- pendiente a mofidicar -->
 <?php
 
 $nombre = "Brian";
