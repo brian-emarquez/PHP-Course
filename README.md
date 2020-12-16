@@ -72,7 +72,6 @@ PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de códi
 | CSS                                                          |PHP                               | 
 | JAVASCRIPTS                                                  |PHP                               |       
 
-![php](./images/hole.jpg)
 ## Servidores
 
 <p>WampServer es un entorno de desarrollo web de Windows. Te permite crear aplicaciones web con Apache2, PHP y una base de datos MySQL. Además, PhpMyAdmin le permite administrar fácilmente sus bases de datos.</p>
