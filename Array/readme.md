@@ -40,5 +40,25 @@ $tecnologias = [ ]; //
 
 - Para poder mostrar un determinado elemento del Array solo tenemos que hacer un echo o print del array que nos interesa ver y -entre corchetes-indicar que índice buscamos.
 
+```
+var_dump($cursos); // muestra tipos de dato y largo  por cada item del array
+```
+```
+print_r($tecnologias); // No muestra el tipo de dato ni el largo de cada item , solo se puede usar en array
+```
+
+## Agregar Elementos
+    
+```
+$elemento[5] = 'newElemento';
+```
+
+```
+array_push($elemento, 'newElemento', 'newElenento2, 'newEleneto3'...);
+```
+
+
+
+
 
 
