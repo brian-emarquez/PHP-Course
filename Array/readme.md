@@ -41,3 +41,30 @@ module.exports = function(data, callback) {
   //
 };
 ```
+
+#### Installation
+
+   npm install --save-dev git-release-notes
+
+#### Usage
+
+Inside your script file
+
+```js
+const releaseNotes = require('git-release-notes');
+
+const OPTIONS = {
+  branch: 'master',
+};
+const RANGE = 'v1.0.0..v2.0.0';
+const TEMPLATE = 'markdown';
+
+releaseNotes(OPTIONS, RANGE, TEMPLATE)
+.then((changelog) => {
+  console.log(`Changelog between ${RANGE}\n\n${changelog}`);
+})
+.catch((ex) => {
+  console.error(ex);
+  process.exit(1);
+});
+```
