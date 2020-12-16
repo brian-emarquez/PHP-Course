@@ -14,29 +14,17 @@
 
 <!--It's also possible to use `git-release-notes` as a node module. Check the usage on [usage as a module](#Usage_as_a_module)-->
 
-#### Installation
 
-   npm install --save-dev git-release-notes
+#### Example
 
-#### Usage
+Array
 
-Inside your script file
+```php
+$nombre = 'German';
+$anio = 2021;
+//resto del programa
+$nombre = 'Juan'; //reemplazar valores
 
-```js
-const releaseNotes = require('git-release-notes');
-
-const OPTIONS = {
-  branch: 'master',
-};
-const RANGE = 'v1.0.0..v2.0.0';
-const TEMPLATE = 'markdown';
-
-releaseNotes(OPTIONS, RANGE, TEMPLATE)
-.then((changelog) => {
-  console.log(`Changelog between ${RANGE}\n\n${changelog}`);
-})
-.catch((ex) => {
-  console.error(ex);
-  process.exit(1);
-});
+$cursos = array ( ); //esta manera existe en todas las verisones
+$tecnologias = [ ];
 ```
