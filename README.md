@@ -43,7 +43,7 @@
 - [Niveles de Error](#Niveles-de-Error)
 - [Operadores](#Operadores)
 - [Operadores de Comparación](#Operadores-de-Comparación)
-- [OOperador Ternario](#Operador-Ternario)
+- [Operador Ternario](#Operador-Ternario)
 - [Operador "Nave Espacial](#Operador-"Nave-Espacial")
 - [Ciclos](#Ciclos)
 - [Operadores de Comparación](#Spotify-PHP)
