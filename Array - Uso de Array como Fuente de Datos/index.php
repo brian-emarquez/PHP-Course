@@ -18,7 +18,9 @@ function generar_fecha( $dia, $mes, $anio, $formato = true ){
 	}
 }
 
+// ARRAY
 $categorias = [ 'Programacion', 'Diseño', 'Cursos', 'Usabilidad' , 'Servidores' ];
+
 ?>
 <!DOCTYPE HTML>
 <html lang="es-AR">
@@ -50,11 +52,13 @@ $categorias = [ 'Programacion', 'Diseño', 'Cursos', 'Usabilidad' , 'Servidores'
 			<li><a href="index.php">Home</a></li>
 			<li><a href="categorias.php">Categorias</a>
 				<ul>
+
 					<?php 
 					for( $i = 0; $i < count($categorias); $i++ ):
 						echo '<li><a href="categoria.php">'.$categorias[$i].'</a></li>';
 					endfor;
 					?>
+					
 				</ul>
 			</li>
 			<li><a href="contacto.php">Contacto</a></li>

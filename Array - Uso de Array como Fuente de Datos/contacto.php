@@ -1,7 +1,7 @@
 <?php 
-
 $categorias = [ 'Programacion', 'Diseño', 'Cursos', 'Servidores', 'Egresados' ];
 ?>
+
 <!DOCTYPE HTML>
 <html lang="es-AR">
 <head>
@@ -32,11 +32,13 @@ $categorias = [ 'Programacion', 'Diseño', 'Cursos', 'Servidores', 'Egresados' ]
 			<li><a href="index.html">Home</a></li>
 			<li><a href="categorias.html">Categorias</a>
 				<ul>
+
 					<?php 
 					for($i = 0; $i < count($categorias); $i++ ):
 						echo "<li><a href='categoria.html'>$categorias[$i]</a></li>";
 					endfor;
 					?>
+
 				</ul>
 			</li>
 			<li><a href="contacto.html">Contacto</a></li>
@@ -89,32 +91,6 @@ $categorias = [ 'Programacion', 'Diseño', 'Cursos', 'Servidores', 'Egresados' ]
 		</div>
 		
 	</aside>
-	<footer>
-		<div>
-			<h2>About</h2>
-			<img src="recursos/img/who_we_are.jpg" alt="Aida y Germán" />
-			<ul>
-				<li>Copyright &copy; 2018, Germán Rodríguez &amp;&amp; Aida Cortés</li>
-				<li>Todos los derechos reservados BloomIT</li>
-				<li><a href="#">Términos y Condiciones</a></li>
-				<li><a href="#">Conocenos más</a></li>
-			</ul>
-		</div>
-		<div>
-			<h2>Links Utiles</h2>
-			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="categorias.html">Categorias</a></li>
-				<li><a href="Contacto.html">Contacto</a></li>
-				<li><span>Social</span>
-					<ul>
-						<li><a href="https://www.facebook.com/user">Facebook</a></li>
-						<li><a href="https://www.twitter.com/user">Twitter</a></li>
-						<li><a href="https://www.instagram.com/user">Instagram</a></li>
-					</ul>
-				</li>
-			</ul>
-		</div>
-	</footer>
+	
 </body>
 </html>
