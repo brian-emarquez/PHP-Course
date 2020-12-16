@@ -34,6 +34,7 @@
 - [Desarrollo Web](#Desarrollo-Web)
 - [Servidores](#Servidores)
 - [La Web Dinamica](#La-Web-Dinamica)
+- [XAMPP](#XAMPP)
 - [Servidor Portable](#Servidor-Portable)
 - [Post Instalacion](#Post-Instalacion)
 - [Entorno de Desarrollo](#Entorno-de-Desarrollo)
@@ -83,7 +84,7 @@ PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de códi
 - Todo desde la programación (con las estructura y funciones del lenguaje)
 - La Información accedida puede administrarse desde una base de datos.
 
-## Servidores 📦
+## XAMPP
 
 _Paquetes instaladores servidores_
 
