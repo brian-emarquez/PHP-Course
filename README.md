@@ -1,5 +1,5 @@
 
-<h2 align="center">PHP Course - Learn PHP &nbsp;:heart:&nbsp;</h2>
+<h2 align="center">PHP Course - Learn PHP &nbsp; 🐘 &nbsp;</h2>
 
 <p align="center">
   
@@ -14,7 +14,7 @@
   </a>  
 </p>
   
-![php](./images/php.jpg)
+![php](./images/light.png)
 
 ## ¿Que es PHP? 🐘
 
