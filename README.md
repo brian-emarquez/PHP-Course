@@ -34,19 +34,19 @@
 - [Desarrollo Web](#Desarrollo-Web)
 - [Servidores](#Servidores)
 - [La Web Dinamica](#La-Web-Dinamica)
-- [Servidor Portable](#Servidor Portable)
+- [Servidor Portable](#Servidor-Portable)
 - [Post Instalacion](#Post-Instalacion)
 - [Entorno de Desarrollo](#Entorno-de-Desarrollo)
 - [Codigo](#Codigo)
 - [Cadenas de texto](#Cadenas-de-texto)
 - [Heredoc](#Heredoc)
-- [Niveles de Error](#Niveles de Error)
+- [Niveles de Error](#Niveles-de-Error)
 - [Operadores](#Operadores)
 - [Operadores de Comparación](#Operadores-de-Comparación)
 - [OOperador Ternario](#Operador-Ternario)
 - [Operador "Nave Espacial](#Operador-"Nave Espacial")
 - [Ciclos](#Ciclos)
-- [Operadores de Comparación](#Spotify PHP)
+- [Operadores de Comparación](#Spotify-PHP)
 
 
 ## Que es PHP
