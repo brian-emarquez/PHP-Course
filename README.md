@@ -1,5 +1,5 @@
 
-<h2 align="center">Learn PHP - PHP Course &nbsp;🐘&nbsp;</h2>
+<h2 align="center">Learn PHP ⚙️ PHP Course &nbsp;🐘&nbsp;</h2>
 
 <p align="center">
   
@@ -11,12 +11,24 @@
   </a>
   <a href="https://github.com/BrianMarquez3/PHP-Course/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/PHP-Course.svg?style=flat" alt="Forks">
-  </a>  
+  </a>
+  <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/network">
+    <img src="https://img.shields.io/badge/coverage-80%25-yellowgreen">
+  </a>
+   <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/network">
+    <img src="https://img.shields.io/badge/gem-2.2.0-blue">
+  </a>
+   <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/network">
+    <img src="https://img.shields.io/badge/dependencies-out%20of%20date-orange">
+  </a>
+   <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/network">
+    <img src="https://img.shields.io/badge/codacy-B-green">
+  </a>
 </p>
   
 ![php](./images/code.jpg)
 
-## ¿Que es PHP? 🐘
+## ¿Que es PHP?
 
 PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
 
