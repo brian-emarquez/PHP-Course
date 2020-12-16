@@ -57,11 +57,17 @@ $elemento[5] = 'newElemento';
 array_push($elemento, 'newElemento', 'newElenento2, 'newEleneto3'...);
 ```
 
-## Recorrer los Elemtos
+## Recorrer los Elementos
 
 - Dado que los índices del array son numéricos.
 - Y que, para mostrarlo, solo cambia ese numero entre los corchetes
 - Podemos recorrerlos con el ciclo FOR indicando hasta donde debemos iterar
+
+## Array como fuente de Datos
+
+- Una fuente de datos, es cualquier recurso que PHP pueda consultar para optener informacion dinámica
+- El más obvio es de la Base de Datos, pero el array puede cubrir ese rol.
+- Podria tener un array con un listado de categorias posibles para los posteos y por cada íten generar un vinculo de la botonera.
 
 
 
