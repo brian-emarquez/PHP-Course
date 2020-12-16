@@ -22,13 +22,26 @@
     <img src="https://img.shields.io/badge/dependencies-out%20of%20date-orange">
   </a>
    <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/network">
-    <img src="https://img.shields.io/badge/codacy-B-green">
+    <img src="https://img.shields.io/badge/codacy-A-green">
   </a>
 </p>
   
 ![php](./images/code.jpg)
+## Tabla de contenidos
 
-## ¿Que es PHP?
+- [Que es PHP](#Que-es-PHP)
+- [Cualidades](#Cualidades)
+- [Caracteristicas](#caracteristicas)
+- [Ejemplo](#ejemplo)
+- [Tipo de datos](#tipo-de-datos)
+- [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)
+- [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)
+- [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)
+- [Play List Spotify](#Spotify)
+- [Book](#book)
+- [Games](#games)
+
+## Que es PHP
 
 PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
 
