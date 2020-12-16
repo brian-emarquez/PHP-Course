@@ -19,7 +19,7 @@
 
 Array
 
-```php
+```js
 $nombre = 'German';
 $anio = 2021;
 //resto del programa
