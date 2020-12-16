@@ -32,14 +32,23 @@
 - [Que es PHP](#Que-es-PHP)
 - [Cualidades](#Cualidades)
 - [Desarrollo Web](#Desarrollo-Web)
-- [Ejemplo](#ejemplo)
-- [Tipo de datos](#tipo-de-datos)
-- [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)
-- [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)
-- [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)
-- [Play List Spotify](#Spotify)
-- [Book](#book)
-- [Games](#games)
+- [Servidores](#Servidores)
+- [La Web Dinamica](#La-Web-Dinamica)
+- [XAMPP](#XAMPP)
+- [Servidor Portable](#Servidor-Portable)
+- [Post Instalacion](#Post-Instalacion)
+- [Entorno de Desarrollo](#Entorno-de-Desarrollo)
+- [Codigo](#Codigo)
+- [Cadenas de texto](#Cadenas-de-texto)
+- [Heredoc](#Heredoc)
+- [Niveles de Error](#Niveles-de-Error)
+- [Operadores](#Operadores)
+- [Operadores de Comparación](#Operadores-de-Comparación)
+- [Operador Ternario](#Operador-Ternario)
+- [Operador "Nave Espacial](#Operador-"Nave-Espacial")
+- [Ciclos](#Ciclos)
+- [Operadores de Comparación](#Spotify-PHP)
+
 
 ## Que es PHP
 
@@ -63,9 +72,12 @@ PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de códi
 | CSS                                                          |PHP                               | 
 | JAVASCRIPTS                                                  |PHP                               |       
 
+![php](./images/hole.jpg)
 ## Servidores
 
-![php](./images/xamp.jpg)
+<p>WampServer es un entorno de desarrollo web de Windows. Te permite crear aplicaciones web con Apache2, PHP y una base de datos MySQL. Además, PhpMyAdmin le permite administrar fácilmente sus bases de datos.</p>
+
+![php](./images/wamp.png)
 
 ## La Web Dinamica
  
@@ -73,7 +85,7 @@ PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de códi
 - Todo desde la programación (con las estructura y funciones del lenguaje)
 - La Información accedida puede administrarse desde una base de datos.
 
-## Servidores 📦
+## XAMPP
 
 _Paquetes instaladores servidores_
 
@@ -83,13 +95,13 @@ _Paquetes instaladores servidores_
 
 ![php](./images/xamp1.png)
 
-## Servidor portable
+## Servidor Portable
 
 * [ZWAMP (Portable oficial, Windows)](https://sourceforge.net/projects/zwamp/) - Un paquete de servidor web ligero de instalación cero que se ejecuta en Windows. El proyecto tiene como objetivo proporcionar las últimas versiones de producción / estables de Apache, MySQL, PHP, Adminer, MongoDB, MemCached, SQLite, eAccelerator y Alternative PHP Cache (APC) para impulsar el rendimiento del servidor.
 * [ZWAMP alterado (No oficial)](https://github.com/BrianMarquez3/PHP-Course/blob/main/Resource/zwamp%20portable.rar) - Un paquete Portable Modificado
 
 
-## Post-Instalacion
+## Post Instalacion
 
 `WAMPP` C:\wamp\htdocs  <br>
 `XAMPP` C:\xampp\htdocs  <br>
@@ -110,7 +122,7 @@ _Paquetes instaladores servidores_
 
 
 _Apertura nativa de PHP_
-```
+```js
 <?php
   CODIGO PHP
 ?>
@@ -118,7 +130,7 @@ _Apertura nativa de PHP_
 
 _Apertura corta (poco segura)_
 
-```
+```js
 <?
   CODIGO PHP
 ?>
@@ -140,7 +152,7 @@ _Apertura corta (poco segura)_
 
 - Junto a los <<< viene una secuencia de caracteres delimitadores a tu eleccion
 
-```
+```js
 $lista = <<<HEREDOC
     <ul>
         <li>$alumno1, el el primer alumno </li>
@@ -151,7 +163,6 @@ $lista = <<<HEREDOC
 HEREDOC;
 ?>
 ```
-
 ## Niveles de Error
 
 * E_ERROR : Error grave (fatal error)
@@ -181,7 +192,8 @@ Partiendo de valores de cualquier tipo , nos devolverá un resultado de tipo <b>
 ## Operador Ternario 
 
 _Ejemplo_
-```
+
+```js
 $logueado = true;
 
 echo $logueado ==true ? # pregunta para hacer una evaluacion
