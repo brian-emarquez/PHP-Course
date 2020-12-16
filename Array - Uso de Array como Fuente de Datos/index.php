@@ -45,6 +45,7 @@ $categorias = [ 'Programacion', 'Diseño', 'Cursos', 'Usabilidad' , 'Servidores'
 			<li><a href="https://www.tumblr.com/user">Tumblr</a></li>
 			<li><a href="https://www.linkedin.com/user">Linkedin</a></li>
 			<li><a href="https://www.snapchat.com/user">Snapchat</a></li>
+			
 		</ul>
 	</header>
 	<nav>
