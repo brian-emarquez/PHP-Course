@@ -121,7 +121,7 @@ _Paquetes instaladores servidores_
 
 
 _Apertura nativa de PHP_
-```
+```js
 <?php
   CODIGO PHP
 ?>
@@ -129,7 +129,7 @@ _Apertura nativa de PHP_
 
 _Apertura corta (poco segura)_
 
-```
+```js
 <?
   CODIGO PHP
 ?>
@@ -151,7 +151,7 @@ _Apertura corta (poco segura)_
 
 - Junto a los <<< viene una secuencia de caracteres delimitadores a tu eleccion
 
-```
+```js
 $lista = <<<HEREDOC
     <ul>
         <li>$alumno1, el el primer alumno </li>
@@ -162,7 +162,6 @@ $lista = <<<HEREDOC
 HEREDOC;
 ?>
 ```
-
 ## Niveles de Error
 
 * E_ERROR : Error grave (fatal error)
@@ -192,7 +191,8 @@ Partiendo de valores de cualquier tipo , nos devolverá un resultado de tipo <b>
 ## Operador Ternario 
 
 _Ejemplo_
-```
+
+```js
 $logueado = true;
 
 echo $logueado ==true ? # pregunta para hacer una evaluacion
