@@ -26,5 +26,14 @@ $anio = 2021;
 $nombre = 'Juan'; //reemplazar valores
 
 $cursos = array ( ); //esta manera existe en todas las verisones
-$tecnologias = [ ];
+$tecnologias = [ ]; // 
 ```
+
+## Items del Array
+
+- Cuando creamos un array, podemos definir qué cobtenido van a tener inicialmente.
+- Eso se hace tanto entre lo parentesis de la funcion array(), como entre los corchetes deñ [].
+- Cada elemento deberá ir separado del siguiente por como, respetando su tupo de dato.
+
+
+
