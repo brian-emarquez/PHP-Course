@@ -11,3 +11,5 @@ if( $nombre == 'brian' ) //En este caso, como no tiene llaves, se muestra SIEMPR
 	echo 'Acceder al curso';
 
 echo "<hr />Final del archivo";
+
+?>
