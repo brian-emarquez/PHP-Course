@@ -57,8 +57,11 @@ $elemento[5] = 'newElemento';
 array_push($elemento, 'newElemento', 'newElenento2, 'newEleneto3'...);
 ```
 
+## Recorrer los Elemtos
 
-
+- Dado que los índices del array son numéricos.
+- Y que, para mostrarlo, solo cambia ese numero entre los corchetes
+- Podemos recorrerlos con el ciclo FOR indicando hasta donde debemos iterar
 
 
 
