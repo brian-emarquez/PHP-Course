@@ -31,7 +31,7 @@
 
 - [Que es PHP](#Que-es-PHP)
 - [Cualidades](#Cualidades)
-- [Caracteristicas](#caracteristicas)
+- [Desarrollo Web](#Desarrollo-Web)
 - [Ejemplo](#ejemplo)
 - [Tipo de datos](#tipo-de-datos)
 - [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)
@@ -63,7 +63,7 @@ PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de códi
 | CSS                                                          |PHP                               | 
 | JAVASCRIPTS                                                  |PHP                               |       
 
-## SERVIDORES
+## Servidores
 
 ![php](./images/xamp.jpg)
 
