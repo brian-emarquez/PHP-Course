@@ -225,7 +225,31 @@ Introducido en PHP 7 (no existe en las versiones anteriores), este operador perm
 - Una matriz es un array que tiene otros arrays como elementos.
 - Se utiliza cuando por cada elemento del array principal necesitamos manipular mas informacion.
 
+```php
 
+$elementos = array(
+    /*0*/ array(
+        /*0*/'input',
+        /*1*/'text',
+        /*2*/'nombre',
+        /*3*/'Tu nombre completo' //placeholder
+    ),
+    /*1*/ array(
+        'input',
+        'email',
+        'corre',
+        'usuario@email.com'
+    ),
+    /*2*/ array(
+        'select',
+        'motivo'
+    )
+);
+//var_dump($elementos);
+//elemento 3 y fila 3
+echo $elementos[0][3]
+```
+---
 ## Spotify PHP
 Music Python [List on Spotify](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
 
