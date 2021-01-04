@@ -26,7 +26,7 @@ echo '<ul style="list-style: none; display: flex;">';
 for($i = 0; $i< count($fotos); $i++){
     echo'<li>';
     echo'<h2>'.$fotos[$i][1],'</h2>';
-    echo'<img src="images/'.$fotos[$i][0].'" />';  
+    echo'<img src="fotos/'.$fotos[$i][0].'" />';  
     echo '<p> .$fotos[$i][2]</p>';
     echo '</li />';
 
@@ -34,5 +34,3 @@ for($i = 0; $i< count($fotos); $i++){
 
 
 ?>
-275
-183
