@@ -1,5 +1,5 @@
 
-<h2 align="center">Learn PHP - Course &nbsp;🐘&nbsp;</h2>
+<h2 align="center"> Learn PHP Beginner To Advanced | PHP Course &nbsp;🐘&nbsp;</h2>
 
 <p align="center">
   
