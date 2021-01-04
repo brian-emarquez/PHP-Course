@@ -47,7 +47,9 @@
 - [Operador Ternario](#Operador-Ternario)
 - [Operador "Nave Espacial](#Operador-"Nave-Espacial")
 - [Ciclos](#Ciclos)
-- [Operadores de Comparación](#Spotify-PHP)
+- [Matrices](#Matrices)
+- [Play List PHP](#Spotify-PHP)
+
 
 
 ## Que es PHP
@@ -217,6 +219,11 @@ Introducido en PHP 7 (no existe en las versiones anteriores), este operador perm
   * <b>Inicio</b> del ciclo: Inicializando una variable de tipo number
   * <b>Limite</b> de las repeteciones: Una Comparacion (de cualquie tipo) que evaluae el valor de esa variable.
   * <b>Desplazamiento</b> de la variable: Cualquier operacion aritmetica que modifique la variable inicial (de forma que llegue al limite)
+
+## Matrices
+
+- Una matriz es un array que tiene otros arrays como elementos.
+- Se utiliza cuando por cada elemento del array principal necesitamos manipular mas informacion.
 
 
 ## Spotify PHP
