@@ -6,18 +6,18 @@ $fotos = array(
     array(
         'foto1.jpg',
         'Mi primera foto',
-        'Foto de una persian en la calle'
+        'Tigre Fotogenico'
     ),
 
     array(
         'foto2.jpg',
         'otra foto de la galeria',
-        'un gato paseando por la calle'
+        'Dormilon tomando siesta'
     ),
     array(
         'foto3.png',
         'Un Conejo',
-        'Conejo saltando el la pradera'
+        'Bambi saltando el la pradera'
     )
 
     );
@@ -27,9 +27,8 @@ for($i = 0; $i< count($fotos); $i++){
     echo'<li>';
     echo'<h2>'.$fotos[$i][1],'</h2>';
     echo'<img src="fotos/'.$fotos[$i][0].'" />';  
-    echo '<p> .$fotos[$i][2]</p>';
-    echo '</li />';
-
+    echo '<p>'.$fotos[$i][2].'</p>';
+    echo '</li/>';
 }
 
 
