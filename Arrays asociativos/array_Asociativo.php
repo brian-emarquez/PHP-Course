@@ -38,14 +38,16 @@ $elementos = array(
 	
 );
 for( $i = 0; $i < count($elementos); $i++ ){
-	//echo $elementos[$i][0];
-	
+    	
 	echo '<p>'.$elementos[$i]['texto'].'</p>';
 	
 	if( $elementos[$i]['etiqueta'] == 'input' ){
-		echo '<input type="'.$elementos[$i]['type'].'" name="'.$elementos[$i]['name'].'" />';
+        echo '<input type="'.$elementos[$i]['name'].'" name="'.$elementos[$i]['name'].'" />';
+        
 	}else if( $elementos[$i]['etiqueta'] == 'select' ){
-		echo '<select name="'.$elementos[$i]['name'].'">';
+        echo '<select name="'.$elementos[$i]['name'].'">';
+        
+        //motivo de mensaje
 		for( $x = 0; $x < count ($elementos[$i]['opciones'] ); $x++ ){
 			echo '<option>';
 			echo $elementos[$i]['opciones'][$x];
