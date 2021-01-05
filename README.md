@@ -48,8 +48,8 @@
 - [Operador "Nave Espacial](#Operador-"Nave-Espacial")
 - [Ciclos](#Ciclos)
 - [Matrices](#Matrices)
+- [Array Asociativo](#Array-Asociativo)
 - [Play List PHP](#Spotify-PHP)
-
 
 
 ## Que es PHP
@@ -249,6 +249,91 @@ $elementos = array(
 //elemento 3 y fila 3
 echo $elementos[0][3]
 ```
+
+## Array Asociativo
+
+* Un Array asociativo es el que en lugar de indices basados en numeros los tiene con cadenas de texto
+
+* de esa manera los indices estará entre comillas.
+
+* Esto permite salir de las abstracion de lo indices 0,1,2 y facilita identificar la informacion que estamos manejando
+
+## Instanciar un array asociativo
+
+* En PHP tenemos dos maneras de crear un array con indices asociativos.
+* la Primera opcion es crear el array vacio y luego ir creado indice por indice (de la misma manera asignabamos los numericos).
+
+Ejemplo
+
+```php
+<?php 
+
+$select = array( );
+$select['name'] = 'motivo';
+$select['required'] = false;
+$select['tabindex'] = 2;
+
+
+//var_dump($select);
+
+$elementos = array( 
+	/*0*/ array( 
+		'etiqueta' => 'input',
+		'type'  => 'text',
+		'name'  => 'nombre',
+		'placeholder' =>  'Tu nombre completo',
+		'texto'  => 'Tu nombre'
+	),
+	/*1*/ array( 
+		'etiqueta' => 'input',
+		'type' => 'email',
+		'name' => 'correo',
+		'placeholder' => 'usuario@email.com',
+		'texto' => 'Tu correo'
+	),
+	/*2*/ array( 
+		'etiqueta' => 'select',
+		'name' => 'motivo',
+		'texto' => 'Motivo del mensaje',
+		'opciones' => array( 'contacto', 'sugerencia', 'reclamo' )
+	),
+	array( 
+		'etiqueta' => 'input',
+		'type' => 'checkbox',
+		'name' => 'item',
+		'texto' => 'Acepto los terminos y condiciones'
+	)
+	
+);
+for( $i = 0; $i < count($elementos); $i++ ){
+    	
+	echo '<p>'.$elementos[$i]['texto'].'</p>';
+	
+	if( $elementos[$i]['etiqueta'] == 'input' ){
+        echo '<input type="'.$elementos[$i]['name'].'" name="'.$elementos[$i]['name'].'" />';
+        
+	}else if( $elementos[$i]['etiqueta'] == 'select' ){
+        echo '<select name="'.$elementos[$i]['name'].'">';
+        
+        //motivo de mensaje
+		for( $x = 0; $x < count ($elementos[$i]['opciones'] ); $x++ ){
+			echo '<option>';
+			echo $elementos[$i]['opciones'][$x];
+			echo '</option>';
+			
+		}
+		echo '</select>';
+	}
+	
+	echo '<hr />';
+}
+
+```
+| Carpeta                    | Github |     
+|----------------------------|:-----------:|
+| [Array Asocitivo](https://github.com/BrianMarquez3/PHP-Course/tree/main/Arrays%20asociativos)          |      ✔️     |   
+
+
 ---
 ## Spotify PHP
 Music Python [List on Spotify](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
