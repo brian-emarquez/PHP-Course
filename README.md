@@ -49,6 +49,7 @@
 - [Ciclos](#Ciclos)
 - [Matrices](#Matrices)
 - [Array Asociativo](#Array-Asociativo)
+- [Debbug](#debbug)
 - [Play List PHP](#Spotify-PHP)
 
 
@@ -332,6 +333,13 @@ for( $i = 0; $i < count($elementos); $i++ ){
 | Carpeta                    | Github |     
 |----------------------------|:-----------:|
 | [Array Asocitivo](https://github.com/BrianMarquez3/PHP-Course/tree/main/Arrays%20asociativos)          |      ✔️     |   
+
+## Debbug
+
+[Xdebug](https://xdebug.org/wizard) 
+
+
+
 
 
 ---
