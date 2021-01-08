@@ -1,10 +1,12 @@
+
+<!-- Array Asociativo -->
+
 <?php 
 
 $select = array( );
 $select['name'] = 'motivo';
 $select['required'] = false;
 $select['tabindex'] = 2;
-
 
 //var_dump($select);
 
@@ -42,7 +44,7 @@ for( $i = 0; $i < count($elementos); $i++ ){
 	echo '<p>'.$elementos[$i]['texto'].'</p>';
 	
 	if( $elementos[$i]['etiqueta'] == 'input' ){
-        echo '<input type="'.$elementos[$i]['name'].'" name="'.$elementos[$i]['name'].'" />';
+        echo '<input type="'.$elementos[$i]['type'].'" name="'.$elementos[$i]['name'].'" />';
         
 	}else if( $elementos[$i]['etiqueta'] == 'select' ){
         echo '<select name="'.$elementos[$i]['name'].'">';
