@@ -334,6 +334,8 @@ for( $i = 0; $i < count($elementos); $i++ ){
 |----------------------------|:-----------:|
 | [Array Asocitivo](https://github.com/BrianMarquez3/PHP-Course/tree/main/Arrays%20asociativos)          |      ✔️     |   
 
+
+
 ## Debbug
 
 [Xdebug](https://xdebug.org/wizard) 
