@@ -208,7 +208,9 @@ echo $logueado ==true ? # pregunta para hacer una evaluacion
     'usuario sin autentificar';
 ?>
 ```
-
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Operador Ternario](https://github.com/BrianMarquez3/PHP-Course/tree/main/Operador%20Ternario)          |      ✔️     | 
 
 ## Operador "Nave Espacial"
 
