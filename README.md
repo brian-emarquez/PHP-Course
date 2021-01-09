@@ -263,6 +263,11 @@ $elementos = array(
 echo $elementos[0][3]
 ```
 
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Matrices](https://github.com/BrianMarquez3/PHP-Course/tree/main/Matrices)          |      ✔️     | 
+| [Matrices II](https://github.com/BrianMarquez3/PHP-Course/tree/main/Matrices%20II)          |      ✔️     | 
+
 ## Array Asociativo
 
 * Un Array asociativo es el que en lugar de indices basados en numeros los tiene con cadenas de texto
