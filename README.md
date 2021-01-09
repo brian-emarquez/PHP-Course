@@ -377,7 +377,7 @@ for( $i = 0; $i < count($elementos); $i++ ){
 
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
-| Iteración de Arrays asociativos](https://github.com/BrianMarquez3/PHP-Course/tree/main/Iteraci%C3%B3n%20de%20Arrays%20asociativos)          |      ✔️     | 
+[Iteración de Arrays asociativos](https://github.com/BrianMarquez3/PHP-Course/tree/main/Iteraci%C3%B3n%20de%20Arrays%20asociativos)          |      ✔️     | 
 
 
 ## Debbug
