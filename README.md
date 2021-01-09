@@ -228,6 +228,11 @@ Introducido en PHP 7 (no existe en las versiones anteriores), este operador perm
   * <b>Limite</b> de las repeteciones: Una Comparacion (de cualquie tipo) que evaluae el valor de esa variable.
   * <b>Desplazamiento</b> de la variable: Cualquier operacion aritmetica que modifique la variable inicial (de forma que llegue al limite)
 
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Ciclos While, Do While y For](https://github.com/BrianMarquez3/PHP-Course/tree/main/Ciclos%20While%2C%20Do%20While%20y%20For)          |      ✔️     | 
+| [CIclo FOR-EACH](https://github.com/BrianMarquez3/PHP-Course/tree/main/CIclo%20FOR-EACH)          |      ✔️     | 
+
 ## Matrices
 
 - Una matriz es un array que tiene otros arrays como elementos.
