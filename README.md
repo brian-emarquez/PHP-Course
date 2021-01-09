@@ -181,6 +181,11 @@ HEREDOC;
 -   INCREMENTO (mas de uno): variable += 5 ✔️ variable = variable +5
 -   DECREMENT (mas de uno):  variable -= 5 ✔️ variable = variable -5
 
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Operadores](https://github.com/BrianMarquez3/PHP-Course/tree/main/Operadores)          |      ✔️     | 
+| [Operador Ternario](https://github.com/BrianMarquez3/PHP-Course/tree/main/Operador%20Ternario)          |      ✔️     | 
+
 ## Operadores de Comparación
 
 Partiendo de valores de cualquier tipo , nos devolverá un resultado de tipo <b>Booleano</b>
@@ -330,7 +335,7 @@ for( $i = 0; $i < count($elementos); $i++ ){
 }
 
 ```
-| Carpeta                    | Github |     
+| Carpeta                    | Link |     
 |----------------------------|:-----------:|
 | [Array Asocitivo](https://github.com/BrianMarquez3/PHP-Course/tree/main/Arrays%20asociativos)          |      ✔️     |   
 
