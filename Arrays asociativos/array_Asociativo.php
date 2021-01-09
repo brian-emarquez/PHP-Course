@@ -43,9 +43,11 @@ for( $i = 0; $i < count($elementos); $i++ ){
     	
 	echo '<p>'.$elementos[$i]['texto'].'</p>';
 	
+	// Acepto los termino y condiciones
 	if( $elementos[$i]['etiqueta'] == 'input' ){
         echo '<input type="'.$elementos[$i]['type'].'" name="'.$elementos[$i]['name'].'" />';
-        
+	   
+	//	
 	}else if( $elementos[$i]['etiqueta'] == 'select' ){
         echo '<select name="'.$elementos[$i]['name'].'">';
         
