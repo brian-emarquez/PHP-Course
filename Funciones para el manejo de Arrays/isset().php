@@ -4,16 +4,25 @@
 
 <?php
 
-$colores =['rojo', 'amarillo', 'azul', 'verde', 'negro', 'blanco', 'rosa'];
-$que_color = "negro";
+$colours =[
+    'red' =>'rojo',
+    'yelow'=>'amarillo',
+    'blue'=>'azul',
+    'green'=>'verde'
+];
 
-echo'<p> ARRAY ISSET </p>';
+$colores =['rojo', 'amarillo', 'azul', 'verde',];
+$que_color = "rojo";
+$que_indice = "green";
+
 $existe = in_array( $que_color, $colores);
+$indice = isset($colours[$que_indice]);
 
-if($colores == true){
-    echo "El color negro, existe en el array de colores";
+if($indice == true)
+{
+    echo "El indice. $que_indice. existe y tiene el valor ".$colours[$que_indice];  
 }else{
-    echo "El color negro, NO esiste en el array de colores";
+    echo "El indice.$que_indice. no existe en el array";
 }
 
 ?>
