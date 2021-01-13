@@ -382,6 +382,8 @@ for( $i = 0; $i < count($elementos); $i++ ){
 
 ## Funciones para el manejo de Arrays
 
+##  Funciones para el manejo de Arrays
+
 - Los Array tiene varias funciones para manipular sus elementos.
 - Por ejemplo , las funcion <strong>array_push() </strong> que nos permite agregar uno o varios elemtos al final del array.
 
@@ -400,6 +402,24 @@ for( $i = 0; $i < count($elementos); $i++ ){
 - la funcion <strong> in_array() </strong> recibe un array y un valor, devolverá verdadero si el valor existe dentro del array.
 
 - La funcion <strong> isset() </strong>, verifica si existe un determinado indice adentro del array tanto el array como el indoce que estamos verificando.
+
+
+## Ordenar los Arrays
+
+- La Funcion <strong> sort() </strong> permite ordenar un array por su valores (de mennor a mayor)
+- La Funcion <strong> rsort() </strong> hace el ordenamiento inverso (de mayor a menor)
+- La Funcion <strong> ksort() </strong> ordena el array por sus indices en orden ascendente.
+- La Funcion <strong> krsort() </strong> hace el ordenamiento del array seguin los indices en orden inverso.
+
+## De array a String
+
+- Podemos unir todos lo elementos de un array en una unica cadena de texto por medio de la funcion <strong> implode() </strong> que recibe dos datos.
+
+- El camino inverso es el explode(), ue separa una cadena de texto en un array. tambien recibe dos datos.
+
+## Obtener un numero al azar
+
+- PHP tiene la funcion <strong> rand() </strong> para sacar un valor al azar, que recibe dos datos entre parentesis 
 
 
 | Carpeta                    | Link |     
