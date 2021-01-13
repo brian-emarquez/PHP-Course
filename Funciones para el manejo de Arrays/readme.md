@@ -24,8 +24,15 @@
 
 - La Funcion <strong> sort() </strong> permite ordenar un array por su valores (de mennor a mayor)
 - La Funcion <strong> rsort() </strong> hace el ordenamiento inverso (de mayor a menor)
-- La Funcion <strong> ksort() </strong>, ordena el array por sus indices en orden ascendente.
-- La Funcion <strong> krsort() </strong>, hace el ordenamiento del array seguin los indices en orden inverso.
+- La Funcion <strong> ksort() </strong> ordena el array por sus indices en orden ascendente.
+- La Funcion <strong> krsort() </strong> hace el ordenamiento del array seguin los indices en orden inverso.
 
 ## De array a String
 
+- Podemos unir todos lo elementos de un array en una unica cadena de texto por medio de la funcion <strong> implode() </strong> que recibe dos datos.
+
+- El camino inverso es el explode(), ue separa una cadena de texto en un array. tambien recibe dos datos.
+
+## Obtener un numero al azar
+
+- PHP tiene la funcion <strong> rand() </strong> para sacar un valor al azar, que recibe dos datos entre parentesis 
