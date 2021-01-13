@@ -18,3 +18,9 @@
 - la funcion <strong> in_array() </strong> recibe un array y un valor, devolverá verdadero si el valor existe dentro del array.
 
 - La funcion <strong> isset() </strong>, verifica si existe un determinado indice adentro del array tanto el array como el indoce que estamos verificando.
+
+
+## Odenar los Arrays
+
+- La Funcion <strong> sort() </strong> permite ordenar un array por su valores (de mennor a mayor)
+- La Funcion <strong> rsort() </strong> hace el ordenamiento inverso (de mayor a menor)

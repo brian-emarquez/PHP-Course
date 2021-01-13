@@ -11,9 +11,13 @@ $colours =[
     'green'=>'verde'
 ];
 
-$colores =['rojo', 'amarillo', 'azul', 'verde',];
+$colores =['rojo', 'amarillo', 'azul', 'verde'];
 $que_color = "rojo";
-$que_indice = "green";
+$que_indice = "purple";
+
+var_dump( is_array( $colores ));
+
+echo '<hr />';
 
 $existe = in_array( $que_color, $colores);
 $indice = isset($colours[$que_indice]);
