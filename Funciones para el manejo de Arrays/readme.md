@@ -20,7 +20,12 @@
 - La funcion <strong> isset() </strong>, verifica si existe un determinado indice adentro del array tanto el array como el indoce que estamos verificando.
 
 
-## Odenar los Arrays
+## Ordenar los Arrays
 
 - La Funcion <strong> sort() </strong> permite ordenar un array por su valores (de mennor a mayor)
 - La Funcion <strong> rsort() </strong> hace el ordenamiento inverso (de mayor a menor)
+- La Funcion <strong> ksort() </strong>, ordena el array por sus indices en orden ascendente.
+- La Funcion <strong> krsort() </strong>, hace el ordenamiento del array seguin los indices en orden inverso.
+
+## De array a String
+
