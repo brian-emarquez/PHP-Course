@@ -434,7 +434,7 @@ for( $i = 0; $i < count($elementos); $i++ ){
 
 ![php](./images/xbug.png)
  
- 
+
 - Copy vercion PHp
 ![php](./images/dll.png)
 
@@ -445,7 +445,7 @@ for( $i = 0; $i < count($elementos); $i++ ){
 ![php](./images/phpdebug.png)
 
 ## Dueño del Material
-Bitdigitalacademy [Bitdigitalacademy](https://www.bitdigitalacademy.com/)
+Dueño y creador del Material [Bitdigitalacademy](https://www.bitdigitalacademy.com/)
 
 ---
 ## Spotify PHP
