@@ -84,7 +84,7 @@ $categorias = [ 'Programacion', 'Diseño', 'Cursos', 'Servidores', 'Egresados' ]
 		</form>
 		<!-- esto se muestra si el usuario está logueado -->
 		<div>
-			<h2>Nombre usuario</h2>
+			<?php echo '<h2>'.$nombre.' '.$apellido.'</h2>'; ?>
 			<img src="recursos/img/fill-murray.jpg" alt="Avatar de Nombre usuario" />
 			<div class="center">
 				<a href="perfil.html">Editar perfil</a>
