@@ -1,7 +1,7 @@
 <?php 
-$nombre = 'German';
-$apellido = 'Rodriguez';
-$email = 'german@email.com';
+$nombre = 'Brian';
+$apellido = 'Marquez';
+$email = 'brian3marquez@gmail.com';
 
 $logueado = true;
 
