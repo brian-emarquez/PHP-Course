@@ -1,12 +1,14 @@
-## Formularios
+## Formularios II
 
-- Los Formularios permiten el envio de tanto GET como por POST
-- Eso se define con el atributo <strong> method </strong> que tendra uno de eso dos valores.
-- La Informacion ingresada sera enviada al documento que haya sido indicado en el atributo <strong>action</strong> del formulario
+### Recibir datos
 
-## Atributos y controles
+- Para PHP, GET y POST son arrays asociativos con la informacion enviada desde un archivo al otro.
 
-- Todos los campos del formulario deben tener atributo name.
-- Cuaquier control que no tenga un <strong> name </string> será omitido en el envio.
-- Y en en caso de los controlesa de seleccion, deberan tener un <strong>Value</string> que sea representativo de la informacion a enviar.
-- Si un radio o ckeckbox no tiene <strong>Value</string>, se envia el valot <strong>On</string> (pero no dice cual es el campo que fue seleccionado).
+    * para obtener los datos enviados por GET se usa $_GET[]
+    * Para obtener los datos enviados por POST, $_POST[]
+
+Entrer los corchetes va (como cadena de texto, por que es un Array Asociativo)
+el dato que estamos buscando:
+
+    * para los datos POST, el <strong> name </strong> del campodel formulario
+

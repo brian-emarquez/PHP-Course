@@ -46,7 +46,7 @@ $categorias = [ 'Programacion', 'Diseño', 'Cursos', 'Servidores', 'Egresados' ]
 	<main>
 		<h1>Contáctanos</h1>
 		<p class="info">Para hacernos llegar tus mensajes, completa el siguiente formulario</p>
-		<form action="http://recursos.grodriguez.com.ar/FORM/" method="post">
+		<form action="forms/contacto.php"post">
 			<div><span>Tu nombre </span><input type="text" name="nombre" /></div>
 			<div><span>Tu Email </span><input type="email" name="correo" ></div>
 			<div><span>Motivo </span><select name="motivo">
