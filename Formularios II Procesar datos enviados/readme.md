@@ -10,5 +10,6 @@
 Entrer los corchetes va (como cadena de texto, por que es un Array Asociativo)
 el dato que estamos buscando:
 
-    * para los datos POST, el <strong> name </strong> del campodel formulario
+    * para los datos POST, el name del campo del formulario.
+    
 

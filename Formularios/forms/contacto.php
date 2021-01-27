@@ -1,7 +1,0 @@
-<!-- forms/contacto.php -->
-<?php 
-
-
-
-
-?>
