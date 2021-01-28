@@ -12,17 +12,17 @@
   <a href="https://github.com/BrianMarquez3/PHP-Course/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/PHP-Course.svg?style=flat" alt="Forks">
   </a>
-  <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/network">
+  <a href="https://github.com/BrianMarquez3/PHP-Course/network">
     <img src="https://img.shields.io/badge/coverage-80%25-yellowgreen">
   </a>
-   <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/network">
+   <a href="https://github.com/BrianMarquez3/PHP-Course/network">
     <img src="https://img.shields.io/badge/gem-2.2.0-blue">
   </a>
-   <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/network">
+   <a href="https://github.com/BrianMarquez3/PHP-Course/network">
     <img src="https://img.shields.io/badge/dependencies-out%20of%20date-orange">
   </a>
-   <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/network">
-    <img src="https://img.shields.io/badge/codacy-A-green">
+   <a href="https://github.com/BrianMarquez3/PHP-Course/network">
+    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a>
 </p>
   
