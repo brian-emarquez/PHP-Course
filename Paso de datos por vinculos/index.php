@@ -1,10 +1,11 @@
 <?php 
+var_dump($_GET);
+
 $nombre = 'Brian';
 $apellido = 'Marquez';
 $email = 'brian3marquez@gmail.com';
 
 $logueado = true;
-
 //El ini_set modifica (setea) parámetros del php.ini.
 //El display_errors en 0 apaga la muestra de errores, en 1 lo habilita
 //En la línea 21, tenemos un error que se muestra o no, según este valor
@@ -44,7 +45,7 @@ $redes = array(
 </head>
 <body>
 	<header>
-		<h1><?php echo BIT; //Esto mostrará el error de undefined constant, si el display_errors está en 1, pero no mostrará nada si está en 0 ?></h1>
+		<h1><a href ='index.php?variable=valor'><?php echo BIT; ?></a></h1>
 		
 		<!-- acceso a redes sociales -->
 		<ul>
@@ -141,7 +142,7 @@ $redes = array(
 	</main>
 	<aside>
 
-		<form action="" method="get">
+		<form action="index.php" method="get">
 			<h2>Buscador</h2>
 			<div><input type="search" id="buscar" name="buscar" /></div>
 			<div><input type="submit" value="buscar" /></div>
