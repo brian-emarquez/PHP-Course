@@ -54,6 +54,7 @@
 - [Paso de datos entre documentos GET y POST](#Paso-de-datos-entre-documentos-GET-y-POST)
 - [Formularios](#formularios-i)
 - [Formularios II](#formularios-ii)
+- [Envio de checkbox mediante Formularios](#Envio-de-checkbox-mediante-Formularios)
 - [Debbug](#debbug)
 - [Play List PHP](#Spotify-PHP)
 
@@ -518,6 +519,11 @@ el dato que estamos buscando:
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
 [Formularios II Procesar datos enviados](https://github.com/BrianMarquez3/PHP-Course/tree/main/Formularios%20II%20Procesar%20datos%20enviados)          |      ✔️     |
+
+---
+
+## Envio de checkbox mediante Formularios
+
 
 ---
 ## Debbug
