@@ -1,5 +1,5 @@
 
-<h2 align="center"> Learn PHP Beginner To Advanced | PHP Course &nbsp;🐘&nbsp;</h2>
+<h2 align="center"> Learn PHP Beginner To Advanced | PHP Course 🐘&nbsp;</h2>
 
 <p align="center">
   
@@ -471,6 +471,10 @@ for( $i = 0; $i < count($elementos); $i++ ){
 - No es visible y es para gran cantidad de documento
 - Forma parte de encabesado (error 404)
 
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+[Paso de datos entre documentos (GET y POST)](https://github.com/BrianMarquez3/PHP-Course/tree/main/Paso%20de%20datos%20entre%20documentos%20(GET%20y%20POST))          |      ✔️     |
+
 ---
 ## Formularios
 
@@ -484,6 +488,10 @@ for( $i = 0; $i < count($elementos); $i++ ){
 - Cuaquier control que no tenga un <strong> name </string> será omitido en el envio.
 - Y en en caso de los controlesa de seleccion, deberan tener un <strong>Value</string> que sea representativo de la informacion a enviar.
 - Si un radio o ckeckbox no tiene <strong>Value</string>, se envia el valot <strong>On</string> (pero no dice cual es el campo que fue seleccionado).
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+[Formularios](https://github.com/BrianMarquez3/PHP-Course/tree/main/Formularios)          |      ✔️     |
 
 ---
 
@@ -506,6 +514,10 @@ el dato que estamos buscando:
 
 - El documento que procesa la informacion se conoce como "Documento de acccion"
 - Seguin el objeto del formulario , este PHP trabajará con la base de datos o enviara una notificacion por mail.
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+[Formularios II Procesar datos enviados](https://github.com/BrianMarquez3/PHP-Course/tree/main/Formularios%20II%20Procesar%20datos%20enviados)          |      ✔️     |
 
 ---
 ## Debbug
@@ -531,7 +543,7 @@ Dueño y creador del Material [Bitdigitalacademy](https://www.bitdigitalacademy.
 
 ---
 ## Spotify PHP
-Music Python [List on Spotify](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
+🎵 Music Python [List on Spotify 🎤](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
 
 
 
