@@ -51,6 +51,9 @@
 - [Array Asociativo](#Array-Asociativo)
 - [Iteración de Arrays asociativos](#Iteración-de-Arrays-asociativos)
 - [Funciones para el manejo de Arrays](#Funciones-para-el-manejo-de-Arrays)
+- [Paso de datos entre documentos GET y POST](#Paso-de-datos-entre-documentos-GET-y-POST)
+- [Formularios](#formularios-i)
+- [Formularios II](#formularios-ii)
 - [Debbug](#debbug)
 - [Play List PHP](#Spotify-PHP)
 
@@ -188,6 +191,7 @@ HEREDOC;
 | [Operadores](https://github.com/BrianMarquez3/PHP-Course/tree/main/Operadores)          |      ✔️     | 
 | [Operador Ternario](https://github.com/BrianMarquez3/PHP-Course/tree/main/Operador%20Ternario)          |      ✔️     | 
 
+---
 ## Operadores de Comparación
 
 Partiendo de valores de cualquier tipo , nos devolverá un resultado de tipo <b>Booleano</b>
@@ -214,6 +218,8 @@ echo $logueado ==true ? # pregunta para hacer una evaluacion
 |----------------------------|:-----------:|
 | [Operador Ternario](https://github.com/BrianMarquez3/PHP-Course/tree/main/Operador%20Ternario)          |      ✔️     | 
 
+---
+
 ## Operador "Nave Espacial"
 
 Introducido en PHP 7 (no existe en las versiones anteriores), este operador permite saber si el primer valor es menor , igual o mayor al segundo valor.
@@ -235,6 +241,7 @@ Introducido en PHP 7 (no existe en las versiones anteriores), este operador perm
 | [Ciclos While, Do While y For](https://github.com/BrianMarquez3/PHP-Course/tree/main/Ciclos%20While%2C%20Do%20While%20y%20For)          |      ✔️     | 
 | [CIclo FOR-EACH](https://github.com/BrianMarquez3/PHP-Course/tree/main/CIclo%20FOR-EACH)          |      ✔️     | 
 
+---
 ## Matrices
 
 - Una matriz es un array que tiene otros arrays como elementos.
@@ -270,6 +277,7 @@ echo $elementos[0][3]
 | [Matrices](https://github.com/BrianMarquez3/PHP-Course/tree/main/Matrices)          |      ✔️     | 
 | [Matrices II](https://github.com/BrianMarquez3/PHP-Course/tree/main/Matrices%20II)          |      ✔️     | 
 
+---
 ## Array Asociativo
 
 * Un Array asociativo es el que en lugar de indices basados en numeros los tiene con cadenas de texto
@@ -353,6 +361,7 @@ for( $i = 0; $i < count($elementos); $i++ ){
 |----------------------------|:-----------:|
 | [Array Asocitivo](https://github.com/BrianMarquez3/PHP-Course/tree/main/Arrays%20asociativos)          |      ✔️     |   
 
+---
 
 ## Iteración de Arrays asociativos
 
@@ -380,6 +389,7 @@ for( $i = 0; $i < count($elementos); $i++ ){
 |----------------------------|:-----------:|
 [Iteración de Arrays asociativos](https://github.com/BrianMarquez3/PHP-Course/tree/main/Iteraci%C3%B3n%20de%20Arrays%20asociativos)          |      ✔️     | 
 
+---
 ## Funciones para el manejo de Arrays
 
 ##  Funciones para el manejo de Arrays
@@ -426,6 +436,78 @@ for( $i = 0; $i < count($elementos); $i++ ){
 |----------------------------|:-----------:|
 [Funciones para el manejo de Arrays](https://github.com/BrianMarquez3/PHP-Course/tree/main/Funciones%20para%20el%20manejo%20de%20Arrays)          |      ✔️     | 
 
+---
+## Paso de datos entre documentos GET y POST
+
+## Paso de datos
+
+- Cuando creamos una variable, la misma solo existe en el dcumento donde fue creada
+- Al hacer click en otro vinculo, esta inforacion se elimina de la memoria
+- Para pasar un dato (o un valor)de un archivo a otro, PHP nos ocrece 3 tecnicas:
+
+* Enviar Datos por GET ➜ Por Formularios y vinculos
+* Enviar Datos pro POST ➜ Formularios unicamente
+* USAR VARIABLES DE SESION ➜ 
+
+## Diferencia entre GET Y POST
+### GET
+
+- El Envio de dato por GET tiene 3 desventajas importantes sobre POST.
+    * La Informacon es enviada de forma visible por URL, bajo la estructura
+
+    ```php
+    htttp://dominio.com/carpeta/archivo.php? variable1=valor&variable2=valor2
+    ```
+
+- Tiene un limite de 2048 caracteres, desde el principio al final(incluye http)
+
+- No permite adjuntar archivos (no reconoce el input de tipo file)
+- Tiene mejor Performanse.
+- Se puede guardar en favoritos o compartir en redes sociales.
+
+
+### POST
+
+- No es visible y es para gran cantidad de documento
+- Forma parte de encabesado (error 404)
+
+---
+## Formularios
+
+- Los Formularios permiten el envio de tanto GET como por POST
+- Eso se define con el atributo <strong> method </strong> que tendra uno de eso dos valores.
+- La Informacion ingresada sera enviada al documento que haya sido indicado en el atributo <strong>action</strong> del formulario
+
+## Atributos y controles
+
+- Todos los campos del formulario deben tener atributo name.
+- Cuaquier control que no tenga un <strong> name </string> será omitido en el envio.
+- Y en en caso de los controlesa de seleccion, deberan tener un <strong>Value</string> que sea representativo de la informacion a enviar.
+- Si un radio o ckeckbox no tiene <strong>Value</string>, se envia el valot <strong>On</string> (pero no dice cual es el campo que fue seleccionado).
+
+---
+
+## Formularios II
+
+### Recibir datos
+
+- Para PHP, GET y POST son arrays asociativos con la informacion enviada desde un archivo al otro.
+
+    * para obtener los datos enviados por GET se usa $_GET[]
+    * Para obtener los datos enviados por POST, $_POST[]
+
+Entrer los corchetes va (como cadena de texto, por que es un Array Asociativo)
+el dato que estamos buscando:
+
+    * para los datos POST, el name del campo del formulario.
+    * para los datos por GET, el no,bre de la variable recopila por URL.
+
+### El action del formulario
+
+- El documento que procesa la informacion se conoce como "Documento de acccion"
+- Seguin el objeto del formulario , este PHP trabajará con la base de datos o enviara una notificacion por mail.
+
+---
 ## Debbug
 
 [Xdebug](https://xdebug.org/wizard) 
