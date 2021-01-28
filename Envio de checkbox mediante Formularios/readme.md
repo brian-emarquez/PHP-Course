@@ -13,7 +13,33 @@
 
 ### Simplificar el Checkbox
 
-- Claro que hacer un <strong>  isset()  </strong>, por cada campo es aceptable con 5 o 10 checkbox
+- Claro que hacer un <strong>  isset()  </strong>, por cada campo es aceptable con 5 o 10 checkbox.
+- En un cantidad mayor se vuelve inmanejable
+
+```
+if (isset($_POST['categoria0'])){
+    $categorias_seccionadas .= " ".$_POST['categoria0'];
+}
+
+if (isset($_POST['categoria1'])){
+    $categorias_seccionadas .= " ". $_POST['categoria1'];
+}
+
+if (isset($_POST['categoria2'])){
+    $categorias_seccionadas .= " ".$_POST['categoria2'];
+}
+
+if (isset($_POST['categoria3'])){
+    $categorias_seccionadas .= " ". $_POST['categoria3'];
+}
+
+if (isset($_POST['categoria4'])){
+    $categorias_seccionadas .= " ".$_POST['categoria4'];
+}
+```
+
+- Por lo cual la solucion es hacer que el <strong>  name  </strong> en HTML tengan formato de array -> cbox[].
+- Para HTML es un nombre valido y PHP asume que $_POST['cbox'] es efectivamente un array, por el cual podemos recorrerlo con un for/foreach o unirlos con un implode().
 
 
 

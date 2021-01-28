@@ -59,7 +59,7 @@ $categorias = [ 'Programacion', 'Diseño', 'Cursos', 'Servidores', 'Egresados' ]
 					<?php 
 					for($x = 0; $x < count($categorias); $x++ ):
 						echo "<label><input type='checkbox' value='$categorias[$x]' 
-						name='categoria$x' /> $categorias[$x]</label>";
+						name='categoria[]' /> $categorias[$x]</label>"; // compatamiento como array
 					endfor;
 					?>
 				</div>

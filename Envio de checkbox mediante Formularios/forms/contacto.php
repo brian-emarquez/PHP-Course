@@ -8,7 +8,12 @@ echo '</pre>';
 
 // el Eredoc no debe tener ningun espacio en balnco para evitar errores
 
-$categorias_seccionadas = '';
+$categorias_seccionadas = 'No selecciono categorias';
+if(isset ($_POST['categoria'])){
+    $categorias_seccionadas = implode(', ', $_POST['categoria']);
+}
+
+/*
 if (isset($_POST['categoria0'])){
     $categorias_seccionadas .= " ".$_POST['categoria0'];
 }
@@ -28,11 +33,12 @@ if (isset($_POST['categoria3'])){
 if (isset($_POST['categoria4'])){
     $categorias_seccionadas .= " ".$_POST['categoria4'];
 }
-
+*/
 $nombre_ingresado = "No Definido";
 if (!empty($_POST['nombre'])){
     $nombre_ingresado = $_POST['nombre'];
 }
+
 
 // el Eredoc no debe tener ningun espacio en balnco para evitar errores
 $mensaje = <<<HTML
