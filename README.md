@@ -569,7 +569,7 @@ if (isset($_POST['categoria4'])){
 
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
-[Envio de checkbox mediante Formularios](https://github.com/BrianMarquez3/PHP-Course/tree/main/Envio%20de%20checkbox%20mediante%20Formularios          |      ✔️     |
+[Envio de checkbox mediante Formularios](https://github.com/BrianMarquez3/PHP-Course/tree/main/Envio%20de%20checkbox%20mediante%20Formularios)          |      ✔️     |
 
 ---
 ## Debbug
