@@ -1,4 +1,7 @@
-<?php 
+<?php
+$seccion = $_GET['seccion'];
+var_dump($seccion);
+
 $nombre = 'Brian';
 $apellido = 'Marquez';
 $email = 'brian@email.com';
@@ -55,24 +58,36 @@ $redes = array(
 	</header>
 	<nav>
 		<ul>
-			<li><a href="index.php">Home</a></li>
-			<li><a href="index.php">Categorias</a>
+			<li><a href="index.php?seccion=home">Home</a></li>
+			<li><a href="index.php?seccion=categorias">Categorias</a>
 				<ul>
 					<?php 
 					for( $i = 0; $i < count($categorias); $i++ ):
-						echo '<li><a href="index.php">'.$categorias[$i].'</a></li>';
+						echo '<li><a href="index.php?seccion=categoria">'.$categorias[$i].'</a></li>';
 					endfor;
 					?>
 				</ul>
 			</li>
-			<li><a href="index.php">Contacto</a></li>
+			<li><a href="index.php?seccion=contacto">Contacto</a></li>
 		</ul>
 	</nav>
 	
 	<main>
 	<!-- aqui estaba el contenido -->
 	<?php 
-	require( 'contenidos/registro.php' );
+		//require( 'contenidos/registro.php' );
+		//Verificar cual de todos las secciones debemos cargar
+		switch($seccion):
+			case 'home':include('contenidos/home.php'); break;
+			case 'categorias':include('contenidos/categorias.php'); break;
+			case 'categoria':include('contenidos/categoria.php'); break;
+			case 'registro':include('contenidos/registro.php'); break;
+			case 'contrasenia':include('contenidos/recuperar.php'); break;
+			case 'perfil':include('contenidos/perfil.php'); break;
+			case 'contacto':include('contenidos/contacto.php'); break;
+			case 'leer':include('contenido/leer.php'); break;
+
+		endswitch;
 	?>
 	</main>
 	<aside>
@@ -92,7 +107,7 @@ $redes = array(
 			<h2>Login</h2>
 			<div><input type="text" placeholder="usuario" name="usuario" id="usuario" /></div>
 			<div><input type="password" placeholder="clave" name="clave" id="clave" /></div>
-			<div class="center"><a href="">Registro</a><a href="index.php">Olvidé mi contraseña</a></div>
+			<div class="center"><a href="index.php?seccion=registro">Registro</a><a href="index.php?seccion=contrasenia">Olvidé mi contraseña</a></div>
 			<div><input type="submit" value="Ingresar" /></div>
 		</form>
 		<?php 
@@ -104,7 +119,7 @@ $redes = array(
 			<img src="recursos/img/fill-murray.jpg" alt="Avatar de Nombre usuario" />
 			<p><?php echo $email; ?></p>
 			<div class="center">
-				<a href="perfil.html">Editar perfil</a>
+				<a href="index.php?seccion=perfil">Editar perfil</a>
 				<a href="#">Cerrar sesión</a>
 			</div>
 		</div>
