@@ -56,7 +56,7 @@
 - [Formularios II](#formularios-ii)
 - [Envio de checkbox mediante Formularios](#Envio-de-checkbox-mediante-Formularios)
 - [Navegación de una web usando templates](#Navegación-de-una-web-usando-templates)
-- [Inclusion de plantillas con include y requires](#Inclusion-de-plantillas-con-include-y-require)
+- [Inclusion de plantillas con include y requires](#Inclusion-de-plantillas-con-include-y-requires)
 - [Debbug](#debbug)
 - [Play List PHP](#Spotify-PHP)
 
