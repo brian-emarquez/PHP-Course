@@ -655,5 +655,9 @@ Dueño y creador del Material [Bitdigitalacademy](https://www.bitdigitalacademy.
 ## Spotify PHP
 🎵 Music Python [List on Spotify 🎤](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
 
+---
+## Paypal
+🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
+
 
 
