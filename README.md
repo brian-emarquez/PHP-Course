@@ -602,7 +602,7 @@ if (isset($_POST['categoria4'])){
 
 ---
 
-## Inclusion de plantillas con include y requires
+## sInclusion de plantillas con include y requires
 
 ###  Como seleccionar el Template
 
