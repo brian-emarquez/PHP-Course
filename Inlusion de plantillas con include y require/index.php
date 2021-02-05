@@ -56,16 +56,16 @@ $redes = array(
 	<nav>
 		<ul>
 			<li><a href="index.php">Home</a></li>
-			<li><a href="categorias.php">Categorias</a>
+			<li><a href="index.php">Categorias</a>
 				<ul>
 					<?php 
 					for( $i = 0; $i < count($categorias); $i++ ):
-						echo '<li><a href="categoria.php">'.$categorias[$i].'</a></li>';
+						echo '<li><a href="index.php">'.$categorias[$i].'</a></li>';
 					endfor;
 					?>
 				</ul>
 			</li>
-			<li><a href="contacto.php">Contacto</a></li>
+			<li><a href="index.php">Contacto</a></li>
 		</ul>
 	</nav>
 	
@@ -92,7 +92,7 @@ $redes = array(
 			<h2>Login</h2>
 			<div><input type="text" placeholder="usuario" name="usuario" id="usuario" /></div>
 			<div><input type="password" placeholder="clave" name="clave" id="clave" /></div>
-			<div class="center"><a href="registro.html">Registro</a><a href="recuperar.html">Olvidé mi contraseña</a></div>
+			<div class="center"><a href="">Registro</a><a href="index.php">Olvidé mi contraseña</a></div>
 			<div><input type="submit" value="Ingresar" /></div>
 		</form>
 		<?php 
