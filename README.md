@@ -653,7 +653,7 @@ Dueño y creador del Material [Bitdigitalacademy](https://www.bitdigitalacademy.
 
 ---
 ## Spotify PHP
-🎵 Music Python [List on Spotify 🎤](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
+🎵 Music PHP [List on Spotify 🎤](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
 
 ---
 ## Paypal
