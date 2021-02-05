@@ -55,6 +55,8 @@
 - [Formularios](#formularios-i)
 - [Formularios II](#formularios-ii)
 - [Envio de checkbox mediante Formularios](#Envio-de-checkbox-mediante-Formularios)
+- [Navegación de una web usando templates](#Navegación-de-una-web-usando-templates)
+- [Inclusion de plantillas con include y requires](#Inclusion-de-plantillas-con-include-y-require)
 - [Debbug](#debbug)
 - [Play List PHP](#Spotify-PHP)
 
@@ -570,6 +572,62 @@ if (isset($_POST['categoria4'])){
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
 [Envio de checkbox mediante Formularios](https://github.com/BrianMarquez3/PHP-Course/tree/main/Envio%20de%20checkbox%20mediante%20Formularios)          |      ✔️     |
+
+---
+
+## Navegación de una web usando templates
+
+###  Qué es un template
+
+- Un Template es cualquier fragmeto de codigo HTML cuyo contendo no definido de antemano se va a completar con ayuda de php.
+
+- Puede ser un <strong> Componente </strong> 
+- Puede ser algo <strong>MICRO</strong> como el mail que se envia cuando un usuario completa un formulario.
+
+
+### Navegando por Templates
+
+- es no de los metodos mas usuados para optimizar las navegacion de una web
+-Dado que la estructura de una pagina web se repite entre todos los archivos ue nevegamos (index, categorias, ver posteo, registro), dejamos en el index.php todos lo elementos en comun (header, aside, footer)
+
+### Incluir los Templates
+
+- Para cargar uno de estos archovso que convertimos en template, debemos usar la funcion <strong>include() o requiere() </strong> que reciben entre parentesis la ruta para llegar al archivo que queremos incluir.
+
+- A nivel funcionamiento no hay diferencias entre ambas, salvo que el archivo solicitado no exita.
+ 
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+[Navegación de una web usando templates](https://github.com/BrianMarquez3/PHP-Course/tree/main/Navegaci%C3%B3n%20de%20una%20web%20usando%20templates)          |      ✔️     |
+
+---
+
+## Inclusion de plantillas con include y requires
+
+###  Como seleccionar el Template
+
+- Por Medio de <strong> include() o require() </strong> cargaremos el template que nos interesa
+
+- para lograrlo, vamos a tener que engiar por GER una variable que no indique que el usuario hizo click en un vinculo de la botonera
+
+### Modificar los Links
+
+- Ahora todos lo vinculos (de la botonera , registro, login y ver perfil ), apuntaran al INDEX.PHP por ese motivo tiene la esctructura en comun vacia.
+
+### Modificar los link
+
+- Ahora todos lo vinculo (de la botonera, registro, login y ver perfil), apuntarán al INDEX.PHP por que ese archivo tiene la estructra en común vacia.
+- Y cada vínculo manda por GET una variable(la misma para todos).
+- Y Por cada vinculo, solo cambia el valor que manda la variable(lo que está después del igual).
+
+### Cargar el Template
+
+- Para saber cuál de todos lo templates hay que incluir solo debemos evaluar el valor que tiene la variable ercibida por GET.
+- Y como puede teer muchos valores posibles )tanto como secciones existan), debemos hacer un IF o SWITCH que verifique que hemos recebido
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+[Inclusion de plantillas con include y require](https://github.com/BrianMarquez3/PHP-Course/tree/main/Inclusion%20de%20plantillas%20con%20include%20y%20require)          |      ✔️     |
 
 ---
 ## Debbug
