@@ -13,5 +13,7 @@
 
 ## Incluir los Templates
 
-- Para cargar uno de estos archovso que convertimos en template, debemos usar la funcion <strong>include() o requiere() que reciben entre parentesis la ruta para llegar al archivo que queremos incluir
+- Para cargar uno de estos archovso que convertimos en template, debemos usar la funcion <strong>include() o requiere() </strong> que reciben entre parentesis la ruta para llegar al archivo que queremos incluir.
+
+- A nivel funcionamiento no hay diferencias entre ambas, salvo que el archivo solicitado no exita.
  
