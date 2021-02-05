@@ -10,4 +10,8 @@
 
 - es no de los metodos mas usuados para optimizar las navegacion de una web
 -Dado que la estructura de una pagina web se repite entre todos los archivos ue nevegamos (index, categorias, ver posteo, registro), dejamos en el index.php todos lo elementos en comun (header, aside, footer)
+
+## Incluir los Templates
+
+- Para cargar uno de estos archovso que convertimos en template, debemos usar la funcion <strong>include() o requiere() que reciben entre parentesis la ruta para llegar al archivo que queremos incluir
  

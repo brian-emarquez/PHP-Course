@@ -12,6 +12,3 @@
 - Dividir el listado de contenidos en distitntas paginas []
 - Ver un determinado elelento del listado fisponible en la Web    
 - Definir que seccion o categoria queremos accceder
-
-
-
