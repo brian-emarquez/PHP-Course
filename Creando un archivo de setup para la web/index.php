@@ -5,7 +5,7 @@ $nombre = 'Brian';
 $apellido = 'Marquez';
 $email = 'brian@email.com';
 
-$logueado = true;
+$logueado = true;git
 
 //El ini_set modifica (setea) parámetros del php.ini.
 //El display_errors en 0 apaga la muestra de errores, en 1 lo habilita
@@ -60,8 +60,9 @@ include('setup/array.php');
 	
 	<main>
 	<!-- aqui estaba el contenido -->
-	<?php 
 
+	<?php 
+		
 	switch($seccion):
 		case 'home':include('contenidos/home.php'); break;
 		case 'categorias':include('contenidos/categorias.php'); break;
