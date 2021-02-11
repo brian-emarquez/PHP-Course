@@ -1,26 +1,9 @@
 <?php 
 $seccion = $_GET['seccion'];
 
-$nombre = 'Brian';
-$apellido = 'Marquez';
-$email = 'brian@email.com';
-
-$logueado = true;git
-
-//El ini_set modifica (setea) parámetros del php.ini.
-//El display_errors en 0 apaga la muestra de errores, en 1 lo habilita
-//En la línea 21, tenemos un error que se muestra o no, según este valor
-ini_set('display_errors', 1 );
-
-function generar_fecha( $dia, $mes, $anio, $formato = true ){
-	if( $formato == false ){
-		return "$dia/$mes";
-	}else{
-		return "$dia del $mes de $anio";
-	}
-}
-
-include('setup/array.php');
+include( 'setup/configuracion.php' );
+include( 'setup/funciones.php' );
+include( 'setup/arrays.php' );
 
 ?>
 <!DOCTYPE HTML>
@@ -60,21 +43,18 @@ include('setup/array.php');
 	
 	<main>
 	<!-- aqui estaba el contenido -->
-
 	<?php 
-		
-	switch($seccion):
-		case 'home':include('contenidos/home.php'); break;
-		case 'categorias':include('contenidos/categorias.php'); break;
-		case 'categoria':include('contenidos/categoria.php'); break;
-		case 'registro':include('contenidos/registro.php'); break;
-		case 'contrasenia':include('contenidos/recuperar.php'); break;
-		case 'home':include('contenidos/home.php'); break;
-		case 'perfil':include('contenidos/perfil.php'); break;
-		case 'contacto':include('contenidos/contacto.php'); break;
-		case 'leer':include('contenidos/leer.php'); break;
-	endswitch;
-
+		//verificar cuál de todas las secciones debemos cargar
+		switch( $seccion ):
+			case 'home': include( 'contenidos/home.php' ); break;
+			case 'categorias': include( 'contenidos/categorias.php'); break;
+			case 'categoria': include( 'contenidos/categoria.php' ); break;
+			case 'registro': include( 'contenidos/registro.php' ); break;
+			case 'contrasenia' : include( 'contenidos/recuperar.php' ); break;
+			case 'perfil': include( 'contenidos/perfil.php'); break;
+			case 'contacto': include( 'contenidos/contacto.php'); break;
+			case 'leer': include( 'contenidos/leer.php'); break;
+		endswitch;
 	?>
 	</main>
 	<aside>
@@ -94,8 +74,7 @@ include('setup/array.php');
 			<h2>Login</h2>
 			<div><input type="text" placeholder="usuario" name="usuario" id="usuario" /></div>
 			<div><input type="password" placeholder="clave" name="clave" id="clave" /></div>
-			<div class="center"><a href="index.php?seccion=registro">Registro</a>
-			<a href="index.php?seccion=contrasenia">Olvidé mi contraseña</a></div>
+			<div class="center"><a href="index.php?seccion=registro">Registro</a><a href="index.php?seccion=contrasenia">Olvidé mi contraseña</a></div>
 			<div><input type="submit" value="Ingresar" /></div>
 		</form>
 		<?php 
