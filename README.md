@@ -100,7 +100,7 @@ PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de códi
 _Paquetes instaladores servidores_
 
 * [WAMP](https://sourceforge.net/projects/wampserver/) - WampServer es una plataforma de desarrollo web en Windows que le permite crear aplicaciones web dinámicas con Apache2, PHP, MySQL y MariaDB. <br>
-	-Solucion Error  MSVCR110.edll
+	- Solucion Error  MSVCR110.edll
 	* [Visual C++ Redistributable for Visual Studio 2012 Update 4 ](https://www.microsoft.com/en-us/download/details.aspx?id=30679)
 
 * [MAMP](https://www.mamp.info/en/downloads/) - MAMP instala un entorno de servidor local en cuestión de segundos en su computadora Windows o macOS. MAMP es gratuito y se instala fácilmente.
