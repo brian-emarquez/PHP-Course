@@ -1,5 +1,13 @@
 <?php 
-$seccion = $_GET['seccion'];
+/*
+if( isset( $_GET['seccion'] ) ){
+	$seccion = $_GET['seccion'];
+}else{
+	$seccion = 'home';
+	
+} */
+
+$seccion = isset($_GET['seccion']) ? $_GET['seccion']:'home';
 
 include( 'setup/configuracion.php' );
 include( 'setup/funciones.php' );
@@ -27,8 +35,14 @@ include( 'setup/arrays.php' );
 	</header>
 	<nav>
 		<ul>
-			<li><a href="index.php?seccion=home">Home</a></li>
-			<li><a href="index.php?seccion=categorias">Categorias</a>
+			<li><a href="index.php?seccion=home" 
+			
+			<?php if( $seccion == 'home' ){ echo ' class="actual" '; } ?>
+			
+			>Home</a></li>
+			<li><a href="index.php?seccion=categorias"
+			<?php if( $seccion == 'categorias' || $seccion == 'categoria' ){ echo ' class="actual" '; } ?>
+			>Categorias</a>
 				<ul>
 					<?php 
 					for( $i = 0; $i < count($categorias); $i++ ):
@@ -37,7 +51,9 @@ include( 'setup/arrays.php' );
 					?>
 				</ul>
 			</li>
-			<li><a href="index.php?seccion=contacto">Contacto</a></li>
+			<li><a href="index.php?seccion=contacto" 
+			<?php if( $seccion == 'contacto' ){ echo ' class="actual" '; } ?>
+			>Contacto</a></li>
 		</ul>
 	</nav>
 	
@@ -54,6 +70,10 @@ include( 'setup/arrays.php' );
 			case 'perfil': include( 'contenidos/perfil.php'); break;
 			case 'contacto': include( 'contenidos/contacto.php'); break;
 			case 'leer': include( 'contenidos/leer.php'); break;
+			default: 
+				echo "<p class='error'>La sección solicitada ($seccion), no existe</p>";
+				include( 'contenidos/home.php' ); 
+			break;
 		endswitch;
 	?>
 	</main>
@@ -95,7 +115,31 @@ include( 'setup/arrays.php' );
 		?>
 	</aside>
 	<footer>
-		
+		<div>
+			<h2>About</h2>
+			<img src="recursos/img/who_we_are.jpg" alt="Aida y Germán" />
+			<ul>
+				<li>Copyright &copy; 2018, Germán Rodríguez &amp;&amp; Aida Cortés</li>
+				<li>Todos los derechos reservados BloomIT</li>
+				<li><a href="#">Términos y Condiciones</a></li>
+				<li><a href="#">Conocenos más</a></li>
+			</ul>
+		</div>
+		<div>
+			<h2>Links Utiles</h2>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="categorias.html">Categorias</a></li>
+				<li><a href="Contacto.html">Contacto</a></li>
+				<li><span>Social</span>
+					<ul>
+						<li><a href="https://www.facebook.com/user">Facebook</a></li>
+						<li><a href="https://www.twitter.com/user">Twitter</a></li>
+						<li><a href="https://www.instagram.com/user">Instagram</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
 	</footer>
 </body>
 </html>

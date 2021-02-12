@@ -28,7 +28,8 @@ header h1{ font: bold 70px Title; margin: 0; line-height: 1em;  color: #8B3146; 
 nav{ margin-bottom: .5em; border-top: 6px solid #F4645F; box-shadow: 0 0 9px rgba(0,0,0,0.6); background: #F5F5F5}
 nav > ul > li{ position: relative; width: 100px; text-align: center; }
 nav > ul > li a{ display: block; padding: 1em 5px; color: purple; }
-nav > ul > li:hover > a{ background-color: #D848A2; color: white; text-decoration: none; }
+nav > ul > li a.actual{ background-color: purple; color: white; text-decoration: none;  }
+nav > ul > li:hover > a:not(.actual){ background-color: #D848A2; color: white; text-decoration: none; }
 nav > ul > li > ul{ font-size: 0.85em; position: absolute; left: -50px; background: #F5F5F5; border: 1px solid #ACACAC; border-top: none; width: 200px; display: none; }
 nav > ul > li:hover > ul{ display: block; }
 nav > ul > li > ul a:hover{ background: pink; text-decoration: none; }
