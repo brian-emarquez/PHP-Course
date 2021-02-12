@@ -57,6 +57,8 @@
 - [Envio de checkbox mediante Formularios](#Envio-de-checkbox-mediante-Formularios)
 - [Navegación de una web usando templates](#Navegación-de-una-web-usando-templates)
 - [Inclusion de plantillas con include y requires](#Inclusion-de-plantillas-con-include-y-requires)
+- [Creando un archivo de setup para la web](#Creando-un-archivo-de-setup-para-la-web)
+- [Verificaciones Obligatorias en el envio de datos](#Verificaciones-Obligatorias-en-el-envio-de-datos)
 - [Debbug](#debbug)
 - [Play List PHP](#Spotify-PHP)
 
@@ -631,6 +633,81 @@ if (isset($_POST['categoria4'])){
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
 [Inclusion de plantillas con include y require](https://github.com/BrianMarquez3/PHP-Course/tree/main/Inclusion%20de%20plantillas%20con%20include%20y%20require)          |      ✔️     |
+
+---
+
+## Creando un archivo de setup para la web
+
+### Formatos de inclusión
+
+- Por medio del <strong> include() o require</strong> podemos incluir archivos HTML O PHP
+
+- La ventaja está en que la inclusion se resuelve en el servidor, por lo cual si se incluye un archivo con extension PHP se procesa de incluirse.
+
+- En consecuencia , siese PHP tiene variables o funciones, ya forman parte 
+del resto del sitio (inlusive de otros include que se haga a continuacion).
+
+- Esto permite desglosar en distintos modulos la programacion de la pagina web en lugar de teer un bloque demasiado extenso
+
+### Archivo de Configuracion
+
+- Tal es así, que una práctica recomendable es tener un archivo donde se encuentren la configuraciones basicas del sitio.
+
+- Esto se Extiende a la muestra de arrores , funciones , arrays, conexiones a la base de datos, zona horaria, etc.
+### Incluir archivos mas de unas vez
+
+- Desdfe la porgramacion cargar mas de una vez el mismo archivo si es necesario, pero en algunos casos eso puede generar o mostrar menos errores
+
+- por ejemeplo, PHP no permite redifinir las funciones(crearlas mas de una ves con la palabra reservada FUNCTION() po rque corta con un error.
+
+- po lo Cual INCLUDE() Y REQUIERE() tienen un funcion análoga que no cargan los archivos si ya fueron incluidos con anterioridad.
+
+- son las funciones INCLUDE_ONE() y REQUIERE_ONCE()
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+[Creando un archivo de setup para la web](https://github.com/BrianMarquez3/PHP-Course/tree/main/Creando%20un%20archivo%20de%20setup%20para%20la%20web)          |      ✔️     |
+
+---
+
+## Verificaciones Obligatorias en el envio de datos
+
+### el GET puede fallar
+
+- Regla fundamental de PHP: No se puede hacer un GET(ni un POST) de algo que no existe , da error.
+
+- Y cuando el usuario accede a la web, el GET no existe (porque todavia no interactuó con ningun link)
+
+- el GET es un array, y las variables recibidas son indices de ese Array 
+
+- Por lo cual se verifica con <strong> isset():</strong>
+
+```php
+    if(isset($_GET['seccion'])) {/* Cargando el modulo*/}
+```
+
+### Secciones invalidas
+
+- Dado qe el paso de datos de GET es visible y publico, un usuario puede cambiar la seccion perdida.
+- Hay que tener presente qué pasa si se pide una seccion invalida.
+- En ese caso el GET de seccion existe, pero el valor está mal.
+- Con un IF o SWITCH hemos definido qué categoria se carga ante cada valor valido.
+- Si no es ninguna válida en el ELSE o DEFAULT, se carga una seccion por defecto (que puede ser nuevamente el index, con un mensaje de error).
+
+### Marcar la seccion actual
+
+- Generalmente al usuario se le marca el vinvulo de la seccion donde se encuentra navegando.
+- Esto se hace un class o id que destaque ese boton por sobre los demas.
+
+### Marcar la seccion actual
+
+- Generalmente al usuario se le marca el vinculo de la seccion donde se encuentra novegando.
+- Esto se hace con CLASSo ID que destaque ese boton por sobre las demas
+-Hata ahora esto era simple , por que al HTML que le correspondia, se le marcaba su opcion.
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+[Verificaciones Obligatorias en el envio de datos](https://github.com/BrianMarquez3/PHP-Course/blob/main/Verificaciones%20Obligatorias%20en%20el%20envio%20de%20datos/readme.md)          |      ✔️     |
 
 ---
 ## Debbug
