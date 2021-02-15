@@ -10,5 +10,4 @@ $url_Anterior = isset($_SERVER['HTTP_REFERER'])?
                     '../index.php';
 
 header ( "Location: $url_Anterior" );
-
 ?>
