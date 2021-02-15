@@ -116,11 +116,7 @@ include( 'setup/arrays.php' );
 	</aside>
 	<footer>
 		<div>
-			<h2>About</h2>
-			<img src="recursos/img/who_we_are.jpg" alt="Aida y Germán" />
-			<ul>
-				<li>Copyright &copy; 2018, Germán Rodríguez &amp;&amp; Aida Cortés</li>
-				<li>Todos los derechos reservados BloomIT</li>
+		
 				<li><a href="#">Términos y Condiciones</a></li>
 				<li><a href="#">Conocenos más</a></li>
 			</ul>

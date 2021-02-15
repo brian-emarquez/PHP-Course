@@ -14,7 +14,6 @@ if(file_exists($ruta)){
 	<h1><?php echo $archivo; ?></h1>
 			
 	<p><?php echo $contenido; ?></p>  
-	<!-- include ($ruta) , interpreata codigo dentro de los .txt -->
 
 </article>
 		
