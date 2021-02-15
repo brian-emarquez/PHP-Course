@@ -1,2 +1,0 @@
-### El Array $_SERVER
-

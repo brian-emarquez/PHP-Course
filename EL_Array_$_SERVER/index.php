@@ -91,8 +91,16 @@ include( 'setup/arrays.php' );
 		if( $logueado == false ){ //Si no está logueado, mostramos el formulario de login.
 		?>
 		<!-- esto se muestra si el usuario no está logueado -->
-		<form action="" method="post">
+		<form action="forms/login.php" method="post">
 			<h2>Login</h2>
+
+			<?php
+			if( isset( $_GET ['login'])){
+				echo '<p style= "padding: 4px; font-size: 10px; background: pink; color: 
+				darkred" > Error Usario  o clave </p>';
+			}
+			?>
+
 			<div><input type="text" placeholder="usuario" name="usuario" id="usuario" /></div>
 			<div><input type="password" placeholder="clave" name="clave" id="clave" /></div>
 			<div class="center"><a href="index.php?seccion=registro">Registro</a><a href="index.php?seccion=contrasenia">Olvidé mi contraseña</a></div>

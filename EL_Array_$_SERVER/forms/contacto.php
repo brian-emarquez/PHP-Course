@@ -20,6 +20,11 @@ if( ! empty($_POST['nombre']) ){
 	$nombre_ingresado = $_POST['nombre'];
 }
 
+if (empty($_POST['correo'])){
+	header( "Location: ../index.php?seccion=contacto&rta=error" );
+	die ( ); //corta todo la ejecucion
+}
+
 $mensaje = <<<HTML
 
 <div style="background: lightyellow; width: 80%; border: 1px solid #AAA; padding: 10px; font: 12px Verdana">
@@ -42,7 +47,7 @@ HTML;
 
 
 //ob_start( );
-header( "Location: ../index.php?seccion=gracias" );
+header( "Location: ../index.php?seccion=contacto&rta=ok" );
 
 
 ?>
