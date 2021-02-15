@@ -4,4 +4,4 @@
 $_SERVER
 ```
 
-![php](./EL_Array_$_SERVER/images/server.png)
+![php](../images/server.png)
