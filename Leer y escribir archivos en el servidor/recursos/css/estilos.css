@@ -41,7 +41,7 @@ main ul li{ width: 30%; margin-bottom: 15px; }
 main ul li small{ font-family: Arial;}
 main ul li img{ max-width: 100%; }
 main h1{ color: silver; font: 60px Section; margin: 10px 0; text-align: center; }
-main h2, aside h2{ font: bold small-caps 24px 'Trebuchet Ms'; background: #CB342E; color: white; padding: 5px; margin: 20px 0 5px 0; }
+main h2, aside h2{ font: bold small-caps 24px 'Trebuchet Ms'; background: #502ecb; color: white; padding: 5px; margin: 20px 0 5px 0; }
 
 aside > * { margin-bottom: 40px; }
 aside form div{ margin-bottom: 4px; overflow: auto; }

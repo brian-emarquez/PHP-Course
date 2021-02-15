@@ -18,7 +18,7 @@ include( 'setup/arrays.php' );
 <html lang="es-AR">
 <head>
 	<meta charset="UTF-8" />
-	<title>BIT Blog</title>
+	<title>Brian Enrique</title>
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
 	<link rel="stylesheet" type="text/css" href="recursos/css/estilos.css" />
 </head>
@@ -70,6 +70,7 @@ include( 'setup/arrays.php' );
 			case 'perfil': include( 'contenidos/perfil.php'); break;
 			case 'contacto': include( 'contenidos/contacto.php'); break;
 			case 'gracias': include( 'contenidos/gracias.php'); break;
+			case 'static': include( 'contenidos/static.php'); break;
 			case 'leer': include( 'contenidos/leer.php'); break;
 			default: 
 				echo "<p class='error'>La sección solicitada ($seccion), no existe</p>";
