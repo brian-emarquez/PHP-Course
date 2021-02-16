@@ -29,40 +29,42 @@
 ![php](./images/code.jpg)
 ## Tabla de contenidos
 
-- [Que es PHP](#Que-es-PHP)
-- [Cualidades](#Cualidades)
-- [Desarrollo Web](#Desarrollo-Web)
-- [Servidores](#Servidores)
-- [La Web Dinamica](#La-Web-Dinamica)
-- [XAMPP](#XAMPP)
-- [Servidor Portable](#Servidor-Portable)
-- [Post Instalacion](#Post-Instalacion)
-- [Entorno de Desarrollo](#Entorno-de-Desarrollo)
-- [Codigo](#Codigo)
-- [Cadenas de texto](#Cadenas-de-texto)
-- [Heredoc](#Heredoc)
-- [Niveles de Error](#Niveles-de-Error)
-- [Operadores](#Operadores)
-- [Operadores de Comparación](#Operadores-de-Comparación)
-- [Operador Ternario](#Operador-Ternario)
-- [Operador "Nave Espacial](#Operador-"Nave-Espacial")
-- [Ciclos](#Ciclos)
-- [Matrices](#Matrices)
-- [Array Asociativo](#Array-Asociativo)
-- [Iteración de Arrays asociativos](#Iteración-de-Arrays-asociativos)
-- [Funciones para el manejo de Arrays](#Funciones-para-el-manejo-de-Arrays)
-- [Paso de datos entre documentos GET y POST](#Paso-de-datos-entre-documentos-GET-y-POST)
-- [Formularios](#formularios-i)
-- [Formularios II](#formularios-ii)
-- [Envio de checkbox mediante Formularios](#Envio-de-checkbox-mediante-Formularios)
-- [Navegación de una web usando templates](#Navegación-de-una-web-usando-templates)
-- [Inclusion de plantillas con include y requires](#Inclusion-de-plantillas-con-include-y-requires)
-- [Creando un archivo de setup para la web](#Creando-un-archivo-de-setup-para-la-web)
-- [Verificaciones Obligatorias en el envio de datos](#Verificaciones-Obligatorias-en-el-envio-de-datos)
-- [Debbug](#debbug)
-- [Play List PHP](#Spotify-PHP)
+| Numeration   | Check  |Topic          |
+| ------------ |--------|-------------- |
+|  -   |✔️ | [Que es PHP](#Que-es-PHP)   |  
+|  -   |✔️ | [Cualidades](#Cualidades)  |  
+|  -   |✔️ | [Desarrollo Web](#Desarrollo-Web) |  
+|  -   |✔️ | [Servidores](#Servidores)  |  
+|  -   |✔️ | [La Web Dinamica](#La-Web-Dinamica)  |  
+|  -   |✔️ | [XAMPP](#XAMPP)  |  
+|  -   |✔️ | [Servidor Portable](#Servidor-Portable) |  
+|  -   |✔️ | [Post Instalacion](#Post-Instalacion)  |  
+|  -   |✔️ | [Entorno de Desarrollo](#Entorno-de-Desarrollo)  |  
+|  -   |✔️ | [Codigo](#Codigo) |  
+|  -   |✔️ | [Cadenas de texto](#Cadenas-de-texto)   |  
+|  -   |✔️ | [Heredoc](#Heredoc)  |  
+|  -   |✔️ | [Niveles de Error](#Niveles-de-Error)  |  
+|  -   |✔️ | [Operadores](#Operadores)   |  
+|  -   |✔️ | [Operadores de Comparación](#Operadores-de-Comparación)  |  
+|  -   |✔️ | [Operador Ternario](#Operador-Ternario)   |  
+|  -   |✔️ | [Operador "Nave Espacial](#Operador-"Nave-Espacial")  |  
+|  -   |✔️ | [Ciclos](#Ciclos)   |  
+|  -   |✔️ | [Matrices](#Matrices)   |  
+|  -   |✔️ | [Array Asociativo](#Array-Asociativo)  |  
+|  -   |✔️ | [Iteración de Arrays asociativos](#Iteración-de-Arrays-asociativos)   |  
+|  -   |✔️ | [Funciones para el manejo de Arrays](#Funciones-para-el-manejo-de-Arrays)  |  
+|  -   |✔️ | [Paso de datos entre documentos GET y POST](#Paso-de-datos-entre-documentos-GET-y-POST)  |  
+|  -   |✔️ | [Formularios](#formularios-i)  |  
+|  -   |✔️ | [Formularios II](#formularios-ii)  |  
+|  -   |✔️ | [Envio de checkbox mediante Formularios](#Envio-de-checkbox-mediante-Formularios)  |  
+|  -   |✔️ | [Navegación de una web usando templates](#Navegación-de-una-web-usando-templates)  |  
+|  -   |✔️ | [Inclusion de plantillas con include y requires](#Inclusion-de-plantillas-con-include-y-requires)  |  
+|  -   |✔️ | [Creando un archivo de setup para la web](#Creando-un-archivo-de-setup-para-la-web)  |  
+|  -   |✔️ | [Verificaciones Obligatorias en el envio de datos](#Verificaciones-Obligatorias-en-el-envio-de-datos)  |  
+|  -   |✔️ | [Debbug](#debbug)  |  
+|  -   |✔️ | [Play List PHP](#Spotify-PHP)  |  
 
-
+---
 ## Que es PHP
 
 PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
