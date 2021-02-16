@@ -63,7 +63,7 @@
 |  -   |✔️ | [Verificaciones Obligatorias en el envio de datos](#Verificaciones-Obligatorias-en-el-envio-de-datos)  |  
 |  -   |✔️ | [Debbug](#debbug)  |  
 |  -   |✔️ | [EL Array SERVER](#EL-Array-SERVER)  |  
-
+|  -   |✔️ | [Leer y escribir archivos en el servidor](#Leer-y-escribir-archivos-en-el-servidor)  |  
 |  -   |✔️ | [Play List PHP](#Spotify-PHP)  |  
 
 ---
@@ -711,7 +711,7 @@ del resto del sitio (inlusive de otros include que se haga a continuacion).
 
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
-[Verificaciones Obligatorias en el envio de datos](https://github.com/BrianMarquez3/PHP-Course/blob/main/Verificaciones%20Obligatorias%20en%20el%20envio%20de%20datos/readme.md)          |      ✔️     |
+[Verificaciones Obligatorias en el envio de datos](https://github.com/BrianMarquez3/PHP-Course/tree/main/Verificaciones%20Obligatorias%20en%20el%20envio%20de%20datos)          |      ✔️     |
 
 ---
 ## Debbug
@@ -746,8 +746,41 @@ $_SERVER
 
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
-[EL_Array_$_SERVER](https://github.com/BrianMarquez3/PHP-Course/blob/main/EL_Array_$_SERVER/readme.md)          |      ✔️     |
+[EL_Array_$_SERVER](https://github.com/BrianMarquez3/PHP-Course/tree/main/EL_Array_%24_SERVER)          |      ✔️     |
 
+---
+
+## Leer y escribir archivos en el servidor
+
+### Leer y escribir archivos en el servidor
+
+- Es posible leer el contenido de los archivos que estan en el servidor usando la funcion file_get_contects()
+
+- Recibe entre parentesis una cadenas de teto con la rita al archivo a leer.
+
+- Esta funcion es sutilmente deferencial al include():
+    * include() interpreta y procesa variables y funciones
+    * file_get_contents() lee el contenido en texto plano
+
+### Escribir archivos
+
+asi como hay una funcion para leer archivos , hay otra para escribirlos:
+
+```php
+file_put_contents()
+
+Recibe dos argumentos obligatorios:
+    
+    * La ruta al archivo que se va a modificar.
+    * El contenio a insertarle
+    
+```
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+[
+Leer y escribir archivos en el servidor](https://github.com/BrianMarquez3/PHP-Course/edit/main/Leer%20y%20escribir%20archivos%20en%20el%20servidor/readme.md)          |      ✔️     |
+
+---
 ## Dueño del Material
 Dueño y creador del Material [Bitdigitalacademy](https://www.bitdigitalacademy.com/)
 
