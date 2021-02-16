@@ -31,40 +31,40 @@
 
 | Numeration   | Check  |Topic          |
 | ------------ |--------|-------------- |
-|  -   |✔️ | [Que es PHP](#Que-es-PHP)   |  
-|  -   |✔️ | [Cualidades](#Cualidades)  |  
-|  -   |✔️ | [Desarrollo Web](#Desarrollo-Web) |  
-|  -   |✔️ | [Servidores](#Servidores)  |  
-|  -   |✔️ | [La Web Dinamica](#La-Web-Dinamica)  |  
-|  -   |✔️ | [XAMPP](#XAMPP)  |  
-|  -   |✔️ | [Servidor Portable](#Servidor-Portable) |  
-|  -   |✔️ | [Post Instalacion](#Post-Instalacion)  |  
-|  -   |✔️ | [Entorno de Desarrollo](#Entorno-de-Desarrollo)  |  
-|  -   |✔️ | [Codigo](#Codigo) |  
-|  -   |✔️ | [Cadenas de texto](#Cadenas-de-texto)   |  
-|  -   |✔️ | [Heredoc](#Heredoc)  |  
-|  -   |✔️ | [Niveles de Error](#Niveles-de-Error)  |  
-|  -   |✔️ | [Operadores](#Operadores)   |  
-|  -   |✔️ | [Operadores de Comparación](#Operadores-de-Comparación)  |  
-|  -   |✔️ | [Operador Ternario](#Operador-Ternario)   |  
-|  -   |✔️ | [Operador "Nave Espacial](#Operador-"Nave-Espacial")  |  
-|  -   |✔️ | [Ciclos](#Ciclos)   |  
-|  -   |✔️ | [Matrices](#Matrices)   |  
-|  -   |✔️ | [Array Asociativo](#Array-Asociativo)  |  
-|  -   |✔️ | [Iteración de Arrays asociativos](#Iteración-de-Arrays-asociativos)   |  
-|  -   |✔️ | [Funciones para el manejo de Arrays](#Funciones-para-el-manejo-de-Arrays)  |  
-|  -   |✔️ | [Paso de datos entre documentos GET y POST](#Paso-de-datos-entre-documentos-GET-y-POST)  |  
-|  -   |✔️ | [Formularios](#formularios-i)  |  
-|  -   |✔️ | [Formularios II](#formularios-ii)  |  
-|  -   |✔️ | [Envio de checkbox mediante Formularios](#Envio-de-checkbox-mediante-Formularios)  |  
-|  -   |✔️ | [Navegación de una web usando templates](#Navegación-de-una-web-usando-templates)  |  
-|  -   |✔️ | [Inclusion de plantillas con include y requires](#Inclusion-de-plantillas-con-include-y-requires)  |  
-|  -   |✔️ | [Creando un archivo de setup para la web](#Creando-un-archivo-de-setup-para-la-web)  |  
-|  -   |✔️ | [Verificaciones Obligatorias en el envio de datos](#Verificaciones-Obligatorias-en-el-envio-de-datos)  |  
-|  -   |✔️ | [Debbug](#debbug)  |  
-|  -   |✔️ | [EL Array SERVER](#EL-Array-SERVER)  |  
-|  -   |✔️ | [Leer y escribir archivos en el servidor](#Leer-y-escribir-archivos-en-el-servidor)  |  
-|  -   |✔️ | [Play List PHP](#Spotify-PHP)  |  
+|  A   |✔️ | [Que es PHP](#Que-es-PHP)   |  
+|  B   |✔️ | [Cualidades](#Cualidades)  |  
+|  C   |✔️ | [Desarrollo Web](#Desarrollo-Web) |  
+|  001 |✔️ | [Servidores](#Servidores)  |  
+|  002 |✔️ | [La Web Dinamica](#La-Web-Dinamica)  |  
+|  003 |✔️ | [XAMPP](#XAMPP)  |  
+|  004 |✔️ | [Servidor Portable](#Servidor-Portable) |  
+|  005 |✔️ | [Post Instalacion](#Post-Instalacion)  |  
+|  006 |✔️ | [Entorno de Desarrollo](#Entorno-de-Desarrollo)  |  
+|  007 |✔️ | [Codigo](#Codigo) |  
+|  008 |✔️ | [Cadenas de texto](#Cadenas-de-texto)   |  
+|  009 |✔️ | [Heredoc](#Heredoc)  |  
+|  010 |✔️ | [Niveles de Error](#Niveles-de-Error)  |  
+|  011 |✔️ | [Operadores](#Operadores)   |  
+|  012 |✔️ | [Operadores de Comparación](#Operadores-de-Comparación)  |  
+|  013 |✔️ | [Operador Ternario](#Operador-Ternario)   |  
+|  014 |✔️ | [Operador "Nave Espacial](#Operador-"Nave-Espacial")  |  
+|  015 |✔️ | [Ciclos](#Ciclos)   |  
+|  016 |✔️ | [Matrices](#Matrices)   |  
+|  017 |✔️ | [Array Asociativo](#Array-Asociativo)  |  
+|  018 |✔️ | [Iteración de Arrays asociativos](#Iteración-de-Arrays-asociativos)   |  
+|  019 |✔️ | [Funciones para el manejo de Arrays](#Funciones-para-el-manejo-de-Arrays)  |  
+|  020 |✔️ | [Paso de datos entre documentos GET y POST](#Paso-de-datos-entre-documentos-GET-y-POST)  |  
+|  021 |✔️ | [Formularios](#formularios-i)  |  
+|  022 |✔️ | [Formularios II](#formularios-ii)  |  
+|  023 |✔️ | [Envio de checkbox mediante Formularios](#Envio-de-checkbox-mediante-Formularios)  |  
+|  024 |✔️ | [Navegación de una web usando templates](#Navegación-de-una-web-usando-templates)  |  
+|  025 |✔️ | [Inclusion de plantillas con include y requires](#Inclusion-de-plantillas-con-include-y-requires)  |  
+|  026 |✔️ | [Creando un archivo de setup para la web](#Creando-un-archivo-de-setup-para-la-web)  |  
+|  027 |✔️ | [Verificaciones Obligatorias en el envio de datos](#Verificaciones-Obligatorias-en-el-envio-de-datos)  |  
+|  028 |✔️ | [Debbug](#debbug)  |  
+|  029 |✔️ | [EL Array SERVER](#EL-Array-SERVER)  |  
+|  030 |✔️ | [Leer y escribir archivos en el servidor](#Leer-y-escribir-archivos-en-el-servidor)  |  
+|  - |✔️ | [Play List PHP](#Spotify-PHP)  |  
 
 ---
 ## Que es PHP
