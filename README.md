@@ -777,8 +777,7 @@ Recibe dos argumentos obligatorios:
 ```
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
-[
-Leer y escribir archivos en el servidor](https://github.com/BrianMarquez3/PHP-Course/edit/main/Leer%20y%20escribir%20archivos%20en%20el%20servidor/readme.md)          |      ✔️     |
+[Leer y escribir archivos en el servidor](https://github.com/BrianMarquez3/PHP-Course/tree/main/Leer%20y%20escribir%20archivos%20en%20el%20servidor)          |      ✔️     |
 
 ---
 ## Dueño del Material
