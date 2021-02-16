@@ -741,7 +741,7 @@ del resto del sitio (inlusive de otros include que se haga a continuacion).
 $_SERVER
 ```
 
-![php](../images/server.png)
+![php](images/server.png)
 
 
 | Carpeta                    | Link |     
