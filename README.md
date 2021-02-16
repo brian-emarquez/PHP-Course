@@ -62,6 +62,8 @@
 |  -   |✔️ | [Creando un archivo de setup para la web](#Creando-un-archivo-de-setup-para-la-web)  |  
 |  -   |✔️ | [Verificaciones Obligatorias en el envio de datos](#Verificaciones-Obligatorias-en-el-envio-de-datos)  |  
 |  -   |✔️ | [Debbug](#debbug)  |  
+|  -   |✔️ | [EL_Array_$_SERVER](#EL-Array-$-SERVER)  |  
+
 |  -   |✔️ | [Play List PHP](#Spotify-PHP)  |  
 
 ---
@@ -729,6 +731,22 @@ del resto del sitio (inlusive de otros include que se haga a continuacion).
 
 - Install
 ![php](./images/phpdebug.png)
+
+---
+
+## EL Array $ SERVER
+
+
+```
+$_SERVER
+```
+
+![php](../images/server.png)
+
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+[EL_Array_$_SERVER](https://github.com/BrianMarquez3/PHP-Course/blob/main/EL_Array_$_SERVER/readme.md)          |      ✔️     |
 
 ## Dueño del Material
 Dueño y creador del Material [Bitdigitalacademy](https://www.bitdigitalacademy.com/)
