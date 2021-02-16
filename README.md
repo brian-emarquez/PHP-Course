@@ -62,7 +62,7 @@
 |  -   |✔️ | [Creando un archivo de setup para la web](#Creando-un-archivo-de-setup-para-la-web)  |  
 |  -   |✔️ | [Verificaciones Obligatorias en el envio de datos](#Verificaciones-Obligatorias-en-el-envio-de-datos)  |  
 |  -   |✔️ | [Debbug](#debbug)  |  
-|  -   |✔️ | [EL Array $ SERVER](#EL-Array-$-SERVER)  |  
+|  -   |✔️ | [EL Array SERVER](#EL-Array-SERVER)  |  
 
 |  -   |✔️ | [Play List PHP](#Spotify-PHP)  |  
 
@@ -734,7 +734,7 @@ del resto del sitio (inlusive de otros include que se haga a continuacion).
 
 ---
 
-## EL Array $ SERVER
+## EL Array SERVER
 
 
 ```
