@@ -64,6 +64,8 @@
 |  028 |✔️ | [Debbug](#debbug)  |  
 |  029 |✔️ | [EL Array SERVER](#EL-Array-SERVER)  |  
 |  030 |✔️ | [Leer y escribir archivos en el servidor](#Leer-y-escribir-archivos-en-el-servidor)  |  
+|  031 |✔️ | [Leer y escribir archivos en el servidor](#Leer-y-escribir-archivos-en-el-servidor)  |  
+|  032 |✔️ | [Recorrer archivos específicos del servidor](#Recorrer-archivos-específicos-del-servidor)  |  
 |  - |✔️ | [Play List PHP](#Spotify-PHP)  |  
 
 ---
@@ -784,6 +786,48 @@ Recibe dos argumentos obligatorios:
 Dueño y creador del Material [Bitdigitalacademy](https://www.bitdigitalacademy.com/)
 
 ---
+
+## Leer y recorrer directorios en el servidor
+
+### Recorrer directorios
+
+- Si tenermos varios archivos dentro de una carpeta y queremos recorrerlo todos, PHP nos da 2 fucnioens combinadas.
+
+- Primero debemos sacceder al directorio, por medio de la funcion <stronng> opendi() </stronng> que percibe como cadena de texto el nombre del directorio a recorrer.
+
+- Esta funciones retorna un recurso que debe guardarse en una variable.
+
+- una vez finalizafo , el recurso debe ser ñiberado con la funcion <stronng> closedir($recurso). </stronng>
+
+- Y para obtener los archivos del directorio, se usa la funcion <stronng> readdir($recurso)</stronng> que devolvera una cadena de texto con el nombre de archivo del nombre obtenido.
+
+
+### Uso del readdir()
+
+- Cada vez que ejecutamos el <stronng> readdir </stronng> nos devuelve de uno en uno los nombre de archivos o subcarpetas que encontro n el directorio.
+
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+[Leer y recorrer directorios en el servidor](https://github.com/BrianMarquez3/PHP-Course/tree/main/Leer%20y%20recorrer%20directorios%20en%20el%20servidor)          |      ✔️     |
+
+---
+
+## Recorrer archivos específicos del servidor
+
+
+- La funcion <strong> glob() </strong>  sirve para buscar los archivos que coinciden con un patron especifico en su nombre.
+
+- Por Ejemplo , buscar todos lo archivos con extension txt <strong> glob('*.txt'); </strong> 
+
+- por ende se recorre por <strong> foreach </strong> para manipular los elementos devueltos.
+
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+[Recorrer archivos específicos del servidor](https://github.com/BrianMarquez3/PHP-Course/tree/main/Recorrer%20archivos%20espec%C3%ADficos%20del%20servidor)          |      ✔️     |
+
+--
 ## Spotify PHP
 🎵 Music PHP [List on Spotify 🎤](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
 
