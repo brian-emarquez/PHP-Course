@@ -128,7 +128,7 @@ include( 'setup/arrays.php' );
 	<div>
 			<h2>About</h2>
 			<ul>
-				<li> test </li> 
+				<!-- <li> test </li>  -->
 				<?php
 				// creo el acceso entre php y directorio 
 				$directorio = opendir('extras/textos/institucional');
@@ -146,8 +146,6 @@ include( 'setup/arrays.php' );
 				closedir($directorio);
 
 				?>
-				<li><a href="index.php?seccion=static&cual=Terminos y condiciones">Términos y Condiciones</a></li>
-				<li><a href="index.php?seccion=static&cual=Quienes somos">Conocenos más</a></li>
 			</ul>
 		</div>
 		<div>

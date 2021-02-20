@@ -22,9 +22,15 @@ if( isset( $_GET['cual'] ) ){
 	<h1>Panel de control</h2>
 	
 	<ul>
-		<li><a href="index.php?cual=Terminos y condiciones">Terminos y condiciones</a></li>
-		<li><a href="index.php?cual=Quienes somos">Quienes somos</a></li>
-		<li><a href="index.php?cual=Hola mundo">Hola mundo</a></li>
+	<?php
+	// elimina el txt y la ruta
+	$archivos =	glob("../extras/textos/institucional/*.txt" );
+	foreach($archivos as $ruta){
+		$nombre = $ruta;
+		echo "<li><a href='index.php?cual=$nombre'>$nombre</a></li>";
+		}
+	?>
+
 	</ul>
 	
 	<h2>Manejo de textos</h2>
