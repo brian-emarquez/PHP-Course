@@ -6,8 +6,8 @@
 - lA Funcion <strong>dirname()</strong> permite obtener la ruta donde se encuentra el archivo ppasado como argumento.
 Acepta la constante __FILE__ para obtener la informacion del archivo actual.
 
-![php](../images/home.PNG)
+![php](../images/home.png)
 
-![php](../images/panel.PNG)
+![php](../images/panel.png)
 
 
