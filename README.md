@@ -67,7 +67,7 @@
 |  031 |✔️ | [Leer y escribir archivos en el servidor](#Leer-y-escribir-archivos-en-el-servidor)  |  
 |  032 |✔️ | [Recorrer archivos específicos del servidor](#Recorrer-archivos-específicos-del-servidor)  |  
 |  033 |✔️ | [Obtener informacion de los archivos](#Obtener-informacion-de-los-archivos)  
-
+|  033 |✔️ | [Crear y eliminar directorios en el servidor](#Crear-y-eliminar-directorios-en-el-servidor)  
 |  - |✔️ | [Play List PHP](#Spotify-PHP)  |  
 
 ---
@@ -848,6 +848,13 @@ Acepta la constante __FILE__ para obtener la informacion del archivo actual.
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
 [Obtener informacion de los archivos](https://github.com/BrianMarquez3/PHP-Course/tree/main/Obtener%20informacion%20de%20los%20archivos)          |      ✔️     |
+
+---
+## Crear y eliminar directorios en el servidor
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+[Crear y eliminar directorios en el servidor](https://github.com/BrianMarquez3/PHP-Course/tree/main/Crear%20y%20eliminar%20directorios%20en%20el%20servidor)          |      ✔️     |
 
 ---
 ## Spotify PHP
