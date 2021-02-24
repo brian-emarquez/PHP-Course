@@ -1,13 +1,12 @@
-<?php
+<?php 
+//aqui procesaria el usuario/clave.
+//verificar si es correcto el login
 
-// aqui procesaria la clave
-// verifica si es correcto el login
+//var_dump( $_SERVER );
 
-//var_dump ($_SERVER);
+$url_anterior = isset( $_SERVER['HTTP_REFERER'] ) ? 
+					$_SERVER['HTTP_REFERER'].'&login=error':
+					'../index.php&login=error';
 
-$url_Anterior = isset($_SERVER['HTTP_REFERER'])?
-                    $_SERVER['HTTP_REFERER'].'&login=error':
-                    '../index.php';
-
-header ( "Location: $url_Anterior" );
+header( "Location: $url_anterior" );
 ?>

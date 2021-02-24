@@ -1,9 +1,9 @@
 <?php 
-
-/*echo '<pre>';
+/*
+echo '<pre>';
 print_r( $_POST );
 echo '</pre>';
-*/
+
 
 /*
 echo $_POST['correo'];
@@ -20,10 +20,12 @@ if( ! empty($_POST['nombre']) ){
 	$nombre_ingresado = $_POST['nombre'];
 }
 
-if (empty($_POST['correo'])){
+if( empty( $_POST['correo'] ) ){
 	header( "Location: ../index.php?seccion=contacto&rta=error" );
-	die ( ); //corta todo la ejecucion
+	die( );
 }
+
+
 
 $mensaje = <<<HTML
 
@@ -42,12 +44,12 @@ $mensaje = <<<HTML
 HTML;
 
 //echo $mensaje;
-//esta linea debeeria esta desomentada para enviar el mail
+
+//Esta linea debería estar descomentada para enviar el mail
 //mail( 'contacto@misitio.com', 'Contacto desde la web', $mensaje );
 
 
 //ob_start( );
 header( "Location: ../index.php?seccion=contacto&rta=ok" );
-
 
 ?>

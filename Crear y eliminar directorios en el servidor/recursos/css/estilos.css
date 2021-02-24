@@ -9,7 +9,7 @@
 html, body{ margin: 0; padding: 0; min-height: 100%;  }
 body{ font: 14px/18px Verdana; display: flex; flex-wrap: wrap; }
 *{ box-sizing: border-box; }
-a{ text-decoration: none; display: inline-block; color: #6a2ecb;}
+a{ text-decoration: none; display: inline-block; color: #CB342E;}
 a:hover{ text-decoration: underline; }
 
 footer div:last-of-type ul li span,
@@ -22,17 +22,17 @@ header ul, nav ul{ margin: 0; padding: 0; list-style: none; flex: 1; display: fl
 header ul{ justify-content: flex-end; }
 nav ul ul{ flex-direction: column; }
 
-header{ background: #7d6ce8; display: flex; align-items: flex-end; padding: 2em 1em; }
+header{ background: #E86CB9; display: flex; align-items: flex-end; padding: 2em 1em; }
 header h1{ font: bold 70px Title; margin: 0; line-height: 1em;  color: #8B3146; color: white; }
 
-nav{ margin-bottom: .5em; border-top: 6px solid #5f6ef4; box-shadow: 0 0 9px rgba(0,0,0,0.6); background: #F5F5F5}
+nav{ margin-bottom: .5em; border-top: 6px solid #F4645F; box-shadow: 0 0 9px rgba(0,0,0,0.6); background: #F5F5F5}
 nav > ul > li{ position: relative; width: 100px; text-align: center; }
 nav > ul > li a{ display: block; padding: 1em 5px; color: purple; }
 nav > ul > li a.actual{ background-color: purple; color: white; text-decoration: none;  }
-nav > ul > li:hover > a:not(.actual){ background-color: #787fe6; color: white; text-decoration: none; }
+nav > ul > li:hover > a:not(.actual){ background-color: #D848A2; color: white; text-decoration: none; }
 nav > ul > li > ul{ font-size: 0.85em; position: absolute; left: -50px; background: #F5F5F5; border: 1px solid #ACACAC; border-top: none; width: 200px; display: none; }
 nav > ul > li:hover > ul{ display: block; }
-nav > ul > li > ul a:hover{ background: rgb(59, 30, 224); text-decoration: none; }
+nav > ul > li > ul a:hover{ background: pink; text-decoration: none; }
 
 main{ flex: 1; }
 aside{ width: 300px; background: #fafafa; }
@@ -41,7 +41,7 @@ main ul li{ width: 30%; margin-bottom: 15px; }
 main ul li small{ font-family: Arial;}
 main ul li img{ max-width: 100%; }
 main h1{ color: silver; font: 60px Section; margin: 10px 0; text-align: center; }
-main h2, aside h2{ font: bold small-caps 24px 'Trebuchet Ms'; background: #502ecb; color: white; padding: 5px; margin: 20px 0 5px 0; }
+main h2, aside h2{ font: bold small-caps 24px 'Trebuchet Ms'; background: #2ecb55; color: white; padding: 5px; margin: 20px 0 5px 0; }
 
 aside > * { margin-bottom: 40px; }
 aside form div{ margin-bottom: 4px; overflow: auto; }

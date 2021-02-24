@@ -1,12 +1,4 @@
 <?php 
-/*
-if( isset( $_GET['seccion'] ) ){
-	$seccion = $_GET['seccion'];
-}else{
-	$seccion = 'home';
-	
-} */
-
 $seccion = isset($_GET['seccion']) ? $_GET['seccion']:'home';
 
 include( 'setup/configuracion.php' );
@@ -15,10 +7,10 @@ include( 'setup/arrays.php' );
 
 ?>
 <!DOCTYPE HTML>
-<html lang="es-AR">
+<html lang="es-PE">
 <head>
 	<meta charset="UTF-8" />
-	<title>Brian Enrique</title>
+	<title>Bian Marquez</title>
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
 	<link rel="stylesheet" type="text/css" href="recursos/css/estilos.css" />
 </head>
@@ -94,14 +86,11 @@ include( 'setup/arrays.php' );
 		<!-- esto se muestra si el usuario no está logueado -->
 		<form action="forms/login.php" method="post">
 			<h2>Login</h2>
-
 			<?php
-			if( isset( $_GET ['login'])){
-				echo '<p style= "padding: 4px; font-size: 10px; background: pink; color: 
-				darkred" > Error Usario  o clave </p>';
-			}
+			if( isset( $_GET['login'] ) ){
+				echo '<p style="padding: 4px; font-size: 10px; background: pink; color: darkred">Mal usuario o clave</p>';
+			}			
 			?>
-
 			<div><input type="text" placeholder="usuario" name="usuario" id="usuario" /></div>
 			<div><input type="password" placeholder="clave" name="clave" id="clave" /></div>
 			<div class="center"><a href="index.php?seccion=registro">Registro</a><a href="index.php?seccion=contrasenia">Olvidé mi contraseña</a></div>
@@ -125,28 +114,29 @@ include( 'setup/arrays.php' );
 		?>
 	</aside>
 	<footer>
-	<div>
+		<div>
 			<h2>About</h2>
 			<ul>
-				<!-- <li> test </li>  -->
-				<?php
-				// creo el acceso entre php y directorio 
-				$directorio = opendir('extras/textos/institucional');
-
-				// Recorrer los contenidos 
+			
+				<?php 
+				//creo el acceso entre php y el directorio 
+				$directorio = opendir( 'extras/textos/institucional' );
 				
-				while ($archivo = readdir ($directorio)){
-					if($archivo =='.' || $archivo =='..'){
+				//recorrer los contenidos 
+				while( $archivo = readdir( $directorio )  ){
+					if( $archivo == '.' || $archivo == '..' ){
 						continue;
 					}
-					$nombre_Archivo = pathinfo ($archivo, PATHINFO_FILENAME);
-					echo "<li> <a href ='index.php?seccion=static&cual=$nombre_Archivo'> $nombre_Archivo </a></li>" ;
+					$nombre_archivo = pathinfo( $archivo, PATHINFO_FILENAME );
+					
+					echo "<li><a href='index.php?seccion=static&cual=$nombre_archivo'>$nombre_archivo</a></li>";
 				}
-
-				// cerramos el recurso
+				
+				
+				//cerramos el recurso
 				closedir($directorio);
-
 				?>
+
 			</ul>
 		</div>
 		<div>

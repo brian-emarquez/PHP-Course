@@ -2,6 +2,9 @@
 <section id="posts">
 	<h2>Últimos Posts</h2>
 	<ul>
+	
+	<?php 
+	/*
 		<li>
 			<h3>Titulo post</h3>
 			<img src="https://placebear.com/401/131" alt="Titulo post"  />
@@ -11,7 +14,7 @@
 		<li>
 			<h3>Titulo post</h3>
 			<img src="https://placebear.com/402/132" alt="Titulo post"  />
-			<p>Nulla pretium purus in nibh elementum tristique. Ut non neque in odio sagittis ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed egestas condimentum eque quis ultricies. Fusce ac pulvinar orci. Nam sollicitudin malesuada blandit. <a href="index.php?seccion=leer">Leer completo</a></p>
+			<p>Nulla pretium purus in nibh elementum tristique. Ut non neque in odio sagittis ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed egestas condimentum neque quis ultricies. Fusce ac pulvinar orci. Nam sollicitudin malesuada blandit. <a href="index.php?seccion=leer">Leer completo</a></p>
 			<small>Publicado el 22/01 en categoria - 5 comentarios</small>
 		</li>
 		<li>
@@ -38,6 +41,28 @@
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae suscipit ex, nec consequat nisl. Aliquam eleifend eros sapien, nec venenatis tortor semper in. Sed sed ornare odio, sit amet ullamcorper lectus. <a href="index.php?seccion=leer">Leer completo</a></p>
 			<small>Publicado el 22/01 en categoria - 5 comentarios</small>
 		</li>
+*/ 
+$base = "extras/textos/blog";
+$directorio = opendir( $base );
+while( $carpeta = readdir($directorio) ):
+
+if($carpeta == '.' || $carpeta == '..'){ continue; }
+
+$titulo = file_get_contents( "$base/$carpeta/titulo.txt" );
+$preview = file_get_contents( "$base/$carpeta/preview.txt" );
+$fecha = date( "d/m" , (int) $carpeta );
+
+//<img src="https://placebear.com/401/131" alt="Titulo post"  />
+echo <<<HTML
+<li>
+			<h3>$titulo</h3>
+			
+			<p>$preview <a href="index.php?seccion=leer&que=$carpeta">Leer completo</a></p>
+			<small>Publicado el $fecha en categoria - 5 comentarios</small>
+		</li>
+HTML;
+endwhile;
+?>
 	</ul>
 	
 </section>
@@ -50,17 +75,17 @@
 		<li>
 			<h3>Usuario</h3>
 			<img src="uploads/avatar-thumbs/000_default.jpg" alt="Usuario" />
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae suscipit ex, nec consequat nisl. Aliquam eleifend eros sapien, nec venenatis tortor semper in. <a href="leer.php">Leer completo</a></p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae suscipit ex, nec consequat nisl. Aliquam eleifend eros sapien, nec venenatis tortor semper in. <a href="index.php?seccion=leer">Leer completo</a></p>
 		</li>
 		<li>
 			<h3>Usuario</h3>
 			<img src="uploads/avatar-thumbs/000_masculino.jpg" alt="Usuario" />
-			<p>Nulla pretium purus in nibh elementum tristique. Ut non neque in odio sagittis ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. <a href="leer.php">Leer completo</a></p>
+			<p>Nulla pretium purus in nibh elementum tristique. Ut non neque in odio sagittis ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. <a href="index.php?seccion=leer">Leer completo</a></p>
 		</li>
 		<li>
 			<h3>Usuario</h3>
 			<img src="uploads/avatar-thumbs/000_femenino.jpg" alt="Usuario" />
-			<p>Morbi a urna aliquet, rhoncus justo quis, cursus dui. Nam et leo suscipit, tempor arcu eu, convallis lectus. Quisque vehicula dictum enim, vitae fringilla tellus ullamcorper et.  <a href="leer.php">Leer completo</a></p>
+			<p>Morbi a urna aliquet, rhoncus justo quis, cursus dui. Nam et leo suscipit, tempor arcu eu, convallis lectus. Quisque vehicula dictum enim, vitae fringilla tellus ullamcorper et.  <a href="index.php?seccion=leer">Leer completo</a></p>
 		</li>
 	</ul>
 </section>
