@@ -22,14 +22,14 @@ header ul, nav ul{ margin: 0; padding: 0; list-style: none; flex: 1; display: fl
 header ul{ justify-content: flex-end; }
 nav ul ul{ flex-direction: column; }
 
-header{ background: #E86CB9; display: flex; align-items: flex-end; padding: 2em 1em; }
+header{ background: #8d6ce8; display: flex; align-items: flex-end; padding: 2em 1em; }
 header h1{ font: bold 70px Title; margin: 0; line-height: 1em;  color: #8B3146; color: white; }
 
-nav{ margin-bottom: .5em; border-top: 6px solid #F4645F; box-shadow: 0 0 9px rgba(0,0,0,0.6); background: #F5F5F5}
+nav{ margin-bottom: .5em; border-top: 6px solid #7e64b3; box-shadow: 0 0 9px rgba(0,0,0,0.6); background: #F5F5F5}
 nav > ul > li{ position: relative; width: 100px; text-align: center; }
-nav > ul > li a{ display: block; padding: 1em 5px; color: purple; }
-nav > ul > li a.actual{ background-color: purple; color: white; text-decoration: none;  }
-nav > ul > li:hover > a:not(.actual){ background-color: #D848A2; color: white; text-decoration: none; }
+nav > ul > li a{ display: block; padding: 1em 5px; color: rgb(78, 56, 179); }
+nav > ul > li a.actual{ background-color: rgb(56, 29, 175); color: white; text-decoration: none;  }
+nav > ul > li:hover > a:not(.actual){ background-color: #485ed8; color: white; text-decoration: none; }
 nav > ul > li > ul{ font-size: 0.85em; position: absolute; left: -50px; background: #F5F5F5; border: 1px solid #ACACAC; border-top: none; width: 200px; display: none; }
 nav > ul > li:hover > ul{ display: block; }
 nav > ul > li > ul a:hover{ background: pink; text-decoration: none; }
@@ -41,7 +41,7 @@ main ul li{ width: 30%; margin-bottom: 15px; }
 main ul li small{ font-family: Arial;}
 main ul li img{ max-width: 100%; }
 main h1{ color: silver; font: 60px Section; margin: 10px 0; text-align: center; }
-main h2, aside h2{ font: bold small-caps 24px 'Trebuchet Ms'; background: #2ecb55; color: white; padding: 5px; margin: 20px 0 5px 0; }
+main h2, aside h2{ font: bold small-caps 24px 'Trebuchet Ms'; background: #312ecb; color: white; padding: 5px; margin: 20px 0 5px 0; }
 
 aside > * { margin-bottom: 40px; }
 aside form div{ margin-bottom: 4px; overflow: auto; }
@@ -98,7 +98,7 @@ div.paginador{ margin: 10px 0; }
 div.paginador ul{ display: flex; flex-wrap: wrap; justify-content: center; }
 div.paginador ul li{ width: auto; margin: 2px; }
 div.paginador ul li a{ font-size: 12px; display: block; border-radius: 3px; padding: 3px 12px; background: #ededed; }
-div.paginador ul li a.actual{ background: crimson; color: white; }
+div.paginador ul li a.actual{ background: rgb(103, 20, 220); color: white; }
 div.paginador ul li a.actual:hover{ text-decoration: none; cursor: default; }
 
 .ok,
@@ -109,7 +109,7 @@ div.paginador ul li a.actual:hover{ text-decoration: none; cursor: default; }
 
 .message{ background-color: #646262; padding-left: 20px }
 .info{ background-color: #6BC6E1; background-image: url(icons/ui-info.jpg); }
-.ok, .success{ background-color: #6CBF6C; background-image: url(icons/ui-success.jpg); }
+.ok, .success{ background-color: #8c6cbf; background-image: url(icons/ui-success.jpg); }
 .error{ background-color: #DC6460; background-image: url(icons/ui-error.jpg); }
 .warning{ background-color: #F1B560; background-image: url(icons/ui-warning.jpg); }
 
@@ -137,7 +137,7 @@ div.paginador ul li a.actual:hover{ text-decoration: none; cursor: default; }
 #ajax_search ul{ z-index: 5; position: absolute; left: 0; right: 0; list-style: none; margin: 0; padding: 0; max-height: 300px; overflow: auto; }
 #ajax_search ul li{ padding: 0; border-bottom: 1px solid white; margin: 0;}
 #ajax_search ul li a, #ajax_search ul li.empty{ background: black; display: block; padding: 6px; margin: 0; color: silver; }
-#ajax_search ul li.empty{ background: darkred url(icons/exclamation.png) 6px center no-repeat; padding: 6px 12px 6px 30px; color: white; font-size: 13px; }
+#ajax_search ul li.empty{ background: rgb(25, 0, 139) url(icons/exclamation.png) 6px center no-repeat; padding: 6px 12px 6px 30px; color: white; font-size: 13px; }
 #ajax_search ul li a:hover{ background: #24242C; text-decoration: none; }
 
 .center{ text-align: center; }
