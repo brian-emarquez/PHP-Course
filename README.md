@@ -852,6 +852,8 @@ Acepta la constante __FILE__ para obtener la informacion del archivo actual.
 ---
 ## Crear y eliminar directorios en el servidor
 
+![php](./images/crearEliminar.png)
+
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
 [Crear y eliminar directorios en el servidor](https://github.com/BrianMarquez3/PHP-Course/tree/main/Crear%20y%20eliminar%20directorios%20en%20el%20servidor)          |      ✔️     |
