@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
  
-  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/PHP-Course?color=darkblue&style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/PHP-Course?color=blue&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/PHP-Course?style=for-the-badge">
   
 </p>
