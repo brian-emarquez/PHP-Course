@@ -3,8 +3,8 @@
 
 <p align="center">
   
-  <a href="https://github.com/BrianMarquez3/PHP-Course/tags">
-    <img src="https://img.shields.io/github/tag/BrianMarquez3/PHP-Course.svg?label=version&style=flat" alt="Version">
+   </a>
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/PHP-Course?color=yellow">
   </a>
   <a href="https://github.com/BrianMarquez3/PHP-Course/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/PHP-Course.svg?style=flat" alt="Stars">
@@ -12,18 +12,25 @@
   <a href="https://github.com/BrianMarquez3/PHP-Course/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/PHP-Course.svg?style=flat" alt="Forks">
   </a>
-  <a href="https://github.com/BrianMarquez3/PHP-Course/network">
-    <img src="https://img.shields.io/badge/coverage-80%25-yellowgreen">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/PHP-Course?color=red&label=Version&logo=php">
   </a>
-   <a href="https://github.com/BrianMarquez3/PHP-Course/network">
-    <img src="https://img.shields.io/badge/gem-2.2.0-blue">
+  
   </a>
-   <a href="https://github.com/BrianMarquez3/PHP-Course/network">
-    <img src="https://img.shields.io/badge/dependencies-out%20of%20date-orange">
+    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/PHP-Course">
   </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/PHP-Course/total?color=green">
+  </a>
+  
+   </a>
    <a href="https://github.com/BrianMarquez3/PHP-Course/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
-  </a>
+  </a><br>
+ 
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/PHP-Course?color=yellow&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/PHP-Course?style=for-the-badge">
+  
 </p>
   
 ![php](./images/code.jpg)
