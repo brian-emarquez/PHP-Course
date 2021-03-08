@@ -12,5 +12,30 @@
 - Generalmente los hosting soportan archis mas grandes
 - Si usamos las funcion PHPINFO() para ver la configuracion del php.ini, debemos buscar la directiva UPLOAD_MAX_FILESIZE
 
+```php
+
+phpinfo()
+
+```
 
 ![php](../images/tmp.png)
+
+- Esta es una directiva que nos epuede configurar desde la funcion ini_set(), por que se interpreta despues de que el apache rechaso el archivo.
+
+### Obteer el archivo
+
+- Los Archivos subidos con un formulario, no se reciben no por GET n i por POST
+
+
+### Obtener el Archivo
+
+- Los Archivos subisos con un formulario, no se reciben ni por GET ni por POST.
+- llegan por la matriz $_Files
+- Tiene como indice asociativo cada name de un pmput de tipo file.
+- Entonces un $_Files['name_del_input'] accede a un input de tipo con el name=2name_del_input".
+
+
+### Subir el Archivo
+
+- Ese directorio temporal donde se reciben los archivos está por fuera del directorio raiz de la web publica.
+- `move_uploaded_file()` permite mover de carpeta

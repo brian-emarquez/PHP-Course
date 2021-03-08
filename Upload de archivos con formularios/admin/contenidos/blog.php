@@ -31,7 +31,7 @@
 	<div><input type="text" name="titulo" /></div>
 	<div><textarea name="preview" rows="5" cols="70"></textarea></div>
 	<div><textarea name="contenido" rows="15" cols="70"></textarea></div>
-	<div><input tyoe="file" name="15" /></div>
+	<div><input type="file" name="15" /></div>
 	<div><input type="submit" value="Enviar" /></div>
 </form>
 
