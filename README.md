@@ -4,7 +4,7 @@
 <p align="center">
   
    </a>
-    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/PHP-Course?color=yellow">
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/PHP-Course?color=red">
   </a>
   <a href="https://github.com/BrianMarquez3/PHP-Course/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/PHP-Course.svg?style=flat" alt="Stars">
@@ -39,43 +39,43 @@
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  A   |:heavy_check_mark: | [Que es PHP](#Que-es-PHP)   |   :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  B   |✔️ | [Cualidades](#Cualidades)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  C   |✔️ | [Desarrollo Web](#Desarrollo-Web) |  
-|  001 |✔️ | [Servidores](#Servidores)  |  
-|  002 |✔️ | [La Web Dinamica](#La-Web-Dinamica)  |  
-|  003 |✔️ | [XAMPP](#XAMPP)  |  
-|  004 |✔️ | [Servidor Portable](#Servidor-Portable) |  
-|  005 |✔️ | [Post Instalacion](#Post-Instalacion)  |  
-|  006 |✔️ | [Entorno de Desarrollo](#Entorno-de-Desarrollo)  |  
-|  007 |✔️ | [Codigo](#Codigo) |  
-|  008 |✔️ | [Cadenas de texto](#Cadenas-de-texto)   |  
-|  009 |✔️ | [Heredoc](#Heredoc)  |  
-|  010 |✔️ | [Niveles de Error](#Niveles-de-Error)  |  
-|  011 |✔️ | [Operadores](#Operadores)   |  
-|  012 |✔️ | [Operadores de Comparación](#Operadores-de-Comparación)  |  
-|  013 |✔️ | [Operador Ternario](#Operador-Ternario)   |  
-|  014 |✔️ | [Operador "Nave Espacial](#Operador-"Nave-Espacial")  |  
-|  015 |✔️ | [Ciclos](#Ciclos)   |  
-|  016 |✔️ | [Matrices](#Matrices)   |  
-|  017 |✔️ | [Array Asociativo](#Array-Asociativo)  |  
-|  018 |✔️ | [Iteración de Arrays asociativos](#Iteración-de-Arrays-asociativos)   |  
-|  019 |✔️ | [Funciones para el manejo de Arrays](#Funciones-para-el-manejo-de-Arrays)  |  
-|  020 |✔️ | [Paso de datos entre documentos GET y POST](#Paso-de-datos-entre-documentos-GET-y-POST)  |  
-|  021 |✔️ | [Formularios](#formularios-i)  |  
-|  022 |✔️ | [Formularios II](#formularios-ii)  |  
-|  023 |✔️ | [Envio de checkbox mediante Formularios](#Envio-de-checkbox-mediante-Formularios)  |  
-|  024 |✔️ | [Navegación de una web usando templates](#Navegación-de-una-web-usando-templates)  |  
-|  025 |✔️ | [Inclusion de plantillas con include y requires](#Inclusion-de-plantillas-con-include-y-requires)  |  
-|  026 |✔️ | [Creando un archivo de setup para la web](#Creando-un-archivo-de-setup-para-la-web)  |  
-|  027 |✔️ | [Verificaciones Obligatorias en el envio de datos](#Verificaciones-Obligatorias-en-el-envio-de-datos)  |  
-|  028 |✔️ | [Debbug](#debbug)  |  
-|  029 |✔️ | [EL Array SERVER](#EL-Array-SERVER)  |  
-|  030 |✔️ | [Leer y escribir archivos en el servidor](#Leer-y-escribir-archivos-en-el-servidor)  |  
-|  031 |✔️ | [Leer y escribir archivos en el servidor](#Leer-y-escribir-archivos-en-el-servidor)  |  
-|  032 |✔️ | [Recorrer archivos específicos del servidor](#Recorrer-archivos-específicos-del-servidor)  |  
-|  033 |✔️ | [Obtener informacion de los archivos](#Obtener-informacion-de-los-archivos)  
-|  033 |✔️ | [Crear y eliminar directorios en el servidor](#Crear-y-eliminar-directorios-en-el-servidor)  
-|  - |✔️ | [Play List PHP](#Spotify-PHP)  |  
+|  B   |:heavy_check_mark: | [Cualidades](#Cualidades)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  C   |:heavy_check_mark: | [Desarrollo Web](#Desarrollo-Web) |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  001 |:heavy_check_mark: | [Servidores](#Servidores)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  002 |:heavy_check_mark: | [La Web Dinamica](#La-Web-Dinamica)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  003 |:heavy_check_mark: | [XAMPP](#XAMPP)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  004 |:heavy_check_mark: | [Servidor Portable](#Servidor-Portable) |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  005 |:heavy_check_mark: | [Post Instalacion](#Post-Instalacion)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  006 |:heavy_check_mark: | [Entorno de Desarrollo](#Entorno-de-Desarrollo)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  007 |:heavy_check_mark: | [Codigo](#Codigo) |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  008 |:heavy_check_mark: | [Cadenas de texto](#Cadenas-de-texto)   |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  009 |:heavy_check_mark: | [Heredoc](#Heredoc)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  010 |:heavy_check_mark: | [Niveles de Error](#Niveles-de-Error)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  011 |:heavy_check_mark: | [Operadores](#Operadores)   |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  012 |:heavy_check_mark: | [Operadores de Comparación](#Operadores-de-Comparación)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  013 |:heavy_check_mark: | [Operador Ternario](#Operador-Ternario)   |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  014 |:heavy_check_mark: | [Operador "Nave Espacial](#Operador-"Nave-Espacial")  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  015 |:heavy_check_mark: | [Ciclos](#Ciclos)   |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  016 |:heavy_check_mark: | [Matrices](#Matrices)   |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  017 |:heavy_check_mark: | [Array Asociativo](#Array-Asociativo)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018 |:heavy_check_mark: | [Iteración de Arrays asociativos](#Iteración-de-Arrays-asociativos)   |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  019 |:heavy_check_mark: | [Funciones para el manejo de Arrays](#Funciones-para-el-manejo-de-Arrays)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  020 |:heavy_check_mark: | [Paso de datos entre documentos GET y POST](#Paso-de-datos-entre-documentos-GET-y-POST)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  021 |:heavy_check_mark: | [Formularios](#formularios-i)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  022 |:heavy_check_mark: | [Formularios II](#formularios-ii)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  023 |:heavy_check_mark: | [Envio de checkbox mediante Formularios](#Envio-de-checkbox-mediante-Formularios)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  024 |:heavy_check_mark: | [Navegación de una web usando templates](#Navegación-de-una-web-usando-templates)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  025 |:heavy_check_mark: | [Inclusion de plantillas con include y requires](#Inclusion-de-plantillas-con-include-y-requires)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  026 |:heavy_check_mark: | [Creando un archivo de setup para la web](#Creando-un-archivo-de-setup-para-la-web)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  027 |:heavy_check_mark: | [Verificaciones Obligatorias en el envio de datos](#Verificaciones-Obligatorias-en-el-envio-de-datos)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  028 |:heavy_check_mark: | [Debbug](#debbug)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  029 |:heavy_check_mark: | [EL Array SERVER](#EL-Array-SERVER)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  030 |:heavy_check_mark: | [Leer y escribir archivos en el servidor](#Leer-y-escribir-archivos-en-el-servidor)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  031 |:heavy_check_mark: | [Leer y escribir archivos en el servidor](#Leer-y-escribir-archivos-en-el-servidor)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  032 |:heavy_check_mark: | [Recorrer archivos específicos del servidor](#Recorrer-archivos-específicos-del-servidor)  |  
+|  033 |:heavy_check_mark: | [Obtener informacion de los archivos](#Obtener-informacion-de-los-archivos)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  034 |:heavy_check_mark: | [Crear y eliminar directorios en el servidor](#Crear-y-eliminar-directorios-en-el-servidor)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  - |:heavy_check_mark: | [Play List PHP](#Spotify-PHP)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
 ## Que es PHP
