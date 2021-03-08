@@ -869,8 +869,9 @@ Acepta la constante __FILE__ para obtener la informacion del archivo actual.
 
 ## Upload de archivos con formularios
 
-| Carpeta                    | Link |      Home   |  Code | Version | Estado |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|[Crear y eliminar directorios en el servidor](https://github.com/BrianMarquez3/PHP-Course/tree/main/Upload%20de%20archivos%20con%20formularios)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| Carpeta                    | Link        |      Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|[Crear y eliminar directorios en el servidor](https://github.com/BrianMarquez3/PHP-Course/tree/main/Upload%20de%20archivos%20con%20formularios)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
