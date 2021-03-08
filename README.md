@@ -74,7 +74,7 @@
 |  031 |:heavy_check_mark: | [Leer y escribir archivos en el servidor](#Leer-y-escribir-archivos-en-el-servidor)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  032 |:heavy_check_mark: | [Recorrer archivos específicos del servidor](#Recorrer-archivos-específicos-del-servidor)  |  
 |  033 |:heavy_check_mark: | [Obtener informacion de los archivos](#Obtener-informacion-de-los-archivos)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  034 |:heavy_check_mark: | [Crear y eliminar directorios en el servidor](#Crear-y-eliminar-directorios-en-el-servidor)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  035 |:heavy_check_mark: | [Upload de archivos con formularios](#Upload-de-archivos-con-formularios)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  - |:heavy_check_mark: | [Play List PHP](#Spotify-PHP)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
@@ -866,6 +866,14 @@ Acepta la constante __FILE__ para obtener la informacion del archivo actual.
 [Crear y eliminar directorios en el servidor](https://github.com/BrianMarquez3/PHP-Course/tree/main/Crear%20y%20eliminar%20directorios%20en%20el%20servidor)          |      ✔️     |
 
 ---
+
+## Upload de archivos con formularios
+
+| Carpeta                    | Link |      Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|[Crear y eliminar directorios en el servidor](https://github.com/BrianMarquez3/PHP-Course/tree/main/Upload%20de%20archivos%20con%20formularios)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+---
+
 ## Spotify PHP
 🎵 Music PHP [List on Spotify 🎤](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
 
