@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
  
-  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/PHP-Course?color=yellow&style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/PHP-Course?color=darkblue&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/PHP-Course?style=for-the-badge">
   
 </p>
@@ -36,9 +36,9 @@
 ![php](./images/code.jpg)
 ## Tabla de contenidos
 
-| Numeration   | Check  |Topic          |
-| ------------ |--------|-------------- |
-|  A   |✔️ | [Que es PHP](#Que-es-PHP)   |  
+| Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  A   |:heavy_check_mark: | [Que es PHP](#Que-es-PHP)   |   :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  B   |✔️ | [Cualidades](#Cualidades)  |  
 |  C   |✔️ | [Desarrollo Web](#Desarrollo-Web) |  
 |  001 |✔️ | [Servidores](#Servidores)  |  
