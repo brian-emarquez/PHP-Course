@@ -52,11 +52,16 @@ $titulo = file_get_contents( "$base/$carpeta/titulo.txt" );
 $preview = file_get_contents( "$base/$carpeta/preview.txt" );
 $fecha = date( "d/m" , (int) $carpeta );
 
-//<img src="https://placebear.com/401/131" alt="Titulo post"  />
+if( file_exists( "$base/$carpeta/foto.jpg" ) ){
+	$foto = "<img src='$base/$carpeta/foto.jpg' alt='$titulo'  />";
+}else{
+	$foto = '';
+}
+//
 echo <<<HTML
 <li>
 			<h3>$titulo</h3>
-			
+			$foto
 			<p>$preview <a href="index.php?seccion=leer&que=$carpeta">Leer completo</a></p>
 			<small>Publicado el $fecha en categoria - 5 comentarios</small>
 		</li>

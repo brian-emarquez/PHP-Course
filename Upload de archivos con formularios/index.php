@@ -10,7 +10,7 @@ include( 'setup/arrays.php' );
 <html lang="es-PE">
 <head>
 	<meta charset="UTF-8" />
-	<title>Bian Marquez</title>
+	<title>Brian Marquez</title>
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
 	<link rel="stylesheet" type="text/css" href="recursos/css/estilos.css" />
 </head>
@@ -117,7 +117,7 @@ include( 'setup/arrays.php' );
 		<div>
 			<h2>About</h2>
 			<ul>
-			
+				
 				<?php 
 				//creo el acceso entre php y el directorio 
 				$directorio = opendir( 'extras/textos/institucional' );

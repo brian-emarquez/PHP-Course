@@ -26,12 +26,12 @@
 </table>
 
 <h2>Formulario</h2>
-<!-- acepta archivos adjuntos -->
-<form method="post" action="acciones/blog.php"	enctype= "multipart/from-data">
+
+<form method="post" action="acciones/blog.php" enctype="multipart/form-data">
 	<div><input type="text" name="titulo" /></div>
 	<div><textarea name="preview" rows="5" cols="70"></textarea></div>
 	<div><textarea name="contenido" rows="15" cols="70"></textarea></div>
-	<div><input type="file" name="15" /></div>
+	<div><input type="file" name="foto" /></div>
 	<div><input type="submit" value="Enviar" /></div>
 </form>
 
