@@ -39,7 +39,7 @@
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  A   |:heavy_check_mark: | [Que es PHP](#Que-es-PHP)   |   :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  B   |✔️ | [Cualidades](#Cualidades)  |  
+|  B   |✔️ | [Cualidades](#Cualidades)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  C   |✔️ | [Desarrollo Web](#Desarrollo-Web) |  
 |  001 |✔️ | [Servidores](#Servidores)  |  
 |  002 |✔️ | [La Web Dinamica](#La-Web-Dinamica)  |  
