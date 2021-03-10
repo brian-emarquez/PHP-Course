@@ -76,6 +76,8 @@
 |  033 |:heavy_check_mark: | [Obtener informacion de los archivos](#Obtener-informacion-de-los-archivos)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  035 |:heavy_check_mark: | [Upload de archivos con formularios](#Upload-de-archivos-con-formularios)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  - |:heavy_check_mark: | [Play List PHP](#Spotify-PHP)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  035 |:heavy_check_mark: | [Verificaciones Obligatorias en el envio de datos](#Verificaciones-Obligatorias-en-el-envio-de-datos)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  - |:heavy_check_mark: | [Play List PHP](#Spotify-PHP)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
 ## Que es PHP
@@ -924,6 +926,14 @@ phpinfo()
 
 ---
 
+## Verificaciones Obligatorias en el envio de datos
+
+| Carpeta                    | Link        |      Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|[Verificaciones Obligatorias en el envio de datos](https://github.com/BrianMarquez3/PHP-Course/tree/main/Verificaciones%20Obligatorias%20en%20el%20envio%20de%20datos)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+ 
+---
 ## Spotify PHP
 🎵 Music PHP [List on Spotify 🎤](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
 
