@@ -1,0 +1,15 @@
+Las presentes condiciones generales, regulan los términos y condiciones sobre el acceso y uso de <b>BIT Blog</b>, propiedad de BloomIT que se dará por asumido que el usuario habrá leído y aceptado por el solo hecho de estar navegando a través del mismo.
+
+El administrador del sitio se reserva el derecho de modificar estos términos en cualquier momento, sin previo aviso, porque para eso ha desarrollado su panel de control (no solo para enseñar programación).
+
+El usuario no podrá utilizar el portal en contra de las normas de convivencia básica, las cuales incluye: no publicar comentarios racistas ni ofensivos hacia terceros, ni difamar a otros usuarios del sitio o ajenos al mismo, no realizar spam ni publicar vínculos a sitios externos o virus/software malicioso.
+
+Los contenidos para adultos (sexo, pornografía) están prohibidos en esta plataforma, de la misma manera que cualquier incitación a la violencia físical o verbal.
+
+Cualquier incumplimiento de estos términos puede derivar en la cancelación de la cuenta del usuario y -en caso de ser requerido- de ser resuelto en los tribunales competentes.
+
+El usuario conoce y acepta que el sitio no ofrece garantías de ninguna naturaleza (ya sea expresa o implícitamente) sobre los datos o su exactitud, contenidos, información o servicios.
+Así mismo no se hace responsable de los comentarios publicados por los usuarios del sitio, siendo ellos los únicos responsables de los mismos.
+
+Todos los contenidos aquí publicados les corresponde a sus empresas, titulares o autores, siendo utilizados únicamente como referencias de casos de uso o para completar los circuitos en la explicación del avance del proyecto.
+Todo material obtenido de internet (por el mismo acceso de los buscadores) es utilizado con el mayor de los respetos y a los fines técnicos de ejemplificar las tareas de un desarrollador web.
