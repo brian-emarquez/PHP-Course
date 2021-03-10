@@ -942,9 +942,6 @@ phpinfo()
 
 
 <p align="center">
-  
-   <td>
+   
    ![php](./images/cell-hecatonico.gif)
-  </td>
-
-</p>
+  </p>
