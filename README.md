@@ -75,8 +75,7 @@
 |  032 |:heavy_check_mark: | [Recorrer archivos específicos del servidor](#Recorrer-archivos-específicos-del-servidor)  |  
 |  033 |:heavy_check_mark: | [Obtener informacion de los archivos](#Obtener-informacion-de-los-archivos)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  035 |:heavy_check_mark: | [Upload de archivos con formularios](#Upload-de-archivos-con-formularios)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  - |:heavy_check_mark: | [Play List PHP](#Spotify-PHP)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  035 |:heavy_check_mark: | [Verificaciones Obligatorias en el envio de datos](#Verificaciones-Obligatorias-en-el-envio-de-datos)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  036 |:heavy_check_mark: | [Validación de los archivos subidos por formularios](#Validación-de-los-archivos-subidos-por-formularios)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  - |:heavy_check_mark: | [Play List PHP](#Spotify-PHP)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
@@ -926,11 +925,11 @@ phpinfo()
 
 ---
 
-## Verificaciones Obligatorias en el envio de datos
+## Validación de los archivos subidos por formularios
 
 | Carpeta                    | Link        |      Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|[Verificaciones Obligatorias en el envio de datos](https://github.com/BrianMarquez3/PHP-Course/tree/main/Verificaciones%20Obligatorias%20en%20el%20envio%20de%20datos)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+|[Validación de los archivos subidos por formularios](https://github.com/BrianMarquez3/PHP-Course/tree/main/Validaci%C3%B3n%20de%20los%20archivos%20subidos%20por%20formularios)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
  
 ---
