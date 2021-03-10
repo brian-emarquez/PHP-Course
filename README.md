@@ -12,7 +12,11 @@
   <a href="https://github.com/BrianMarquez3/PHP-Course/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/PHP-Course.svg?style=flat" alt="Forks">
   </a>
+<<<<<<< HEAD
     <img src="https://img.shields.io/github/v/tag/BrianMarquez3/PHP-Course?color=gren&label=Version&logo=php">
+=======
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/PHP-Course?color=red&label=Version&logo=php">
+>>>>>>> 09a40c90276ed135bcfe104293ea26c551e26f1c
   </a>
   
   </a>
@@ -20,7 +24,11 @@
   </a>
   
   </a>
+<<<<<<< HEAD
     <img src="https://img.shields.io/github/downloads/BrianMarquez3/PHP-Course/total?color=violet">
+=======
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/PHP-Course/total?color=green">
+>>>>>>> 09a40c90276ed135bcfe104293ea26c551e26f1c
   </a>
   
    </a>
@@ -28,54 +36,61 @@
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
  
+<<<<<<< HEAD
   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/PHP-Course?color=darkred&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/PHP-Course?style=for-the-badge">
 </P>
 
+=======
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/PHP-Course?color=blue&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/PHP-Course?style=for-the-badge">
+  
+</p>
+>>>>>>> 09a40c90276ed135bcfe104293ea26c551e26f1c
   
 ![php](./images/php-bannner.gif)
 ## Tabla de contenidos
 
-| Numeration   | Check  |Topic          |
-| ------------ |--------|-------------- |
-|  A   |✔️ | [Que es PHP](#Que-es-PHP)   |  
-|  B   |✔️ | [Cualidades](#Cualidades)  |  
-|  C   |✔️ | [Desarrollo Web](#Desarrollo-Web) |  
-|  001 |✔️ | [Servidores](#Servidores)  |  
-|  002 |✔️ | [La Web Dinamica](#La-Web-Dinamica)  |  
-|  003 |✔️ | [XAMPP](#XAMPP)  |  
-|  004 |✔️ | [Servidor Portable](#Servidor-Portable) |  
-|  005 |✔️ | [Post Instalacion](#Post-Instalacion)  |  
-|  006 |✔️ | [Entorno de Desarrollo](#Entorno-de-Desarrollo)  |  
-|  007 |✔️ | [Codigo](#Codigo) |  
-|  008 |✔️ | [Cadenas de texto](#Cadenas-de-texto)   |  
-|  009 |✔️ | [Heredoc](#Heredoc)  |  
-|  010 |✔️ | [Niveles de Error](#Niveles-de-Error)  |  
-|  011 |✔️ | [Operadores](#Operadores)   |  
-|  012 |✔️ | [Operadores de Comparación](#Operadores-de-Comparación)  |  
-|  013 |✔️ | [Operador Ternario](#Operador-Ternario)   |  
-|  014 |✔️ | [Operador "Nave Espacial](#Operador-"Nave-Espacial")  |  
-|  015 |✔️ | [Ciclos](#Ciclos)   |  
-|  016 |✔️ | [Matrices](#Matrices)   |  
-|  017 |✔️ | [Array Asociativo](#Array-Asociativo)  |  
-|  018 |✔️ | [Iteración de Arrays asociativos](#Iteración-de-Arrays-asociativos)   |  
-|  019 |✔️ | [Funciones para el manejo de Arrays](#Funciones-para-el-manejo-de-Arrays)  |  
-|  020 |✔️ | [Paso de datos entre documentos GET y POST](#Paso-de-datos-entre-documentos-GET-y-POST)  |  
-|  021 |✔️ | [Formularios](#formularios-i)  |  
-|  022 |✔️ | [Formularios II](#formularios-ii)  |  
-|  023 |✔️ | [Envio de checkbox mediante Formularios](#Envio-de-checkbox-mediante-Formularios)  |  
-|  024 |✔️ | [Navegación de una web usando templates](#Navegación-de-una-web-usando-templates)  |  
-|  025 |✔️ | [Inclusion de plantillas con include y requires](#Inclusion-de-plantillas-con-include-y-requires)  |  
-|  026 |✔️ | [Creando un archivo de setup para la web](#Creando-un-archivo-de-setup-para-la-web)  |  
-|  027 |✔️ | [Verificaciones Obligatorias en el envio de datos](#Verificaciones-Obligatorias-en-el-envio-de-datos)  |  
-|  028 |✔️ | [Debbug](#debbug)  |  
-|  029 |✔️ | [EL Array SERVER](#EL-Array-SERVER)  |  
-|  030 |✔️ | [Leer y escribir archivos en el servidor](#Leer-y-escribir-archivos-en-el-servidor)  |  
-|  031 |✔️ | [Leer y escribir archivos en el servidor](#Leer-y-escribir-archivos-en-el-servidor)  |  
-|  032 |✔️ | [Recorrer archivos específicos del servidor](#Recorrer-archivos-específicos-del-servidor)  |  
-|  033 |✔️ | [Obtener informacion de los archivos](#Obtener-informacion-de-los-archivos)  
-|  033 |✔️ | [Crear y eliminar directorios en el servidor](#Crear-y-eliminar-directorios-en-el-servidor)  
-|  - |✔️ | [Play List PHP](#Spotify-PHP)  |  
+| Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  A   |:heavy_check_mark: | [Que es PHP](#Que-es-PHP)   |   :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  B   |:heavy_check_mark: | [Cualidades](#Cualidades)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  C   |:heavy_check_mark: | [Desarrollo Web](#Desarrollo-Web) |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  001 |:heavy_check_mark: | [Servidores](#Servidores)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  002 |:heavy_check_mark: | [La Web Dinamica](#La-Web-Dinamica)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  003 |:heavy_check_mark: | [XAMPP](#XAMPP)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  004 |:heavy_check_mark: | [Servidor Portable](#Servidor-Portable) |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  005 |:heavy_check_mark: | [Post Instalacion](#Post-Instalacion)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  006 |:heavy_check_mark: | [Entorno de Desarrollo](#Entorno-de-Desarrollo)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  007 |:heavy_check_mark: | [Codigo](#Codigo) |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  008 |:heavy_check_mark: | [Cadenas de texto](#Cadenas-de-texto)   |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  009 |:heavy_check_mark: | [Heredoc](#Heredoc)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  010 |:heavy_check_mark: | [Niveles de Error](#Niveles-de-Error)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  011 |:heavy_check_mark: | [Operadores](#Operadores)   |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  012 |:heavy_check_mark: | [Operadores de Comparación](#Operadores-de-Comparación)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  013 |:heavy_check_mark: | [Operador Ternario](#Operador-Ternario)   |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  014 |:heavy_check_mark: | [Operador "Nave Espacial](#Operador-"Nave-Espacial")  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  015 |:heavy_check_mark: | [Ciclos](#Ciclos)   |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  016 |:heavy_check_mark: | [Matrices](#Matrices)   |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  017 |:heavy_check_mark: | [Array Asociativo](#Array-Asociativo)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018 |:heavy_check_mark: | [Iteración de Arrays asociativos](#Iteración-de-Arrays-asociativos)   |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  019 |:heavy_check_mark: | [Funciones para el manejo de Arrays](#Funciones-para-el-manejo-de-Arrays)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  020 |:heavy_check_mark: | [Paso de datos entre documentos GET y POST](#Paso-de-datos-entre-documentos-GET-y-POST)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  021 |:heavy_check_mark: | [Formularios](#formularios-i)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  022 |:heavy_check_mark: | [Formularios II](#formularios-ii)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  023 |:heavy_check_mark: | [Envio de checkbox mediante Formularios](#Envio-de-checkbox-mediante-Formularios)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  024 |:heavy_check_mark: | [Navegación de una web usando templates](#Navegación-de-una-web-usando-templates)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  025 |:heavy_check_mark: | [Inclusion de plantillas con include y requires](#Inclusion-de-plantillas-con-include-y-requires)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  026 |:heavy_check_mark: | [Creando un archivo de setup para la web](#Creando-un-archivo-de-setup-para-la-web)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  027 |:heavy_check_mark: | [Verificaciones Obligatorias en el envio de datos](#Verificaciones-Obligatorias-en-el-envio-de-datos)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  028 |:heavy_check_mark: | [Debbug](#debbug)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  029 |:heavy_check_mark: | [EL Array SERVER](#EL-Array-SERVER)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  030 |:heavy_check_mark: | [Leer y escribir archivos en el servidor](#Leer-y-escribir-archivos-en-el-servidor)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  031 |:heavy_check_mark: | [Leer y escribir archivos en el servidor](#Leer-y-escribir-archivos-en-el-servidor)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  032 |:heavy_check_mark: | [Recorrer archivos específicos del servidor](#Recorrer-archivos-específicos-del-servidor)  |  
+|  033 |:heavy_check_mark: | [Obtener informacion de los archivos](#Obtener-informacion-de-los-archivos)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  035 |:heavy_check_mark: | [Upload de archivos con formularios](#Upload-de-archivos-con-formularios)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  - |:heavy_check_mark: | [Play List PHP](#Spotify-PHP)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
 ## Que es PHP
@@ -209,10 +224,10 @@ HEREDOC;
 -   INCREMENTO (mas de uno): variable += 5 ✔️ variable = variable +5
 -   DECREMENT (mas de uno):  variable -= 5 ✔️ variable = variable -5
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Operadores](https://github.com/BrianMarquez3/PHP-Course/tree/main/Operadores)          |      ✔️     | 
-| [Operador Ternario](https://github.com/BrianMarquez3/PHP-Course/tree/main/Operador%20Ternario)          |      ✔️     | 
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Operadores](https://github.com/BrianMarquez3/PHP-Course/tree/main/Operadores)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Operador Ternario](https://github.com/BrianMarquez3/PHP-Course/tree/main/Operador%20Ternario)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Operadores de Comparación
@@ -237,9 +252,9 @@ echo $logueado ==true ? # pregunta para hacer una evaluacion
     'usuario sin autentificar';
 ?>
 ```
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Operador Ternario](https://github.com/BrianMarquez3/PHP-Course/tree/main/Operador%20Ternario)          |      ✔️     | 
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Operador Ternario](https://github.com/BrianMarquez3/PHP-Course/tree/main/Operador%20Ternario)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
@@ -259,10 +274,10 @@ Introducido en PHP 7 (no existe en las versiones anteriores), este operador perm
   * <b>Limite</b> de las repeteciones: Una Comparacion (de cualquie tipo) que evaluae el valor de esa variable.
   * <b>Desplazamiento</b> de la variable: Cualquier operacion aritmetica que modifique la variable inicial (de forma que llegue al limite)
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Ciclos While, Do While y For](https://github.com/BrianMarquez3/PHP-Course/tree/main/Ciclos%20While%2C%20Do%20While%20y%20For)          |      ✔️     | 
-| [CIclo FOR-EACH](https://github.com/BrianMarquez3/PHP-Course/tree/main/CIclo%20FOR-EACH)          |      ✔️     | 
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Ciclos While, Do While y For](https://github.com/BrianMarquez3/PHP-Course/tree/main/Ciclos%20While%2C%20Do%20While%20y%20For)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [CIclo FOR-EACH](https://github.com/BrianMarquez3/PHP-Course/tree/main/CIclo%20FOR-EACH)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Matrices
@@ -295,10 +310,10 @@ $elementos = array(
 echo $elementos[0][3]
 ```
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Matrices](https://github.com/BrianMarquez3/PHP-Course/tree/main/Matrices)          |      ✔️     | 
-| [Matrices II](https://github.com/BrianMarquez3/PHP-Course/tree/main/Matrices%20II)          |      ✔️     | 
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Matrices](https://github.com/BrianMarquez3/PHP-Course/tree/main/Matrices)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Matrices II](https://github.com/BrianMarquez3/PHP-Course/tree/main/Matrices%20II)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Array Asociativo
@@ -380,9 +395,10 @@ for( $i = 0; $i < count($elementos); $i++ ){
 }
 
 ```
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Array Asocitivo](https://github.com/BrianMarquez3/PHP-Course/tree/main/Arrays%20asociativos)          |      ✔️     |   
+
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Array Asocitivo](https://github.com/BrianMarquez3/PHP-Course/tree/main/Arrays%20asociativos)          |      ✔️     |   [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
@@ -408,9 +424,9 @@ for( $i = 0; $i < count($elementos); $i++ ){
 - Segundo. optativo una variable que capturará los indices de cada vuelta del ciclo de repeticion
 - tercero, una variable que capturara los valores de cada vuelta del foreach.
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-[Iteración de Arrays asociativos](https://github.com/BrianMarquez3/PHP-Course/tree/main/Iteraci%C3%B3n%20de%20Arrays%20asociativos)          |      ✔️     | 
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+[Iteración de Arrays asociativos](https://github.com/BrianMarquez3/PHP-Course/tree/main/Iteraci%C3%B3n%20de%20Arrays%20asociativos)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Funciones para el manejo de Arrays
@@ -455,9 +471,10 @@ for( $i = 0; $i < count($elementos); $i++ ){
 - PHP tiene la funcion <strong> rand() </strong> para sacar un valor al azar, que recibe dos datos entre parentesis 
 
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-[Funciones para el manejo de Arrays](https://github.com/BrianMarquez3/PHP-Course/tree/main/Funciones%20para%20el%20manejo%20de%20Arrays)          |      ✔️     | 
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+[Funciones para el manejo de Arrays](https://github.com/BrianMarquez3/PHP-Course/tree/main/Funciones%20para%20el%20manejo%20de%20Arrays)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
 
 ---
 ## Paso de datos entre documentos GET y POST
@@ -494,9 +511,9 @@ for( $i = 0; $i < count($elementos); $i++ ){
 - No es visible y es para gran cantidad de documento
 - Forma parte de encabesado (error 404)
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-[Paso de datos entre documentos (GET y POST)](https://github.com/BrianMarquez3/PHP-Course/tree/main/Paso%20de%20datos%20entre%20documentos%20(GET%20y%20POST))          |      ✔️     |
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+[Paso de datos entre documentos (GET y POST)](https://github.com/BrianMarquez3/PHP-Course/tree/main/Paso%20de%20datos%20entre%20documentos%20(GET%20y%20POST))          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Formularios
@@ -512,9 +529,10 @@ for( $i = 0; $i < count($elementos); $i++ ){
 - Y en en caso de los controlesa de seleccion, deberan tener un <strong>Value</string> que sea representativo de la informacion a enviar.
 - Si un radio o ckeckbox no tiene <strong>Value</string>, se envia el valot <strong>On</string> (pero no dice cual es el campo que fue seleccionado).
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-[Formularios](https://github.com/BrianMarquez3/PHP-Course/tree/main/Formularios)          |      ✔️     |
+
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+[Formularios](https://github.com/BrianMarquez3/PHP-Course/tree/main/Formularios)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
@@ -538,9 +556,10 @@ el dato que estamos buscando:
 - El documento que procesa la informacion se conoce como "Documento de acccion"
 - Seguin el objeto del formulario , este PHP trabajará con la base de datos o enviara una notificacion por mail.
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-[Formularios II Procesar datos enviados](https://github.com/BrianMarquez3/PHP-Course/tree/main/Formularios%20II%20Procesar%20datos%20enviados)          |      ✔️     |
+
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+[Formularios II Procesar datos enviados](https://github.com/BrianMarquez3/PHP-Course/tree/main/Formularios%20II%20Procesar%20datos%20enviados)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
@@ -589,9 +608,10 @@ if (isset($_POST['categoria4'])){
 - Por lo cual la solucion es hacer que el <strong>  name  </strong> en HTML tengan formato de array -> cbox[].
 - Para HTML es un nombre valido y PHP asume que $_POST['cbox'] es efectivamente un array, por el cual podemos recorrerlo con un for/foreach o unirlos con un implode().
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-[Envio de checkbox mediante Formularios](https://github.com/BrianMarquez3/PHP-Course/tree/main/Envio%20de%20checkbox%20mediante%20Formularios)          |      ✔️     |
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+[Envio de checkbox mediante Formularios](https://github.com/BrianMarquez3/PHP-Course/tree/main/Envio%20de%20checkbox%20mediante%20Formularios)          |      ✔️     |[⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
 
 ---
 
@@ -616,9 +636,10 @@ if (isset($_POST['categoria4'])){
 
 - A nivel funcionamiento no hay diferencias entre ambas, salvo que el archivo solicitado no exita.
  
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-[Navegación de una web usando templates](https://github.com/BrianMarquez3/PHP-Course/tree/main/Navegaci%C3%B3n%20de%20una%20web%20usando%20templates)          |      ✔️     |
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+[Navegación de una web usando templates](https://github.com/BrianMarquez3/PHP-Course/tree/main/Navegaci%C3%B3n%20de%20una%20web%20usando%20templates)          |      ✔️     |[⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
 
 ---
 
@@ -645,9 +666,9 @@ if (isset($_POST['categoria4'])){
 - Para saber cuál de todos lo templates hay que incluir solo debemos evaluar el valor que tiene la variable ercibida por GET.
 - Y como puede teer muchos valores posibles )tanto como secciones existan), debemos hacer un IF o SWITCH que verifique que hemos recebido
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-[Inclusion de plantillas con include y require](https://github.com/BrianMarquez3/PHP-Course/tree/main/Inclusion%20de%20plantillas%20con%20include%20y%20require)          |      ✔️     |
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+[Inclusion de plantillas con include y require](https://github.com/BrianMarquez3/PHP-Course/tree/main/Inclusion%20de%20plantillas%20con%20include%20y%20require)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
@@ -679,9 +700,9 @@ del resto del sitio (inlusive de otros include que se haga a continuacion).
 
 - son las funciones INCLUDE_ONE() y REQUIERE_ONCE()
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-[Creando un archivo de setup para la web](https://github.com/BrianMarquez3/PHP-Course/tree/main/Creando%20un%20archivo%20de%20setup%20para%20la%20web)          |      ✔️     |
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+[Creando un archivo de setup para la web](https://github.com/BrianMarquez3/PHP-Course/tree/main/Creando%20un%20archivo%20de%20setup%20para%20la%20web)          |      ✔️     |[⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
@@ -720,9 +741,9 @@ del resto del sitio (inlusive de otros include que se haga a continuacion).
 - Esto se hace con CLASSo ID que destaque ese boton por sobre las demas
 -Hata ahora esto era simple , por que al HTML que le correspondia, se le marcaba su opcion.
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-[Verificaciones Obligatorias en el envio de datos](https://github.com/BrianMarquez3/PHP-Course/tree/main/Verificaciones%20Obligatorias%20en%20el%20envio%20de%20datos)          |      ✔️     |
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+[Verificaciones Obligatorias en el envio de datos](https://github.com/BrianMarquez3/PHP-Course/tree/main/Verificaciones%20Obligatorias%20en%20el%20envio%20de%20datos)          |      ✔️     |[⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Debbug
@@ -755,9 +776,9 @@ $_SERVER
 ![php](images/server.png)
 
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-[EL_Array_$_SERVER](https://github.com/BrianMarquez3/PHP-Course/tree/main/EL_Array_%24_SERVER)          |      ✔️     |
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+[EL_Array_$_SERVER](https://github.com/BrianMarquez3/PHP-Course/tree/main/EL_Array_%24_SERVER)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
@@ -786,9 +807,9 @@ Recibe dos argumentos obligatorios:
     * El contenio a insertarle
     
 ```
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-[Leer y escribir archivos en el servidor](https://github.com/BrianMarquez3/PHP-Course/tree/main/Leer%20y%20escribir%20archivos%20en%20el%20servidor)          |      ✔️     |
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+[Leer y escribir archivos en el servidor](https://github.com/BrianMarquez3/PHP-Course/tree/main/Leer%20y%20escribir%20archivos%20en%20el%20servidor)          |      ✔️     |[⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Dueño del Material
@@ -816,9 +837,10 @@ Dueño y creador del Material [Bitdigitalacademy](https://www.bitdigitalacademy.
 - Cada vez que ejecutamos el <stronng> readdir </stronng> nos devuelve de uno en uno los nombre de archivos o subcarpetas que encontro n el directorio.
 
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-[Leer y recorrer directorios en el servidor](https://github.com/BrianMarquez3/PHP-Course/tree/main/Leer%20y%20recorrer%20directorios%20en%20el%20servidor)          |      ✔️     |
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+[Leer y recorrer directorios en el servidor](https://github.com/BrianMarquez3/PHP-Course/tree/main/Leer%20y%20recorrer%20directorios%20en%20el%20servidor)          |      ✔️     |[⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
 
 ---
 
@@ -832,9 +854,9 @@ Dueño y creador del Material [Bitdigitalacademy](https://www.bitdigitalacademy.
 - por ende se recorre por <strong> foreach </strong> para manipular los elementos devueltos.
 
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-[Recorrer archivos específicos del servidor](https://github.com/BrianMarquez3/PHP-Course/tree/main/Recorrer%20archivos%20espec%C3%ADficos%20del%20servidor)          |      ✔️     |
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+[Recorrer archivos específicos del servidor](https://github.com/BrianMarquez3/PHP-Course/tree/main/Recorrer%20archivos%20espec%C3%ADficos%20del%20servidor)          |      ✔️     |[⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
@@ -852,9 +874,9 @@ Acepta la constante __FILE__ para obtener la informacion del archivo actual.
 
 ![php](./images/panel.png)
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-[Obtener informacion de los archivos](https://github.com/BrianMarquez3/PHP-Course/tree/main/Obtener%20informacion%20de%20los%20archivos)          |      ✔️     |
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+[Obtener informacion de los archivos](https://github.com/BrianMarquez3/PHP-Course/tree/main/Obtener%20informacion%20de%20los%20archivos)          |      ✔️     |[⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Crear y eliminar directorios en el servidor
@@ -866,6 +888,57 @@ Acepta la constante __FILE__ para obtener la informacion del archivo actual.
 [Crear y eliminar directorios en el servidor](https://github.com/BrianMarquez3/PHP-Course/tree/main/Crear%20y%20eliminar%20directorios%20en%20el%20servidor)          |      ✔️     |
 
 ---
+
+## Upload de archivos con formularios
+
+
+- Para subir Archivos al servidor se usa <strong> input </strong> de tipo file
+- Pero el formulario debe enviarse por POST y tener ENCTYPE con el valor MULTIPART/FROM-DATA
+- Aunque noi procesemos el archivo, en realidad se sube al servidor (tmp)
+- Este archivo se elimina automaticamente al finalizar de ejecutarse el codigo PHP
+
+### Restricciones
+
+- Por defecto el PHP.ini tiene seteado un limite de tamaño maximo de archivo
+- Segun la version del servidor isntalado puede ser de 2mb hasta los 64mb
+- Generalmente los hosting soportan archis mas grandes
+- Si usamos las funcion PHPINFO() para ver la configuracion del php.ini, debemos buscar la directiva UPLOAD_MAX_FILESIZE
+
+```php
+
+phpinfo()
+
+```
+
+![php](./images/tmp.png)
+
+- Esta es una directiva que nos epuede configurar desde la funcion ini_set(), por que se interpreta despues de que el apache rechaso el archivo.
+
+### Obteer el archivo
+
+- Los Archivos subidos con un formulario, no se reciben no por GET n i por POST
+
+
+### Obtener el Archivo
+
+- Los Archivos subisos con un formulario, no se reciben ni por GET ni por POST.
+- llegan por la matriz $_Files
+- Tiene como indice asociativo cada name de un pmput de tipo file.
+- Entonces un $_Files['name_del_input'] accede a un input de tipo con el name=2name_del_input".
+
+
+### Subir el Archivo
+
+- Ese directorio temporal donde se reciben los archivos está por fuera del directorio raiz de la web publica.
+- `move_uploaded_file()` permite mover de carpeta
+
+
+| Carpeta                    | Link        |      Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|[Upload de archivos con formularios](https://github.com/BrianMarquez3/PHP-Course/tree/main/Upload%20de%20archivos%20con%20formularios)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+---
+
 ## Spotify PHP
 🎵 Music PHP [List on Spotify 🎤](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
 
