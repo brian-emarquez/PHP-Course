@@ -12,11 +12,8 @@
   <a href="https://github.com/BrianMarquez3/PHP-Course/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/PHP-Course.svg?style=flat" alt="Forks">
   </a>
-<<<<<<< HEAD
     <img src="https://img.shields.io/github/v/tag/BrianMarquez3/PHP-Course?color=gren&label=Version&logo=php">
-=======
     <img src="https://img.shields.io/github/v/tag/BrianMarquez3/PHP-Course?color=red&label=Version&logo=php">
->>>>>>> 09a40c90276ed135bcfe104293ea26c551e26f1c
   </a>
   
   </a>
@@ -24,11 +21,8 @@
   </a>
   
   </a>
-<<<<<<< HEAD
     <img src="https://img.shields.io/github/downloads/BrianMarquez3/PHP-Course/total?color=violet">
-=======
     <img src="https://img.shields.io/github/downloads/BrianMarquez3/PHP-Course/total?color=green">
->>>>>>> 09a40c90276ed135bcfe104293ea26c551e26f1c
   </a>
   
    </a>
@@ -36,17 +30,13 @@
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
  
-<<<<<<< HEAD
   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/PHP-Course?color=darkred&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/PHP-Course?style=for-the-badge">
 </P>
-
-=======
   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/PHP-Course?color=blue&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/PHP-Course?style=for-the-badge">
   
 </p>
->>>>>>> 09a40c90276ed135bcfe104293ea26c551e26f1c
   
 ![php](./images/php-bannner.gif)
 ## Tabla de contenidos
