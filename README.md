@@ -24,18 +24,15 @@
     <img src="https://img.shields.io/github/downloads/BrianMarquez3/PHP-Course/total?color=violet">
     <img src="https://img.shields.io/github/downloads/BrianMarquez3/PHP-Course/total?color=green">
   </a>
-  
    </a>
    <a href="https://github.com/BrianMarquez3/PHP-Course/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
- 
-  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/PHP-Course?color=darkred&style=for-the-badge">
+   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/PHP-Course?color=darkred&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/PHP-Course?style=for-the-badge">
 </P>
   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/PHP-Course?color=blue&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/PHP-Course?style=for-the-badge">
-  
 </p>
   
 ![php](./images/php-bannner.gif)
