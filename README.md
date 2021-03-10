@@ -940,8 +940,4 @@ phpinfo()
 ## Paypal
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
-
-<p align="center">
-   
-   ![php](./images/cell-hecatonico.gif)
-  </p>
+<div align="center"><img src="./Images/cell-hecatonico.gif"></div>
