@@ -76,6 +76,7 @@
 |  033 |:heavy_check_mark: | [Obtener informacion de los archivos](#Obtener-informacion-de-los-archivos)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  035 |:heavy_check_mark: | [Upload de archivos con formularios](#Upload-de-archivos-con-formularios)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  036 |:heavy_check_mark: | [Validación de los archivos subidos por formularios](#Validación-de-los-archivos-subidos-por-formularios)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  037 |:heavy_check_mark: | [Libreria GDLibrary Redimensionar imagenes](#LLibreria-GDLibrary-Redimensionar-imagenes)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  - |:heavy_check_mark: | [Play List PHP](#Spotify-PHP)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
@@ -947,6 +948,58 @@ Usar el valor que devuelve la funcion `time()` con el nombre del archivo
 |[Validación de los archivos subidos por formularios](https://github.com/BrianMarquez3/PHP-Course/tree/main/Validaci%C3%B3n%20de%20los%20archivos%20subidos%20por%20formularios)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
  
+## Libreria GDLibrary Redimensionar imagenes 
+
+
+- Es una libreria de PHP que permite manipular las imagenes desde la programacion.
+- Las funcionalidades mas comunes que podemos aprovechar son:
+        - Redimendionar imagenes
+        - cambiar el tono de una imagenen
+        - Superponer una marca de agua
+        - Agregar texto sobre una imagen
+
+### Abrir la imagenes a editar
+
+- Para editar una imagen, primero debemos abrirla y guardarla en una variable
+- GDLibrary tiene una funcion distinta para cada formato de imagen
+- Por lo cual tiene una funcion `imagecreatefrom()` por cada formato que recibe como argumento el archivo a editar
+
+- `$jpg_original = imagecreatefromjpeg('foto.jpg');`
+- `$png_original = imagecreatefromjpeg('foto.png');`
+- `$gif_original = imagecreatefromjpeg('foto.gif');`
+
+
+### Crear el lienzo destino
+
+- La imagen origin anunca se modifica con el GDLibrary, solo es una referencia.
+- Debemos crear un nuevo recurso con el tamaño (ancho/alto) que Deseamos.
+- Tambien se guarda en una variable (para manipularla ) y recibe como argumento el ancho y alto del nuevo lienzo.
+
+
+### Clonar la Iamgen
+
+- Para crear la copia de la foto , solo debemos supoerponer un area del original en el lienzo vacio(ña copia)
+- Paeso eso se usa la funcion `imagescopyresampled()` ue recibe 10 argumentos:
+    - Recursos destino donde pegamos la infomacion (la copia)
+
+### Exportar la imagen
+
+- La funcion anterior solo superpone la imagen original sobre la copia en la momoria, pero todavia la exporta la miniatura.
+
+- Para exportarla , hay que pasarla como argumento del `imageXXX`
+
+
+### Argumentos del imagejpeg()
+
+- Con un solo argumento, trata de mostrar la imagen en el mismo PHP que hizo la miniatura (sin crear un archivo fisico)
+- Con dos argumentos, el segundo sera el nombre del archivo que se creará con la copia. al usar este método, ya no hace falta usar el `remove_uploaded_file()`
+
+
+| Carpeta                    | Link        |      Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|[Libreria GDLibrary Redimensionar imagenes ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Libreria%20GDLibrary%20Redimensionar%20imagenes)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
 ---
 ## Spotify PHP
 🎵 Music PHP [List on Spotify 🎤](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
