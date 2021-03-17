@@ -76,7 +76,7 @@
 |  033 |:heavy_check_mark: | [Obtener informacion de los archivos](#Obtener-informacion-de-los-archivos)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  035 |:heavy_check_mark: | [Upload de archivos con formularios](#Upload-de-archivos-con-formularios)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  036 |:heavy_check_mark: | [Validación de los archivos subidos por formularios](#Validación-de-los-archivos-subidos-por-formularios)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  037 |:heavy_check_mark: | [Libreria GDLibrary Redimensionar imagenes](#LLibreria-GDLibrary-Redimensionar-imagenes)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  037 |:heavy_check_mark: | [Libreria GDLibrary Redimensionar imagenes](#Libreria-GDLibrary-Redimensionar-imagenes)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  - |:heavy_check_mark: | [Play List PHP](#Spotify-PHP)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
