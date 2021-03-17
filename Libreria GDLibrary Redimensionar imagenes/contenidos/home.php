@@ -59,7 +59,7 @@ if( file_exists( "$base/$carpeta/foto.jpg" ) ){
 }
 //
 echo <<<HTML
-<li>
+<li stye = 'background: lightyellow' >
 			<h3>$titulo</h3>
 			$foto
 			<p>$preview <a href="index.php?seccion=leer&que=$carpeta">Leer completo</a></p>
