@@ -76,9 +76,19 @@
 |  033 |:heavy_check_mark: | [Obtener informacion de los archivos](#Obtener-informacion-de-los-archivos)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  035 |:heavy_check_mark: | [Upload de archivos con formularios](#Upload-de-archivos-con-formularios)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  036 |:heavy_check_mark: | [Validación de los archivos subidos por formularios](#Validación-de-los-archivos-subidos-por-formularios)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+(#Libreria-GDLibrary-Redimensionar-imagenes)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  037 |:heavy_check_mark: | [Libreria GDLibrary Redimensionar imagenes](#Libreria-GDLibrary-Redimensionar-imagenes)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  - |:heavy_check_mark: | [Play List PHP](#Spotify-PHP)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  038 |:heavy_check_mark: | [Libreria GDLibrary Agregar una marca de agua](#Libreria-GDLibrary-Agregar-una-marca-de-agua)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
+
+
+| Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  A  |:heavy_check_mark: | [Play List PHP](#Spotify-PHP)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
+
+
+Libreria GDLibrary - Agregar una marca agua
 ---
 ## Que es PHP
 
@@ -948,7 +958,7 @@ Usar el valor que devuelve la funcion `time()` con el nombre del archivo
 |[Validación de los archivos subidos por formularios](https://github.com/BrianMarquez3/PHP-Course/tree/main/Validaci%C3%B3n%20de%20los%20archivos%20subidos%20por%20formularios)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
  
-## Libreria GDLibrary Redimensionar imagenes 
+## Libreria GDLibrary Redimensionar imagenes
 
 
 - Es una libreria de PHP que permite manipular las imagenes desde la programacion.
@@ -976,7 +986,7 @@ Usar el valor que devuelve la funcion `time()` con el nombre del archivo
 - Tambien se guarda en una variable (para manipularla ) y recibe como argumento el ancho y alto del nuevo lienzo.
 
 
-### Clonar la Iamgen
+### Clonar la Imagen
 
 - Para crear la copia de la foto , solo debemos supoerponer un area del original en el lienzo vacio(ña copia)
 - Paeso eso se usa la funcion `imagescopyresampled()` ue recibe 10 argumentos:
@@ -997,7 +1007,14 @@ Usar el valor que devuelve la funcion `time()` con el nombre del archivo
 
 | Carpeta                    | Link        |      Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|[Libreria GDLibrary Redimensionar imagenes ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Libreria%20GDLibrary%20Redimensionar%20imagenes)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+|[Libreria GDLibrary Redimensionar imagenes ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Inclusion%20de%20plantillas%20con%20include%20y%20require)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
+## Libreria GDLibrary Agregar una marca de agua
+
+| Carpeta                    | Link        |      Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|[Libreria GDLibrary Agregar una marca de agua ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Libreria%20GDLibrary%20Agregar%20una%20marca%20agua)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
 ---
@@ -1011,3 +1028,5 @@ Usar el valor que devuelve la funcion `time()` con el nombre del archivo
 ---
 
 <div align="center"><img src="./images/cell-hecatonico.gif"></div>
+
+
