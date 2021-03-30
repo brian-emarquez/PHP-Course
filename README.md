@@ -86,6 +86,7 @@
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  A  |:heavy_check_mark: | [Play List PHP](#Spotify-PHP)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
+---
 ![php](./images/php-2.png)
 
 ---
