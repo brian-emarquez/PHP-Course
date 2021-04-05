@@ -79,9 +79,10 @@
 (#Libreria-GDLibrary-Redimensionar-imagenes)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  037 |:heavy_check_mark: | [Libreria GDLibrary Redimensionar imagenes](#Libreria-GDLibrary-Redimensionar-imagenes)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  038 |:heavy_check_mark: | [Libreria GDLibrary Agregar una marca de agua](#Libreria-GDLibrary-Agregar-una-marca-de-agua)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  038 |:heavy_check_mark: | [Manipulacion de etiquetas HTML desde PHP](#Manipulacion-de-etiquetas-HTML-desde-PHP)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
-## Multimedia
 
+## Extra
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  A  |:heavy_check_mark: | [Play List PHP](#Spotify-PHP)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
@@ -1016,6 +1017,11 @@ Usar el valor que devuelve la funcion `time()` con el nombre del archivo
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |[Libreria GDLibrary Agregar una marca de agua ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Libreria%20GDLibrary%20Agregar%20una%20marca%20agua)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
+## Manipulacion de etiquetas HTML desde PHP
+
+| Carpeta                    | Link        |      Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|[Manipulacion de etiquetas HTML desde PHP ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Libreria%20GDLibrary%20Agregar%20una%20marca%20agua)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Spotify PHP
