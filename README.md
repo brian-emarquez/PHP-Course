@@ -1050,29 +1050,6 @@ Usar el valor que devuelve la funcion `time()` con el nombre del archivo
 
 ---
 
-## Book
-
-<table>
-  <tr>
-      <td>Name</td>
-      <td>Authors</td>
-      <td>Edition</td>
-      <td>ISBN</td>
-      <td>Link</td>
-      <td>Password</td>
-  </tr>
-
-  <tr>
-      <td>Building Front-End Web Apps with Plain JavaScript</td>
-      <td>Gerd Wagner</td>
-      <td> - </td>
-      <td>- </td>
-      <td><a href="https://web-engineering.info/tech/JsFrontendApp/book/">Building Front-End Web Apps with Plain JavaScript Online </a></td>
-      <td>i4wn</td>
-  </tr>
-
-</table>
-
 ## Spotify PHP
 🎵 Music PHP [List on Spotify 🎤](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
 
