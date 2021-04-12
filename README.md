@@ -1049,6 +1049,30 @@ Usar el valor que devuelve la funcion `time()` con el nombre del archivo
 |[Manipulacion de etiquetas HTML desde PHP ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Manipulacion%20de%20etiquetas%20HTML%20desde%20PHP)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
+
+## Book
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Authors</td>
+      <td>Edition</td>
+      <td>ISBN</td>
+      <td>Link</td>
+      <td>Password</td>
+  </tr>
+
+  <tr>
+      <td>Building Front-End Web Apps with Plain JavaScript</td>
+      <td>Gerd Wagner</td>
+      <td> - </td>
+      <td>- </td>
+      <td><a href="https://web-engineering.info/tech/JsFrontendApp/book/">Building Front-End Web Apps with Plain JavaScript Online </a></td>
+      <td>i4wn</td>
+  </tr>
+
+</table>
+
 ## Spotify PHP
 🎵 Music PHP [List on Spotify 🎤](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
 
@@ -1058,6 +1082,18 @@ Usar el valor que devuelve la funcion `time()` con el nombre del archivo
 
 ---
 
-<div align="center"><img src="./images/cell-hecatonico.gif"></div>
-
-
+ <table align="center">
+    <tr>
+      <td colspan="3">A</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <td>C</td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./images/cell-hecatonico.gif" /></td>
+        <td>E</td>
+      </tr>
+      <tr>
+      <td colspan="3">F</td>
+        <td>G</td>
+    </tr>
+</table>
