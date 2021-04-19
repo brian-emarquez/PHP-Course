@@ -33,7 +33,18 @@
 </P>
 
   
-![php](./images/php-bannner.gif)
+<!-- ![php](./images/php-bannner.gif) -->
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/php-bannner.gif" />
+      <h4> Paradigma: Multiparadigma: Programación Estructurada, imperativo, programación genérica </h4>
+    </td>
+  </tr>
+</table>
+   
+
 ## Tabla de contenidos
 
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
