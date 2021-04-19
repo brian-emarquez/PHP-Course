@@ -1063,7 +1063,7 @@ Usar el valor que devuelve la funcion `time()` con el nombre del archivo
 
 | Files                   | Link        |      Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|[Manipulacion de etiquetas HTML desde PHP ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Manipulacion%20de%20etiquetas%20HTML%20desde%20PHP)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+|[Manipulacion de etiquetas HTML desde PHP ](https://github.com/BrianMarquez3/PHP-Course/tree/main/040%20Manipulaci%C3%B3n%20de%20los%20contenidos%20de%20los%20String)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
 ---
@@ -1081,7 +1081,7 @@ _Calcula Cadenas de texto_
 
 | Files                   | Link        |      Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|[Manipulación de los contenidos de los String ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Manipulacion%20de%20etiquetas%20HTML%20desde%20PHP)          |      ✔️     | [⬅️Atras](#Continuation) | yes | yes | ✔️ |
+|[Manipulación de los contenidos de los String ](https://github.com/BrianMarquez3/PHP-Course/tree/main/041%20Recortar%20espacios%20en%20los%20String)          |      ✔️     | [⬅️Atras](#Continuation) | yes | yes | ✔️ |
 
 
 
@@ -1096,6 +1096,8 @@ _Calcula Cadenas de texto_
 
 
 - Si solo se quiere borrar de un solo lado del string, tenemos `Itrim()` para los espacio de la izquierda y `rtrim()` para los de la derecha.
+
+![php](./images/espacios.png)
 
 
 | Files                   | Link        |      Home   |  Code       | Version      | Estado     |
