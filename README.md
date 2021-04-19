@@ -1070,6 +1070,9 @@ Usar el valor que devuelve la funcion `time()` con el nombre del archivo
 
 ## Manipulación de los contenidos de los String
 
+![php](./images/buscar.png)
+
+
 | Carpeta                    | Link        |      Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |[Manipulación de los contenidos de los String ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Manipulacion%20de%20etiquetas%20HTML%20desde%20PHP)          |      ✔️     | [⬅️Atras](#ontinuation) | yes | yes | ✔️ |

@@ -6,3 +6,5 @@ Calcula Cadenas de texto
 
 - De la misma manera podemos obtener la cantidad de palabras que hay en una oracion por medio de `str_word_count($texto)`
 
+
+![php](../images/buscar.png)
