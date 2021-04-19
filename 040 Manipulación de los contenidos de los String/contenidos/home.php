@@ -1,8 +1,20 @@
 <h1>Homepage</h1>
 <section id="posts">
-	<h2>Últimos Posts</h2>
-	<ul>
 	
+	<?php 
+	if (isset($_GET['buscar'])){
+		$item = $_GET['buscar'];
+		if(strlen($item) < 4){
+			echo "<p class=error> La cantidad minima de caracteres debe ser 4 </p> ";
+		}else{
+			echo "<p class=info> Resultados para $item </p> ";
+		}
+	}
+	?>
+
+	<h2>Últimos Posts</h2>
+
+	<ul>
 	<?php 
 	/*
 		<li>
