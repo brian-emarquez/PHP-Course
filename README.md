@@ -89,7 +89,14 @@
 (#Libreria-GDLibrary-Redimensionar-imagenes)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  037 |:heavy_check_mark: | [Libreria GDLibrary Redimensionar imagenes](#Libreria-GDLibrary-Redimensionar-imagenes)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  038 |:heavy_check_mark: | [Libreria GDLibrary Agregar una marca de agua](#Libreria-GDLibrary-Agregar-una-marca-de-agua)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  038 |:heavy_check_mark: | [Manipulacion de etiquetas HTML desde PHP](#Manipulacion-de-etiquetas-HTML-desde-PHP)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  039 |:heavy_check_mark: | [Manipulacion de etiquetas HTML desde PHP](#Manipulacion-de-etiquetas-HTML-desde-PHP)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
+
+## Continuation
+| Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  040 |:heavy_check_mark: | [Manipulación de los contenidos de los String](#Manipulación-de-los-contenidos-de-los-String)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
 
 
 ## Extra
@@ -1057,6 +1064,15 @@ Usar el valor que devuelve la funcion `time()` con el nombre del archivo
 | Carpeta                    | Link        |      Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |[Manipulacion de etiquetas HTML desde PHP ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Manipulacion%20de%20etiquetas%20HTML%20desde%20PHP)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
+---
+
+## Manipulación de los contenidos de los String
+
+| Carpeta                    | Link        |      Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|[Manipulación de los contenidos de los String ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Manipulacion%20de%20etiquetas%20HTML%20desde%20PHP)          |      ✔️     | [⬅️Atras](#ontinuation) | yes | yes | ✔️ |
 
 ---
 
