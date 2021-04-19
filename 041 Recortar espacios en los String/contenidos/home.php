@@ -4,6 +4,7 @@
 	<?php 
 	if (isset($_GET['buscar'])){
 		$item = $_GET['buscar'];
+		$item = trim($item);
 		if(strlen($item) < 4){
 			echo "<p class=error> La cantidad minima de caracteres debe ser 4 </p> ";
 		}else{

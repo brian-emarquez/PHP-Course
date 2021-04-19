@@ -96,7 +96,7 @@
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  040 |:heavy_check_mark: | [Manipulación de los contenidos de los String](#Manipulación-de-los-contenidos-de-los-String)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-
+|  041 |:heavy_check_mark: | [Recortar espacios en los String](#Recortar-espacios-en-los-Stringg)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ## Extra
@@ -1061,7 +1061,7 @@ Usar el valor que devuelve la funcion `time()` con el nombre del archivo
 `htmlentities($texto)`
 
 
-| Carpeta                    | Link        |      Home   |  Code       | Version      | Estado     |
+| Files                   | Link        |      Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |[Manipulacion de etiquetas HTML desde PHP ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Manipulacion%20de%20etiquetas%20HTML%20desde%20PHP)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
@@ -1070,12 +1070,41 @@ Usar el valor que devuelve la funcion `time()` con el nombre del archivo
 
 ## Manipulación de los contenidos de los String
 
+
+_Calcula Cadenas de texto_
+
+- Podemos saber si la cantidad de caracteres que tiene un string por medio de la funcion `strlen($texto)`
+
+- De la misma manera podemos obtener la cantidad de palabras que hay en una oracion por medio de `str_word_count($texto)`
+
 ![php](./images/buscar.png)
 
-
-| Carpeta                    | Link        |      Home   |  Code       | Version      | Estado     |
+| Files                   | Link        |      Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|[Manipulación de los contenidos de los String ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Manipulacion%20de%20etiquetas%20HTML%20desde%20PHP)          |      ✔️     | [⬅️Atras](#ontinuation) | yes | yes | ✔️ |
+|[Manipulación de los contenidos de los String ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Manipulacion%20de%20etiquetas%20HTML%20desde%20PHP)          |      ✔️     | [⬅️Atras](#Continuation) | yes | yes | ✔️ |
+
+
+
+## Recortar espacios en los String
+
+
+ _Eliminar espacio Extra_
+
+ - Cuando escribimo es un textoarea o un input de tiepo text es posible que generemos espacios de mas antes o despues del contenido
+
+ - Por medio de la funcion `trim($texto)` eliminamos espacio que se encuentre por delante del primer y del ultimo caracteer ingresado
+
+
+- Si solo se quiere borrar de un solo lado del string, tenemos `Itrim()` para los espacio de la izquierda y `rtrim()` para los de la derecha.
+
+
+| Files                   | Link        |      Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|[Recortar espacios en los String ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Manipulacion%20de%20etiquetas%20HTML%20desde%20PHP)          |      ✔️     | [⬅️Atras](#Continuation) | yes | yes | ✔️ |
+
+
+
+
 
 ---
 

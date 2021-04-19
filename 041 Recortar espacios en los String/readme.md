@@ -1,7 +1,7 @@
 ### Recortar espacios en los String
 
 
- Eliminar espacio Extra
+ _Eliminar espacio Extra_
 
  - Cuando escribimo es un textoarea o un input de tiepo text es posible que generemos espacios de mas antes o despues del contenido
 

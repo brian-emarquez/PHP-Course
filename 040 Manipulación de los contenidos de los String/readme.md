@@ -1,6 +1,6 @@
 ### Manipulación de los contenidos de los String
 
-Calcula Cadenas de texto
+_Calcula Cadenas de texto_
 
 - Podemos saber si la cantidad de caracteres que tiene un string por medio de la funcion `strlen($texto)`
 
