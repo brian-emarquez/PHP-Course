@@ -38,7 +38,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/strpos.png" />
+      <img align="center" style="padding=0;" src="../images/strpos.png" />
     </td>
   </tr>
 </table>
@@ -1109,6 +1109,15 @@ _Calcula Cadenas de texto_
 
 
 ## Buscar y reemplazar cadenas de texto
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/strpos.png" />
+    </td>
+  </tr>
+</table>
+
 
 _Buscar en un String_
 
