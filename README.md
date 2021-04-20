@@ -1111,7 +1111,7 @@ _Calcula Cadenas de texto_
 
 | Files                   | Link        |      Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|[Buscar y reemplazar cadenas de texto ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Manipulacion%20de%20etiquetas%20HTML%20desde%20PHP)          |      ✔️     | [⬅️Atras](#Continuation) | yes | yes | ✔️ |
+|[Buscar y reemplazar cadenas de texto ](https://github.com/BrianMarquez3/PHP-Course/tree/main/042%20Buscar%20y%20reemplazar%20cadenas%20de%20texto)          |      ✔️     | [⬅️Atras](#Continuation) | yes | yes | ✔️ |
 
 
 ---
