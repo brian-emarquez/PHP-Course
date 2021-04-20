@@ -97,6 +97,8 @@
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  040 |:heavy_check_mark: | [Manipulación de los contenidos de los String](#Manipulación-de-los-contenidos-de-los-String)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  041 |:heavy_check_mark: | [Recortar espacios en los String](#Recortar-espacios-en-los-Stringg)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  042 |:heavy_check_mark: | [Buscar y reemplazar cadenas de texto](#Buscar-y-reemplazar-cadenas-de-texto)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+
 
 
 ## Extra
@@ -1105,7 +1107,11 @@ _Calcula Cadenas de texto_
 |[Recortar espacios en los String ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Manipulacion%20de%20etiquetas%20HTML%20desde%20PHP)          |      ✔️     | [⬅️Atras](#Continuation) | yes | yes | ✔️ |
 
 
+## Buscar y reemplazar cadenas de texto
 
+| Files                   | Link        |      Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|[Buscar y reemplazar cadenas de texto ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Manipulacion%20de%20etiquetas%20HTML%20desde%20PHP)          |      ✔️     | [⬅️Atras](#Continuation) | yes | yes | ✔️ |
 
 
 ---
