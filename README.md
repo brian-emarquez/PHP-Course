@@ -1171,7 +1171,7 @@ if(empty($preview)){
 
 | Files                   | Link        |      Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|[Generar subcadenas de texto ](https://github.com/BrianMarquez3/PHP-Course/tree/main/042%20Buscar%20y%20reemplazar%20cadenas%20de%20texto)          |      ✔️     | [⬅️Atras](#Continuation) | yes | yes | ✔️ |
+|[Generar subcadenas de texto ](https://github.com/BrianMarquez3/PHP-Course/tree/main/043%20Generar%20subcadenas%20de%20texto)          |      ✔️     | [⬅️Atras](#Continuation) | yes | yes | ✔️ |
 
 
 
