@@ -70,6 +70,7 @@ if(empty($preview)){
 	$preview = file_get_contents("$base/$carpeta/contenido.txt");
 	# Obtener un fragmento
 	$preview = substr( $preview, 0, 90); # empiesa de 0 y que de 100 caracteres
+	$preview = utf8_decode($preview); # para agregar formato de tisdes a texto
 	#$preview = tidy_parse_string($preview, array('show-body-only' => true)); # repara etiquetas mal cerradas
 }
 
