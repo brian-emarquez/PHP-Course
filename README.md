@@ -1106,9 +1106,9 @@ _Calcula Cadenas de texto_
 ![php](./images/espacios.png)
 
 
-| Files                   | Link        |      Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|[Recortar espacios en los String ](https://github.com/BrianMarquez3/PHP-Course/tree/main/Manipulacion%20de%20etiquetas%20HTML%20desde%20PHP)          |      ✔️     | [⬅️Atras](#Continuation) | yes | yes | ✔️ |
+|Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|040        | [Recortar espacios en los String](https://github.com/BrianMarquez3/PHP-Course/tree/main/Manipulacion%20de%20etiquetas%20HTML%20desde%20PHP)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 
 ## Buscar y reemplazar cadenas de texto
@@ -1137,9 +1137,9 @@ _Buscar en un String_
 
 
 
-| Files                   | Link        |      Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|[Buscar y reemplazar cadenas de texto ](https://github.com/BrianMarquez3/PHP-Course/tree/main/042%20Buscar%20y%20reemplazar%20cadenas%20de%20texto)          |      ✔️     | [⬅️Atras](#Continuation) | yes | yes | ✔️ |
+|Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|041        | [Buscar y reemplazar cadenas de texo](https://github.com/BrianMarquez3/PHP-Course/tree/main/042%20Buscar%20y%20reemplazar%20cadenas%20de%20texto)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 
 ## Generar subcadenas de texto
@@ -1172,22 +1172,25 @@ if(empty($preview)){
 }
 ```
 
-| Files                   | Link        |      Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|[Generar subcadenas de texto ](https://github.com/BrianMarquez3/PHP-Course/tree/main/043%20Generar%20subcadenas%20de%20texto)          |      ✔️     | [⬅️Atras](#Continuation) | yes | yes | ✔️ |
+
+|Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|042        | [Generar subcadenas de texto](https://github.com/BrianMarquez3/PHP-Course/tree/main/043%20Generar%20subcadenas%20de%20texto)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 
 ## Generar subcadenas de texto
 
-| Files                   | Link        |      Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|[Generar subcadenas de texto](https://github.com/BrianMarquez3/PHP-Course/tree/main/043%20Generar%20subcadenas%20de%20texto)          |      ✔️     | [⬅️Atras](#Continuation) | yes | yes | ✔️ |
+
+|Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|043        | [Generar subcadenas de texto](https://github.com/BrianMarquez3/PHP-Course/tree/main/043%20Generar%20subcadenas%20de%20texto)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+
 
 ## Formatear cadenas de texto
 
-| Files                   | Link        |      Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|[Formatear cadenas de texto ](https://github.com/BrianMarquez3/PHP-Course/tree/main/043%20Generar%20subcadenas%20de%20texto)          |      ✔️     | [⬅️Atras](#Continuation) | yes | yes | ✔️ |
+|Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|044        | [Formatear cadenas de texto](https://github.com/BrianMarquez3/PHP-Course/tree/main/044%20Formatear%20cadenas%20de%20texto)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 ---
 
