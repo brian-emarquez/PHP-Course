@@ -33,8 +33,6 @@
 </P>
 
   
-<!-- ![php](./images/php-bannner.gif) -->
-
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -42,9 +40,7 @@
     </td>
   </tr>
 </table>
-
-   
-
+ 
 ## Tabla de contenidos
 
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
@@ -87,7 +83,6 @@
 |  033 |:heavy_check_mark: | [Obtener informacion de los archivos](#Obtener-informacion-de-los-archivos)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  035 |:heavy_check_mark: | [Upload de archivos con formularios](#Upload-de-archivos-con-formularios)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  036 |:heavy_check_mark: | [Validación de los archivos subidos por formularios](#Validación-de-los-archivos-subidos-por-formularios)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-(#Libreria-GDLibrary-Redimensionar-imagenes)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  037 |:heavy_check_mark: | [Libreria GDLibrary Redimensionar imagenes](#Libreria-GDLibrary-Redimensionar-imagenes)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  038 |:heavy_check_mark: | [Libreria GDLibrary Agregar una marca de agua](#Libreria-GDLibrary-Agregar-una-marca-de-agua)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  039 |:heavy_check_mark: | [Manipulacion de etiquetas HTML desde PHP](#Manipulacion-de-etiquetas-HTML-desde-PHP)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
@@ -137,7 +132,13 @@ PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de códi
 
 <p>WampServer es un entorno de desarrollo web de Windows. Te permite crear aplicaciones web con Apache2, PHP y una base de datos MySQL. Además, PhpMyAdmin le permite administrar fácilmente sus bases de datos.</p>
 
-![php](./images/wamp.png)
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/wamp.png" />
+    </td>
+  </tr>
+</table>
 
 ## La Web Dinamica
  
