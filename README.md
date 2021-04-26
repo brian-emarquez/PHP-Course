@@ -94,6 +94,8 @@
 |  040 |:heavy_check_mark: | [Manipulación de los contenidos de los String](#Manipulación-de-los-contenidos-de-los-String)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  041 |:heavy_check_mark: | [Recortar espacios en los String](#Recortar-espacios-en-los-Stringg)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  042 |:heavy_check_mark: | [Buscar y reemplazar cadenas de texto](#Buscar-y-reemplazar-cadenas-de-texto)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  043 |:heavy_check_mark: | [Generar subcadenas de texto](#Generar-subcadenas-de-texto)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  044 |:heavy_check_mark: | [Formatear cadenas de texto](#Formatear-cadenas-de-texto)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 
@@ -1175,7 +1177,17 @@ if(empty($preview)){
 |[Generar subcadenas de texto ](https://github.com/BrianMarquez3/PHP-Course/tree/main/043%20Generar%20subcadenas%20de%20texto)          |      ✔️     | [⬅️Atras](#Continuation) | yes | yes | ✔️ |
 
 
+## Generar subcadenas de texto
 
+| Files                   | Link        |      Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|[Generar subcadenas de texto](https://github.com/BrianMarquez3/PHP-Course/tree/main/043%20Generar%20subcadenas%20de%20texto)          |      ✔️     | [⬅️Atras](#Continuation) | yes | yes | ✔️ |
+
+## Formatear cadenas de texto
+
+| Files                   | Link        |      Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|[Formatear cadenas de texto ](https://github.com/BrianMarquez3/PHP-Course/tree/main/043%20Generar%20subcadenas%20de%20texto)          |      ✔️     | [⬅️Atras](#Continuation) | yes | yes | ✔️ |
 
 ---
 
