@@ -1192,6 +1192,7 @@ if(empty($preview)){
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |044        | [Formatear cadenas de texto](https://github.com/BrianMarquez3/PHP-Course/tree/main/044%20Formatear%20cadenas%20de%20texto)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
+
 ---
 
 ## Spotify PHP
@@ -1218,5 +1219,3 @@ if(empty($preview)){
         <td>G</td>
     </tr>
 </table>
-
-
