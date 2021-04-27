@@ -88,7 +88,7 @@
 |  039 |:heavy_check_mark: | [Manipulacion de etiquetas HTML desde PHP](#Manipulacion-de-etiquetas-HTML-desde-PHP)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  040 |:heavy_check_mark: | [Generar subcadenas de texto](#Generar-subcadenas-de-texto)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
-## Continuation
+## Programacion PHP
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  040 |:heavy_check_mark: | [Manipulación de los contenidos de los String](#Manipulación-de-los-contenidos-de-los-String)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
@@ -1087,7 +1087,7 @@ _Calcula Cadenas de texto_
 
 | Files                   | Link        |      Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|[Manipulación de los contenidos de los String ](https://github.com/BrianMarquez3/PHP-Course/tree/main/041%20Recortar%20espacios%20en%20los%20String)          |      ✔️     | [⬅️Atras](#Continuation) | yes | yes | ✔️ |
+|[Manipulación de los contenidos de los String ](https://github.com/BrianMarquez3/PHP-Course/tree/main/041%20Recortar%20espacios%20en%20los%20String)          |      ✔️     | [⬅️Atras](#Programacion-PHP) | yes | yes | ✔️ |
 
 
 
@@ -1108,7 +1108,7 @@ _Calcula Cadenas de texto_
 
 |Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|040        | [Recortar espacios en los String](https://github.com/BrianMarquez3/PHP-Course/tree/main/Manipulacion%20de%20etiquetas%20HTML%20desde%20PHP)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+|040        | [Recortar espacios en los String](https://github.com/BrianMarquez3/PHP-Course/tree/main/Manipulacion%20de%20etiquetas%20HTML%20desde%20PHP)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
 
 
 ## Buscar y reemplazar cadenas de texto
@@ -1139,7 +1139,7 @@ _Buscar en un String_
 
 |Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|041        | [Buscar y reemplazar cadenas de texo](https://github.com/BrianMarquez3/PHP-Course/tree/main/042%20Buscar%20y%20reemplazar%20cadenas%20de%20texto)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+|041        | [Buscar y reemplazar cadenas de texo](https://github.com/BrianMarquez3/PHP-Course/tree/main/042%20Buscar%20y%20reemplazar%20cadenas%20de%20texto)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
 
 
 ## Generar subcadenas de texto
@@ -1175,7 +1175,7 @@ if(empty($preview)){
 
 |Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|042        | [Generar subcadenas de texto](https://github.com/BrianMarquez3/PHP-Course/tree/main/043%20Generar%20subcadenas%20de%20texto)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+|042        | [Generar subcadenas de texto](https://github.com/BrianMarquez3/PHP-Course/tree/main/043%20Generar%20subcadenas%20de%20texto)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
 
 
 ## Generar subcadenas de texto
@@ -1183,15 +1183,14 @@ if(empty($preview)){
 
 |Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|043        | [Generar subcadenas de texto](https://github.com/BrianMarquez3/PHP-Course/tree/main/043%20Generar%20subcadenas%20de%20texto)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+|043        | [Generar subcadenas de texto](https://github.com/BrianMarquez3/PHP-Course/tree/main/043%20Generar%20subcadenas%20de%20texto)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
 
 
 ## Formatear cadenas de texto
 
 |Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|044        | [Formatear cadenas de texto](https://github.com/BrianMarquez3/PHP-Course/tree/main/044%20Formatear%20cadenas%20de%20texto)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
-
+|044        | [Formatear cadenas de texto](https://github.com/BrianMarquez3/PHP-Course/tree/main/044%20Formatear%20cadenas%20de%20texto)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
 
 
 ## Espresiones Regulares
@@ -1242,7 +1241,7 @@ Devolvera el numero 1 si el string coincide contrar el patron y 0 de no ser asi.
 
 |Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|045        | [Espresiones Regulares](https://github.com/BrianMarquez3/PHP-Course/tree/main/045%20Espresiones%20Regulares)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+|045        | [Espresiones Regulares](https://github.com/BrianMarquez3/PHP-Course/tree/main/045%20Espresiones%20Regulares)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
 
 ---
 
