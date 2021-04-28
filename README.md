@@ -97,7 +97,6 @@
 |  043 |:heavy_check_mark: | [Generar subcadenas de texto](#Generar-subcadenas-de-texto)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  044 |:heavy_check_mark: | [Formatear cadenas de texto](#Formatear-cadenas-de-texto)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  045 |:heavy_check_mark: | [Espresiones Regulares](#Espresiones-Regulares)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  046 |:heavy_check_mark: | [Espresiones Regulares](#Espresiones-Regulares-II)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ## Extra
@@ -1243,6 +1242,13 @@ Devolvera el numero 1 si el string coincide contrar el patron y 0 de no ser asi.
 |Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |045        | [Espresiones Regulares](https://github.com/BrianMarquez3/PHP-Course/tree/main/045%20Espresiones%20Regulares)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|        | [Espresiones Regulares II](https://github.com/BrianMarquez3/PHP-Course/tree/main/045%20Espresiones%20Regulares)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|       | [Espresiones Regulares III](https://github.com/BrianMarquez3/PHP-Course/tree/main/045%20Espresiones%20Regulares)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|       | [Espresiones Regulares IV](https://github.com/BrianMarquez3/PHP-Course/tree/main/045%20Espresiones%20Regulares)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|       | [Espresiones Regulares V](https://github.com/BrianMarquez3/PHP-Course/tree/main/045%20Espresiones%20Regulares)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|       | [Espresiones Regulares VI](https://github.com/BrianMarquez3/PHP-Course/tree/main/045%20Espresiones%20Regulares)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|       | [Espresiones Regulares VII](https://github.com/BrianMarquez3/PHP-Course/tree/main/045%20Espresiones%20Regulares)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+
 
 ---
 
