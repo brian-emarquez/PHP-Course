@@ -13,4 +13,7 @@ _Caracteres de sustitución_
 
 . Si se quere el punto como valor (y no como `cualquie cosa`) se debe escapar anteponiendo la contrabarra por delante -> "foto\.jpg"
 
+_Distintas opciones posibles_
+
+- Si nueustras expresiones regular debe aceptar distintas palabras o mas de un patron como parte de sus opciones se deben agrupar entre corchetes.
 
