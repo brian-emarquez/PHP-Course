@@ -97,6 +97,7 @@
 |  043 |:heavy_check_mark: | [Generar subcadenas de texto](#Generar-subcadenas-de-texto)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  044 |:heavy_check_mark: | [Formatear cadenas de texto](#Formatear-cadenas-de-texto)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  045 |:heavy_check_mark: | [Espresiones Regulares](#Espresiones-Regulares)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  046 |:heavy_check_mark: | [Espresiones Regulares](#Espresiones-Regulares-II)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ## Extra
@@ -1244,6 +1245,14 @@ Devolvera el numero 1 si el string coincide contrar el patron y 0 de no ser asi.
 |045        | [Espresiones Regulares](https://github.com/BrianMarquez3/PHP-Course/tree/main/045%20Espresiones%20Regulares)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
 
 ---
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/phpEnd.jpg" />
+    </td>
+  </tr>
+</table>
 
 ## Spotify PHP
 🎵 Music PHP [List on Spotify 🎤](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
