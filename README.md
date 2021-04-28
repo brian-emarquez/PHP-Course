@@ -1242,12 +1242,12 @@ Devolvera el numero 1 si el string coincide contrar el patron y 0 de no ser asi.
 |Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |045        | [Espresiones Regulares](https://github.com/BrianMarquez3/PHP-Course/tree/main/045%20Espresiones%20Regulares)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
-|        | [Espresiones Regulares II](https://github.com/BrianMarquez3/PHP-Course/tree/main/046%20Espresiones%20Regulares_II)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
-|       | [Espresiones Regulares III](https://github.com/BrianMarquez3/PHP-Course/tree/main/047%20Espresiones%20Regulares_III)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
-|       | [Espresiones Regulares IV](https://github.com/BrianMarquez3/PHP-Course/tree/main/048%20Espresiones%20Regulares_IV)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
-|       | [Espresiones Regulares V](https://github.com/BrianMarquez3/PHP-Course/tree/main/049%20Espresiones%20Regulares_V)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
-|       | [Espresiones Regulares VI](https://github.com/BrianMarquez3/PHP-Course/tree/main/050%20Espresiones%20Regulares_VI)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
-|       | [Espresiones Regulares VII](https://github.com/BrianMarquez3/PHP-Course/tree/main/01%20Espresiones%20Regulares_VII)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|   046     | [Espresiones Regulares II](https://github.com/BrianMarquez3/PHP-Course/tree/main/046%20Espresiones%20Regulares_II)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|   047   | [Espresiones Regulares III](https://github.com/BrianMarquez3/PHP-Course/tree/main/047%20Espresiones%20Regulares_III)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|   048  | [Espresiones Regulares IV](https://github.com/BrianMarquez3/PHP-Course/tree/main/048%20Espresiones%20Regulares_IV)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|   049  | [Espresiones Regulares V](https://github.com/BrianMarquez3/PHP-Course/tree/main/049%20Espresiones%20Regulares_V)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|   050   | [Espresiones Regulares VI](https://github.com/BrianMarquez3/PHP-Course/tree/main/050%20Espresiones%20Regulares_VI)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|   051    | [Espresiones Regulares VII](https://github.com/BrianMarquez3/PHP-Course/tree/main/01%20Espresiones%20Regulares_VII)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
 
 
 ---
