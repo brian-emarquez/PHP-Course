@@ -89,6 +89,7 @@
 |  040 |:heavy_check_mark: | [Generar subcadenas de texto](#Generar-subcadenas-de-texto)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ## Programacion PHP
+
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  040 |:heavy_check_mark: | [Manipulación de los contenidos de los String](#Manipulación-de-los-contenidos-de-los-String)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
@@ -97,6 +98,12 @@
 |  043 |:heavy_check_mark: | [Generar subcadenas de texto](#Generar-subcadenas-de-texto)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  044 |:heavy_check_mark: | [Formatear cadenas de texto](#Formatear-cadenas-de-texto)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  045-051 |:heavy_check_mark: | [Espresiones Regulares](#Espresiones-Regulares)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+
+## Bases de DATOS
+
+| Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  052 |:heavy_check_mark: | [Bases de Datos](#Bases-de-Datos)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 
 ## Extra
@@ -1248,6 +1255,43 @@ Devolvera el numero 1 si el string coincide contrar el patron y 0 de no ser asi.
 |   049  | [Espresiones Regulares V](https://github.com/BrianMarquez3/PHP-Course/tree/main/049%20Espresiones%20Regulares_V)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
 |   050   | [Espresiones Regulares VI](https://github.com/BrianMarquez3/PHP-Course/tree/main/050%20Espresiones%20Regulares_VI)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
 |   051    | [Espresiones Regulares VII](https://github.com/BrianMarquez3/PHP-Course/tree/main/01%20Espresiones%20Regulares_VII)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+
+
+## Bases de Datos
+
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/bd.jpg" />
+    </td>
+  </tr>
+</table>
+
+
+_usuario Web_
+
+- Toda platadorma o sistema que interactua con la base de datos involucra 4 tipos de usuario diferentes
+
+<table>
+
+  <tr>
+    <td>ANONIMO</td>
+    <td>REGISTRADO</td>
+    <td>ADMINISTRADOR</td>
+    <td>DB ADMIN</td>
+  </tr>
+
+  <tr>
+    <td>Navega por la paginaweb, pero no sabemos quien es, ni desde donde se conecta. no se puede interactual como el sistema</td>
+    <td>Se dio de alta usando un formulario y quedo almacenado en el SQL. todo lo que es con PHP cosultando el SQL</td>
+    <td>Tmbien es un usuario registrado en la db , tambien accede al SQL usando PHP pero tiene permisos adicionales
+    </td>
+    <td>El programador accede al SQL sin usar PHP sino con herramietas de desarrollo, programa los php.</td>
+  </tr>
+</table>
+
+
 
 
 ---
