@@ -96,7 +96,7 @@
 |  042 |:heavy_check_mark: | [Buscar y reemplazar cadenas de texto](#Buscar-y-reemplazar-cadenas-de-texto)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  043 |:heavy_check_mark: | [Generar subcadenas de texto](#Generar-subcadenas-de-texto)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  044 |:heavy_check_mark: | [Formatear cadenas de texto](#Formatear-cadenas-de-texto)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  045 |:heavy_check_mark: | [Espresiones Regulares](#Espresiones-Regulares)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  045-051 |:heavy_check_mark: | [Espresiones Regulares](#Espresiones-Regulares)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ## Extra
