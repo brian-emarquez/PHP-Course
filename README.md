@@ -1268,29 +1268,6 @@ Devolvera el numero 1 si el string coincide contrar el patron y 0 de no ser asi.
   </tr>
 </table>
 
-
-_usuario Web_
-
-- Toda platadorma o sistema que interactua con la base de datos involucra 4 tipos de usuario diferentes
-
-<table>
-
-  <tr>
-    <td>ANONIMO</td>
-    <td>REGISTRADO</td>
-    <td>ADMINISTRADOR</td>
-    <td>DB ADMIN</td>
-  </tr>
-
-  <tr>
-    <td>Navega por la paginaweb, pero no sabemos quien es, ni desde donde se conecta. no se puede interactual como el sistema</td>
-    <td>Se dio de alta usando un formulario y quedo almacenado en el SQL. todo lo que es con PHP cosultando el SQL</td>
-    <td>Tmbien es un usuario registrado en la db , tambien accede al SQL usando PHP pero tiene permisos adicionales
-    </td>
-    <td>El programador accede al SQL sin usar PHP sino con herramietas de desarrollo, programa los php.</td>
-  </tr>
-</table>
-
 |Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |052        | [Bases de Datos](https://github.com/BrianMarquez3/PHP-Course/tree/main/052%20Servidor%20de%20Base%20de%20Datos)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
