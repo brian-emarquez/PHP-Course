@@ -99,7 +99,7 @@
 |  044 |:heavy_check_mark: | [Formatear cadenas de texto](#Formatear-cadenas-de-texto)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  045-051 |:heavy_check_mark: | [Espresiones Regulares](#Espresiones-Regulares)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
-## Bases de DATOS
+## Bases de Datos
 
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
