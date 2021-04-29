@@ -1259,7 +1259,6 @@ Devolvera el numero 1 si el string coincide contrar el patron y 0 de no ser asi.
 
 ## Bases de Datos
 
-
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
