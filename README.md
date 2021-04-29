@@ -1297,7 +1297,7 @@ Devolvera el numero 1 si el string coincide contrar el patron y 0 de no ser asi.
       </tr>
       <tr>
         <td>C</td>
-      <td colspan="2"><img align="center" style="padding=0;" src="./images/cell-hecatonico.gif" /></td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./images/circle.gif" /></td>
         <td>E</td>
       </tr>
       <tr>
