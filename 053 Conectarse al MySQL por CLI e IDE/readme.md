@@ -41,6 +41,9 @@
 
 - Es un micrositio hecho en php, que lo tienen instalado en la mayoria de hostings.
 
+*User: root
+*Password: 
+
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -48,4 +51,34 @@
     </td>
   </tr>
 </table>
+
  
+ <table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/PHPmyadmin-Home.png" />
+    </td>
+  </tr>
+</table>
+
+### Software de manipulacion
+
+- Los Programas instalables es las PC del usuario logicamente mas agiles y pueden ofrecer herramientas visuales mas intuitivas.
+
+- [DBeaver Comunity](https://dbeaver.io/)
+
+ <table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/DBeaver.png" />
+    </td>
+  </tr>
+</table>
+
+ <table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/PHPmyadmin-Home.png" />
+    </td>
+  </tr>
+</table>
