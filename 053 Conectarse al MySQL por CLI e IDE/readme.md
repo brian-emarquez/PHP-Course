@@ -1,6 +1,6 @@
 ### Conectarse al SQL
 
-- CoMO Ya sabemos la base de datos es un servicio que tiene una capa de seguridad en el acceso.
+- Como ya sabemos la base de datos es un servicio que tiene una capa de seguridad en el acceso.
 
 - La herramienta DBA y PHP, deberan autentificarse para interactual con el SQL.
 - Eso se hace con un usuario y clave que es propio del servicio
