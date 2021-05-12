@@ -9,5 +9,5 @@
 - Se asume que por cada plataforma a desarrollar necesitamos un base de datos, por lo cual vamos a crear un test.
 
 ´´´sql
-create new database
+  create new database
 ´´´
