@@ -1368,7 +1368,7 @@ Devolvera el numero 1 si el string coincide contrar el patron y 0 de no ser asi.
 
 |Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|054        | [Tablas y columnas de una base de datos](https://github.com/BrianMarquez3/PHP-Course/tree/main/053%20Conectarse%20al%20MySQL%20por%20CLI%20e%20IDE)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|054        | [Tablas y columnas de una base de datos](https://github.com/BrianMarquez3/PHP-Course/tree/main/054%20Tablas%20y%20Columnas%20de%20una%20base%20de%20datos)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
 
 ---
 
