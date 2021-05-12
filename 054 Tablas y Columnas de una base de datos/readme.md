@@ -11,11 +11,11 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/phpEnd.jpg" />
+      <img align="center" style="padding=0;" src="../images/ConexionDb.png" />
     </td>
   </tr>
 </table>
 
-```js
+```sql
   create new database
-´´´
+```
