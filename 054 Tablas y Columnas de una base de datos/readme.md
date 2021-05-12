@@ -29,4 +29,12 @@ _Crear tabla_
 
 - El `collation` son todas las reglas internas del motor a la hroa de comprar los carcteres.
 
-  >Si la comparacion será case sensitive( todos lo sufijos _cs)
+  > Si la comparacion será case sensitive( todos lo sufijos_cs)
+
+### UTF8
+
+- El conjunto de caracteres `utf8mb4` es el que ofrece 4 bytes pro simbolo, ideal para los contenidos actuales en internet.
+
+### Tablas
+
+- a la hora de crear tablas , debemos definir el listado de columnas que representan la informacion que vamos a manipular
