@@ -16,6 +16,17 @@
   </tr>
 </table>
 
+
+_Crear tabla_
 ```sql
   create new database
 ```
+
+## Character set y Collation
+
+- El `character set` es el conjunto de caracteres a usar, es equivalente al <meta charset="" /> de html.
+- E suan traduccion interna del motor , de cada simbolo al codigo que lo representa.
+
+- El `collation` son todas las reglas internas del motor a la hroa de comprar los carcteres.
+
+  >Si la comparacion será case sensitive( todos lo sufijos _cs)
