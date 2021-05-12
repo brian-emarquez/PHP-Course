@@ -8,6 +8,15 @@
 
 - Se asume que por cada plataforma a desarrollar necesitamos un base de datos, por lo cual vamos a crear un test.
 
-´´´sql
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/phpEnd.jpg" />
+    </td>
+  </tr>
+</table>
+
+
+´´´
   create new database
 ´´´

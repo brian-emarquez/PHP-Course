@@ -1370,15 +1370,8 @@ Devolvera el numero 1 si el string coincide contrar el patron y 0 de no ser asi.
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |054        | [Tablas y columnas de una base de datos](https://github.com/BrianMarquez3/PHP-Course/tree/main/054%20Tablas%20y%20Columnas%20de%20una%20base%20de%20datos)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
 
----
 
-<table align="center">
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/phpEnd.jpg" />
-    </td>
-  </tr>
-</table>
+
 
 ## Spotify PHP
 🎵 Music PHP [List on Spotify 🎤](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
