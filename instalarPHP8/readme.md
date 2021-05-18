@@ -24,3 +24,17 @@ _The latest supported Visual C++ downloads_
     </td>
   </tr>
 </table>
+
+_Descargar PHP 8_
+
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/PHP8.png" />
+    </td>
+  </tr>
+</table>
+
+
+(PHP )[https://windows.php.net/download/]
