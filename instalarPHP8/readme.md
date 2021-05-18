@@ -27,6 +27,7 @@ _The latest supported Visual C++ downloads_
 
 _Descargar PHP 8_
 
+[PHP](https://windows.php.net/download/)
 
 <table align="center">
   <tr>
@@ -36,5 +37,3 @@ _Descargar PHP 8_
   </tr>
 </table>
 
-
-(PHP )[https://windows.php.net/download/]
