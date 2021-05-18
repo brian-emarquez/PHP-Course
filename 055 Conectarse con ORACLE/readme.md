@@ -150,3 +150,11 @@ C:\wamp64\bin\php\php7.3.21\ext
     </td>
   </tr>
 </table>
+
+_Descargar Cliente Oracle_
+
+[Oracle Instant Client Downloads](https://www.oracle.com/database/technologies/instant-client/downloads.html)
+
+- Crear una carpeta llama Oracle en el disco C 
+- Pegar todo el contenido de la carpeta descargada
+- Agregar la ruta al Path
