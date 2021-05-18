@@ -108,11 +108,17 @@
 |  054 |:heavy_check_mark: | [Tablas-y-columnas-de-una-base-de-datos](#Tablas-y-columnas-de-una-base-de-datos)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  055 |:heavy_check_mark: | [Conectarse con ORACLE](#Conectarse-con-ORACLE)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
+## Doc
+
+| Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  A1 |:heavy_check_mark: | [Instalar PHP 8](#Instalar-PHP-8)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
 
 ## Extra
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  A  |:heavy_check_mark: | [Play List PHP](#Spotify-PHP)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  B1  |:heavy_check_mark: | [Play List PHP](#Spotify-PHP)  |  :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
 ![php](./images/php-2.png)
@@ -1464,6 +1470,14 @@ _Instalar, Ejecular y Conectarse a la Instancia_
 
 
 ---
+
+## Doc
+### Instalar PHP 8 
+
+|Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|A1       | [Instalar PHP 8 ](https://github.com/BrianMarquez3/PHP-Course/tree/main/055%20Conectarse%20con%20ORACLE)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+
 
 ## Spotify PHP
 🎵 Music PHP [List on Spotify 🎤](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
