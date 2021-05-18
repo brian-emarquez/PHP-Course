@@ -106,6 +106,7 @@
 |  052 |:heavy_check_mark: | [Bases de Datos](#Bases-de-Datos)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  053 |:heavy_check_mark: | [Conectarse al MySQL por CLI e IDE](#Conectarse-al-MySQL-por-CLI-e-IDE)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  054 |:heavy_check_mark: | [Tablas-y-columnas-de-una-base-de-datos](#Tablas-y-columnas-de-una-base-de-datos)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  055 |:heavy_check_mark: | [Conectarse con ORACLE](#Conectarse-con-ORACLE)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ## Extra
@@ -1370,8 +1371,11 @@ Devolvera el numero 1 si el string coincide contrar el patron y 0 de no ser asi.
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |054        | [Tablas y columnas de una base de datos](https://github.com/BrianMarquez3/PHP-Course/tree/main/054%20Tablas%20y%20Columnas%20de%20una%20base%20de%20datos)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
 
+## Conectarse con ORACLE
 
-
+|Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|055        | [Conectarse con ORACLE](https://github.com/BrianMarquez3/PHP-Course/tree/main/054%20Tablas%20y%20Columnas%20de%20una%20base%20de%20datos)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
 
 ## Spotify PHP
 🎵 Music PHP [List on Spotify 🎤](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
