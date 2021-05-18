@@ -37,3 +37,36 @@ _Descargar PHP 8_
   </tr>
 </table>
 
+
+
+### Metodo sin WampServer
+
+_ Descarga PHP_
+
+
+[PHP](https://windows.php.net/download/)
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/PHPnet.png" />
+    </td>
+  </tr>
+</table>
+
+
+_Ingresar a un proyecto PHP por consola y ejecutar lo siguiente_
+
+```php
+php -S localhost:8000
+```
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/PHPconsola.png" />
+    </td>
+  </tr>
+</table>
+
+
