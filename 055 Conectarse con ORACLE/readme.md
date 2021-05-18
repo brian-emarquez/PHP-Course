@@ -158,3 +158,12 @@ _Descargar Cliente Oracle_
 - Crear una carpeta llama Oracle en el disco C 
 - Pegar todo el contenido de la carpeta descargada
 - Agregar la ruta al Path
+- Reiniciar la PC
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/oci8.png" />
+    </td>
+  </tr>
+</table>
