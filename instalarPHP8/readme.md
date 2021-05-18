@@ -54,6 +54,15 @@ _ Descarga PHP_
   </tr>
 </table>
 
+_Agregar a variable de Entorno -Path_
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/path.png" />
+    </td>
+  </tr>
+</table>
 
 _Ingresar a un proyecto PHP por consola y ejecutar lo siguiente_
 
@@ -69,4 +78,13 @@ php -S localhost:8000
   </tr>
 </table>
 
+_Resuldao_
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/PHPresultado.png" />
+    </td>
+  </tr>
+</table>
 
