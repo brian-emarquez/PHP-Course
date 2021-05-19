@@ -110,6 +110,7 @@
 |  056 |:heavy_check_mark: | [Tipos de datos en MySQL](#Tipos-de-datos-en-MySQL)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  057 |:heavy_check_mark: | [Anchura del tipo de datos MySQL](#Anchura-del-tipo-de-datos-MySQL)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  058 |:heavy_check_mark: | [Atributo de las columnas en MSQL](#Atributo-de-las-columnas-en-MSQL)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  059 |:heavy_check_mark: | [Coneccion con MSQL](#Coneccion-con-MSQL)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ## Doc
 
@@ -1596,7 +1597,15 @@ if($Oracle ){
 
 |Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|057        | [Atributo de las columnas en MSQL](https://github.com/BrianMarquez3/PHP-Course/tree/main/058%20Atributos%20de%20las%20Columnas)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)|
+|058        | [Atributo de las columnas en MSQL](https://github.com/BrianMarquez3/PHP-Course/tree/main/058%20Atributos%20de%20las%20Columnas)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)|
+
+
+## Coneccion con MSQL
+
+|Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|059        | [Coneccion con MSQL](https://github.com/BrianMarquez3/PHP-Course/tree/main/059%20Conectarse%20con%20MySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)|
+
 
 ---
 
