@@ -16,3 +16,4 @@
 Unicamente es obligatorio en char, varcharm float y el resto de los tipo de datos si bien lo aceptan no es requerido.
 
 - En las Fechas bi aw swbw indicar
+- En los casos de Aray(set y num) los parentesis se usan para definir (separados por coma) las opciones disponibles
