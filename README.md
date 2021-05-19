@@ -1596,7 +1596,7 @@ if($Oracle ){
 
 |Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|057        | [Atributo de las columnas en MSQL](https://github.com/BrianMarquez3/PHP-Course/tree/main/057%20Anchura%20del%20tipo%20de%20datos%20MySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)|
+|057        | [Atributo de las columnas en MSQL](https://github.com/BrianMarquez3/PHP-Course/tree/main/058%20Atributos%20de%20las%20Columnas)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)|
 
 ---
 
