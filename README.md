@@ -1581,7 +1581,7 @@ if($Oracle ){
 
 |Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|055        | [Tipos de datos en MySQL](https://github.com/BrianMarquez3/PHP-Course/tree/main/055%20Conectarse%20con%20ORACLE)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|055        | [Tipos de datos en MySQL](https://github.com/BrianMarquez3/PHP-Course/tree/main/056%20Tipos%20de%20datos%20en%20MySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
 
 
 ---
