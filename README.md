@@ -1,5 +1,5 @@
 
-<h2 align="center"> Learn PHP- MySQL Beginner To Advanced | PHP - MySQL Training 🐘&nbsp;</h2>
+<h2 align="center"> Learn PHP - MySQL Beginner To Advanced | PHP - MySQL Training 🐘&nbsp;</h2>
 
 <p align="center">
   
