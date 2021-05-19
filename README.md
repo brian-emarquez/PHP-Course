@@ -1,5 +1,5 @@
 
-<h2 align="center"> Learn PHP Beginner To Advanced | PHP Course 🐘&nbsp;</h2>
+<h2 align="center"> Learn PHP- MySQL Beginner To Advanced | PHP - MySQL Training 🐘&nbsp;</h2>
 
 <p align="center">
   
@@ -1582,8 +1582,13 @@ if($Oracle ){
 
 |Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|056        | [Anchura del tipo de datos MySQL](https://github.com/BrianMarquez3/PHP-Course/tree/main/056%20Tipos%20de%20datos%20en%20MySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|056        | [Anchura del tipo de datos MySQL](https://github.com/BrianMarquez3/PHP-Course/tree/main/057%20Anchura%20del%20tipo%20de%20datos%20MySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
 
+## Anchura del tipo de datos MySQL
+
+|Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|057        | [Anchura del tipo de datos MySQL](https://github.com/BrianMarquez3/PHP-Course/tree/main/057%20Anchura%20del%20tipo%20de%20datos%20MySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
 
 ---
 
