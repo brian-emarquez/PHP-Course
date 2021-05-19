@@ -109,6 +109,7 @@
 |  055 |:heavy_check_mark: | [Conectarse con ORACLE](#Conectarse-con-ORACLE)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  056 |:heavy_check_mark: | [Tipos de datos en MySQL](#Tipos-de-datos-en-MySQL)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  057 |:heavy_check_mark: | [Anchura del tipo de datos MySQL](#Anchura-del-tipo-de-datos-MySQL)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  058 |:heavy_check_mark: | [Atributo de las columnas en MSQL](#Atributo-de-las-columnas-en-MSQL)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ## Doc
 
@@ -1576,21 +1577,30 @@ if($Oracle ){
 
 |Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|055        | [Conectarse con ORACLE](https://github.com/BrianMarquez3/PHP-Course/tree/main/055%20Conectarse%20con%20ORACLE)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|055        | [Conectarse con ORACLE](https://github.com/BrianMarquez3/PHP-Course/tree/main/055%20Conectarse%20con%20ORACLE)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)|
 
 ## Tipos de datos en MySQL
 
 |Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|056        | [Anchura del tipo de datos MySQL](https://github.com/BrianMarquez3/PHP-Course/tree/main/057%20Anchura%20del%20tipo%20de%20datos%20MySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|056        | [Anchura del tipo de datos MySQL](https://github.com/BrianMarquez3/PHP-Course/tree/main/057%20Anchura%20del%20tipo%20de%20datos%20MySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)|
 
 ## Anchura del tipo de datos MySQL
 
 |Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|057        | [Anchura del tipo de datos MySQL](https://github.com/BrianMarquez3/PHP-Course/tree/main/057%20Anchura%20del%20tipo%20de%20datos%20MySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|057        | [Anchura del tipo de datos MySQL](https://github.com/BrianMarquez3/PHP-Course/tree/main/057%20Anchura%20del%20tipo%20de%20datos%20MySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)|
+
+
+## Atributo de las columnas en MSQL
+
+|Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|057        | [Atributo de las columnas en MSQL](https://github.com/BrianMarquez3/PHP-Course/tree/main/057%20Anchura%20del%20tipo%20de%20datos%20MySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)|
 
 ---
+
+## Atributo de las columnas en MSQL
 
 ## Doc
 ### Instalar PHP 8 
