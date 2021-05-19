@@ -1,0 +1,1 @@
+### Anchura del tipo de datos MySQL

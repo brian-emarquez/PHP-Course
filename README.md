@@ -108,6 +108,7 @@
 |  054 |:heavy_check_mark: | [Tablas-y-columnas-de-una-base-de-datos](#Tablas-y-columnas-de-una-base-de-datos)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  055 |:heavy_check_mark: | [Conectarse con ORACLE](#Conectarse-con-ORACLE)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  056 |:heavy_check_mark: | [Tipos de datos en MySQL](#Tipos-de-datos-en-MySQL)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  057 |:heavy_check_mark: | [Anchura del tipo de datos MySQL](#Anchura-del-tipo-de-datos-MySQL)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ## Doc
 
@@ -1581,7 +1582,7 @@ if($Oracle ){
 
 |Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|055        | [Tipos de datos en MySQL](https://github.com/BrianMarquez3/PHP-Course/tree/main/056%20Tipos%20de%20datos%20en%20MySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|056        | [Anchura del tipo de datos MySQL](https://github.com/BrianMarquez3/PHP-Course/tree/main/056%20Tipos%20de%20datos%20en%20MySQL)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
 
 
 ---
