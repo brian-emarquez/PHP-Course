@@ -1616,8 +1616,33 @@ if($Oracle ){
 
 |Numeration | File        | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------|:------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|A1       | [Instalar PHP 8 ](https://github.com/BrianMarquez3/PHP-Course/tree/main/instalarPHP8)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)
+|A1       | [Instalar PHP 8 ](https://github.com/BrianMarquez3/PHP-Course/tree/main/instalarPHP8)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-PHP)|
 
+---
+
+## Books
+
+<table>
+  <tr>
+      <td>Server</td>
+      <td>Name</td>
+      <td>Authors</td>
+      <td>Editorial</td>
+      <td>ISBN</td>
+      <td>Link</td>
+  </tr>
+
+   <tr>
+      <td>OneDrive</td>
+      <td>Learning PHP, MySQL, JavaScript, CSS & HTML5</td>
+      <td>Robin Nixon</td>
+      <td>O'REILLY</td>
+      <td>978-1491949467</td>
+      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/Eb1jOQmcFW5NgyCd4OuF7pABebnIRWpY4GfNCxW0Y99R6w?e=d8he24">Learning PHP, MySQL, JavaScript, CSS & HTML5</a></td>
+  </tr>
+</table>
+
+---
 
 ## Spotify PHP
 🎵 Music PHP [List on Spotify 🎤](https://open.spotify.com/playlist/1npVE06BugI94aziBCozO1?si=okfjVV9CRF2Xjji-v66WFw)
